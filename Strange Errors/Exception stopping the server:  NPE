@@ -1,0 +1,80 @@
+Issue is current as of 10.2025
+
+
+```
+[22:56:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:56:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:56:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:56:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'del'/overworld
+[22:56:50] [Netty Local Client IO #0/INFO] [FluxNetworks]: FluxNetworkData has been unloaded
+[22:56:50] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: The save is being accessed from another location, aborting
+[22:56:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'del'/Storage Cell
+[22:56:50] [Netty Local Client IO #0/INFO] [waterstrainer]: Importing waterstrainer_loottables.cfg ...
+[22:56:50] [Netty Local Client IO #0/INFO] [waterstrainer]: No errors were found!
+[22:56:50] [Server thread/ERROR] [FML]: Exception caught during firing event net.minecraftforge.event.world.WorldEvent$Unload@204d20db:
+java.lang.NullPointerException: null
+	at net.minecraftforge.common.ForgeChunkManager.unloadWorld(ForgeChunkManager.java:631) ~[ForgeChunkManager.class:14.23.5.2860]
+	at net.minecraftforge.common.ForgeInternalHandler.onDimensionUnload(ForgeInternalHandler.java:82) ~[ForgeInternalHandler.class:14.23.5.2860]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_835_ForgeInternalHandler_onDimensionUnload_Unload.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:452) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.stopServer(IntegratedServer.java:372) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:579) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_392]
+[22:56:50] [Server thread/ERROR] [FML]: Index: 1 Listeners:
+[22:56:50] [Server thread/ERROR] [FML]: 0: HIGHEST
+[22:56:50] [Server thread/ERROR] [FML]: 1: ASM: net.minecraftforge.common.ForgeInternalHandler@33aa56c6 onDimensionUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 2: HIGH
+[22:56:50] [Server thread/ERROR] [FML]: 3: ASM: aroma1997.tatw.feuseseu.block.FETileEventListener@7a47d36e worldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 4: NORMAL
+[22:56:50] [Server thread/ERROR] [FML]: 5: ASM: class gregtech.api.util.TaskScheduler onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 6: ASM: class gregtech.common.EventHandlers onWorldUnloadEvent(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 7: ASM: class gregtech.client.event.ClientEventHandler onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 8: ASM: class net.geforcemods.securitycraft.SCEventHandler onLevelUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 9: ASM: class info.u_team.u_team_core.tileentity.UTileEntityAsyncUpdate on(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 10: ASM: class logictechcorp.netherex.handler.WorldHandler onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 11: ASM: ic2.core.IC2@6931a1ed onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 12: ASM: realdrops.handlers.EventHandler@46ca16d9 onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 13: ASM: com.mrcrayfish.furniture.proxy.ClientProxy@5bd28858 onClientWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 14: ASM: class buildcraft.lib.BCLibEventDist onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 15: ASM: micdoodle8.mods.galacticraft.core.tick.TickHandlerClient@543bf981 worldUnloadEvent(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 16: ASM: asmodeuscore.core.event.AsmodeusEvent@4435b122 onUnloadWorld(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 17: ASM: codechicken.enderstorage.network.TankSynchroniser@198e0ce0 onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 18: ASM: nc.multiblock.MultiblockHandler@2a4a9d71 onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 19: ASM: codechicken.wirelessredstone.handler.WREventHandler@6e4c95c7 onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 20: ASM: drzhark.mocreatures.event.MoCEventHooks@73297ed0 onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 21: ASM: cofh.thermaldynamics.util.TickHandler@6374bbd worldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 22: ASM: ic2.core.ChunkLoaderLogic@3095cac3 unloadWorld(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 23: ASM: com.zuxelus.energycontrol.ServerTickHandler@4a830137 onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 24: ASM: appeng.hooks.TickHandler@3fbc139b unloadWorld(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 25: ASM: li.cil.oc.common.EventHandler$@22a3de88 onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 26: ASM: li.cil.oc.common.item.Tablet$@3532ef14 onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 27: ASM: li.cil.oc.server.network.Waypoints$@404bb13d onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 28: ASM: li.cil.oc.server.network.WirelessNetwork$@3216d9c9 onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 29: ASM: li.cil.oc.client.ComponentTracker$@4cf11884 onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 30: ASM: li.cil.oc.server.ComponentTracker$@ec6c48a onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 31: ASM: li.cil.oc.client.Sound$@4c22ca11 onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 32: ASM: li.cil.oc.common.component.TextBuffer$@56094854 onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 33: ASM: pcl.OpenFM.Handler.ClientEvent@132fb5a6 worldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 34: ASM: pcl.OpenFM.Handler.ClientEvent@3b1fc041 worldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 35: ASM: com.creativemd.creativecore.common.event.CreativeTickHandler@110f716 worldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 36: ASM: aroma1997.tatw.ic2usesfe.block.ICSourceEventListener@4e8945a0 unloadWorld(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 37: ASM: mod.acgaming.universaltweaks.mods.collective.UTCollectiveEvents@563649e1 onWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 38: ASM: micdoodle8.mods.galacticraft.core.tick.TickHandlerServer@503c9ec2 worldUnloadEvent(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 39: ASM: codechicken.multipart.handler.MultipartEventHandler$@7a78c6fe worldUnLoad(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 40: ASM: codechicken.lib.world.WorldExtensionManager$WorldExtensionEventHandler@4057ce7d onWorldUnLoad(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [FML]: 41: LOWEST
+[22:56:50] [Server thread/ERROR] [FML]: 42: ASM: class mod.acgaming.universaltweaks.tweaks.world.chunks.tidy.mixin.UTTidyChunk utOnWorldUnload(Lnet/minecraftforge/event/world/WorldEvent$Unload;)V
+[22:56:50] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Exception stopping the server
+java.lang.NullPointerException: null
+	at net.minecraftforge.common.ForgeChunkManager.unloadWorld(ForgeChunkManager.java:631) ~[ForgeChunkManager.class:14.23.5.2860]
+	at net.minecraftforge.common.ForgeInternalHandler.onDimensionUnload(ForgeInternalHandler.java:82) ~[ForgeInternalHandler.class:14.23.5.2860]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_835_ForgeInternalHandler_onDimensionUnload_Unload.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) ~[EventBus.class:?]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:452) ~[MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.stopServer(IntegratedServer.java:372) ~[chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:579) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_392]
+```
