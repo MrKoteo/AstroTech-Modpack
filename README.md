@@ -10,274 +10,327 @@ This is a repository for the technical aspects of the modpack. All releases are 
 Modlist:
 
 ```
-Additional Enchanted Miner
-Additional Structures
-Advanced Machines
-Advanced Machines Patcher
-Advanced Solar Panels
-Advanced Solar Panels Patcher
-AE Additions - ExtraCells2 Fork
-AE2 Crafting Tree - Legacy
-AE2 Fluid Crafting Rework
-AE2 Stuff Unofficial
-AE2 Unofficial Extended Life
-AI Reducer
-Alchemistry
-AlchemistryDriver
-AlchemyLib
-Ancient Guns
-Apple Trees Revived [Forge & Fabric][1.12.x - 1.19.4]
-AppleCore
-AppleSkin
-AppliedSync
-Aquaculture 2
-Archicraft building
-Archicraft building - Outer War
-Armor Points ++
-Aroma1997Core
-AsmodeusCore
-AstroTweaks
-AutoRegLib
-Avaritia 1.1x
-Avaritia Recipe Generator
-B.A.S.E
-Backpack Opener
-Baubles
-BCFE
-BdLib
-Better Animals Plus
-Better Builder's Wands
-Better Placement
-Better Split Stack
-BetterBuildersWandsFix
-Betterer P2P
-BetterFps
-Block Drops (JEI Addon)
-Block Drops Tweaker
-BlockOverride
-Bonsai Trees 4
-Bookshelf
-Brigo
-Buildcraft Compat
-BuildCraft RF: ReFluxified
-BuildCraft|Builders
-BuildCraft|Core
-BuildCraft|Energy
-BuildCraft|Factory
-BuildCraft|Robotics
-BuildCraft|Silicon
-BuildCraft|Transport
-Building Gadgets
-Camouflaged Creepers
-Celestial Unify
-CensoredASM
-Ceramics
-Chameleon
-Cherished Worlds
-Chisel
-ClearSpam
-CodeChicken Lib 1.8.+
-CoFH Core
-CoFH World
-Collective
-Combo Armors
-Commons0815
-Compact Turbines
-ConfigAnytime
-ConnectedTexturesMod
-ContentTweaker
-CoroUtil
-Craft Takes Time
-CraftTweaker
-Crazy AE
-CreativeCore
-Deconstruction Table
-Default Options
-Dense Neutron Collectors
-DesirePaths
-Dynamic Darkness
-Dynamistics
-EasyLAN
-ElectrostaticsRE
-Emerging Technology
-Enchanting Plus
-Ender Crop
-Ender Storage 1.8.+
-Energy Control
-Energy Converters
-Energy Meters
-Entity Culling Fabric/Forge
-Eternal Singularity
-Ex Nihilo: Creatio
-ExtraLib
-ExtraQuests (for FTB Quests)
-Faster Ladder Climbing
-FastFurnace decreased
-FastQuit-Forge
-FastStages
-Fixed Anvil Repair Cost
-Fixeroo
-Floralis
-Flux Networks
-Food Addon for CFM
-Food Spoiling
-FPS Reducer
-FTB Library (Forge) (Legacy)
-FTB Quests (Forge)
-FTB Ultimine (Forge)
-Galactic Computers
-Galacticraft Legacy
-Galacticraft Rich Presence
-Galacticraft Tweaker
-GalacticTweaks
-Galaxy Space [Addon for GalactiCraft]
-Game Stages
-GC's /gchouston Command Remover
-Giselbaer's Durability Viewer
-Gnetum
-GraveStone Mod
-GraviFlyFix
-Gravitation Suite
-Gravitation Suite Patcher
-Gregfluxology
-GregTech CE Unofficial
-Gregtech Drawers
-GSIC2
-Had Enough Items
-Hardcore Buoyance
-HT's TreeChop
-Hwyla
-IC2 Crop-Breeding Plugin
-IC2 Patcher
-IC2 Tweaker
-IC2+FluxNetworks fix energy limit
-IC2Magma
-ic2radBauble
-IC2X UU-Matter [Archived]
-Idō (Deprecated)
-Improved Mobs (Forge)
-Industrial Craft
-IndustrialPrograms
-Inventory Tweaks [1.12 only] 
-Iron Chests
-Iron Tanks
-Item Filters
-Item Stages
-Jade 🔍
-JEI UU Assembler
-JEI Villagers
-Just Enough Recipe Integrations
-Just Enough Resources (JER)
-Just Enough Throwing In Fluids (JETIF)
-JustEnoughIDs
-Keybind Description Fix
-KJLib
-LibraryEx
-Light Level Overlay Reloaded
-LightAura
-LootTweaker
-Macaw's Paintings
-Masonry Blocks
-Material Changer
-Medicraft: Alchemy Aid!
-Mixin 0.7-0.8 Compatibility
-MixinBooter
-Mo' Creatures Extended
-Mobs On Rails
-Mods Russian translation // Русский перевод модов
-ModTweaker
-More Electric Tools
-Mouse Tweaks
-MrCrayfish's Furniture Mod (Legacy 1.12.2)
-MTLib
-Mystic Bows
-Nature's Compass
-NCO Java Legacy Lib
-NetherEx
-NonConflictKeys [Forge]
-Not Enough Energistics
-NuclearCraft Reactor Builder
-NuclearCraft: Overhauled
-OC Sensors
-OCDriversPlus
-Ocean Floor - Clay Sand and Dirt
-OfflineSkins
-OMLib
-OnlyOneItem
-Open Modular Turrets
-OpenComputers
-OpenFM
-OpenGlasses2
-OpenScreens
-OpenSecurity
-Ore Prospectors
-Ore Stages
-PackagedAuto
-PackagedAvaritia
-Packet Fixer
-Particle Culling
-Patchouli
-Phosphor (Forge)
-Phosphor Crash Fix
-PlaneFix
-Portable Crafting Table
-Power Chisels
-QMD
-Quark
-Quit
-Reach Fix
-Reactor Stuff
-Realistic Item Drops
-Redstone Flux
-Regrowth
-Relictium
-Resource Loader
-Security Craft
-Serverpauser
-Shadowfacts' Forgelin
-Shut Up, Model Loader!
-spark
-Spice of Life: Carrot Edition
-Spiked Foods
-Stat Tinkerer
-Storage Drawers
-Suxen Lib
-TATW
-Techguns
-TenshiLib (Forge)
-TerraCore
-TESLA
-TheBOMPlugin
-Thermal Cultivation
-Thermal Dynamics
-Thermal Foundation
-Thermal Innovation
-ToroHealth Damage Indicators
-Trinity
-U Team Core
-UniDict
-Universal Tweaks
-Unlimited Chisel Works
-Useful Backpacks
-Villager Contracts
-VintageFix
-VoxelMap
-VoxelMap Fixes
-Waila Harvestability
-WanionLib
-Water Strainer
-Waystone Syncroniser
-Waystones
-Wireless Industry
-Wopper
-XP From Harvest
-Yet Another Recipe Conflict Fixer (YARCF) 
-Yet Another Sleep Voting
-YM-Additions
-YUNG's Better Caves (Forge)
-YUNG's Better Mineshafts (Forge/NeoForge)
-ZenStages
-ZeroCore 2
-ZS Packet
-Zume
+Floralis (by luxtracon)
+ShetiPhianCore (by ShetiPhian)
+Where's That Structure? (by thebluecrusader)
+ConnectedTexturesMod (by tterrag1098)
+Malek's Infinity Gauntlet (by MalekiRe)
+Ender Crop (by DrManganese)
+Brandon's Core (by brandon3055)
+AmbientSounds 6 (by CreativeMD)
+Cherished Worlds (by TheIllusiveC4)
+CustomSkinLoader (by xfl03)
+Just Enough Magiculture (by invadermonky)
+Compact Turbines (by hasunemiku2015)
+Aerial Affinity (by tfarecnim)
+Ender's Modpack Tweaks (by EnderDevelopment)
+Unlimited Chisel Works (by asiekierka)
+RandomTweaks (by TheRandomLabs)
+CraftPresence (by CDAGaming_)
+Ender Storage 1.8.+ (by covers1624)
+Cell Terminal (by Aedial)
+Villager Contracts (by invadermonky)
+YUNG's Better Caves (Forge/NeoForge) (by YUNGNICKYOUNG)
+Cucumber Library (by BlakeBr0)
+Just Enough Recipe Integrations (by smileycorp)
+Lazy AE2 (by phantamanta44)
+PackModeMenu (by IllgiLP)
+Material Changer (by Lellson8)
+Redstone Flux (by TeamCoFH)
+Future MC (by thedarkcolour)
+Mouse Tweaks (by YaLTeR)
+iChunUtil (by iChun)
+ProfilePatch (by blue_beaker)
+MoreChem (by MrKoteo)
+Attribute Keeper (by invadermonky)
+OpenGlasses2 (by marcin212a)
+Crash Assistant (by KostromDan)
+AE2UEL Wireless Universal Terminal (by Circulate233)
+MTLib (by Jaredlll08)
+Open Modular Turrets (by Keridos)
+Waystone Syncroniser (by R4L_34)
+OC Sensors (by davenonymous)
+Celeritas/Nothirium Dynamic Lights (by Karnatour)
+Food Spoiling (by ACGaming)
+VintageFix (by embeddedt)
+AE2 Unofficial Extended Life (by notmywing)
+LazyEnergy (by Nyonio)
+Draconic Evolution (by brandon3055)
+ContentTweaker Registry Orderer (by tomdodd4598)
+BuildCraft|Builders (by Covert_Jaguar)
+ZenStages (by artdude543)
+FTB Ultimine (NeoForge) (by FTB)
+Improved Cleanroom Relauncher (by TheOriginalGolem)
+CoroUtil (by Corosus)
+FastQuit-Forge (by Kaleb_Langley)
+Space Ambient [Addon for GalactiCraft] (by BlesseNtumble)
+UniLib (by CDAGaming_)
+GunpowderLib (by Jacky)
+Emerging Technology (by moonmanmodding)
+Faithful 32x (by Faithful_Resource_Pack)
+Not Enough Energistics (by vfyjxf_)
+Gregified Energistics (by WALHAY)
+ModTweaker (by Jaredlll08)
+Quark (by Vazkii)
+RandomComplement (by Circulate233)
+Cyclops Core (by kroeser)
+Roughly Enough IDs (by Lily)
+Stat Tinkerer (by Terrails)
+AppleCore (by squeek502)
+Sign Button (by gigaherz)
+Hardcore Buoyance (by primetoxinz)
+TATW (by Aroma1997)
+Athenaeum (by codetaylor)
+BlockOverride (by samuelask)
+Water Strainer (by Ruuubi)
+Forgelin-Continuous (by ChAoS_UnItY_)
+PackagedAuto (by TheLMiffy1111)
+FermiumMixins (by fonnymunkey)
+Legacy Textiles (by Foreck1)
+FermiumBooter (by fonnymunkey)
+Mob Stages (by DarkhaxDev)
+NuclearCraft Reactor Builder (by sonar_sonic)
+B.A.S.E (by lanse505)
+Crazy AE (by Beecube31)
+Fixeroo (by MetallicaFan011)
+Light Level Overlay Reloaded (by oldjunyi)
+PackagingProvider (by TheLMiffy1111)
+Crafting Tweaks Unofficial (by CleanroomMC)
+CoFH Core (by TeamCoFH)
+Gregfluxology (by Tian_mi)
+ICBM - Interconnected Block Missiles (by QueenOfMissiles)
+PackMode (by Sky_Som)
+IC2 Crop-Breeding Plugin (by Speiger)
+MmmMmmMmmMmm (Target Dummy) (by MehVahdJukaar)
+Avaritia 1.1x Unofficial Extended Life (by xXjudeXx)
+More Electric Tools (by lt_lrsoft)
+Scannable (by Sangar)
+RLFoliage (by fonnymunkey)
+PackagedAvaritia (by TheLMiffy1111)
+Portable Crafting Table (by 00theblackwolf00)
+Medicraft: Alchemy Aid! (by Luis)
+Avaritia Tweaks (by Jacky)
+Enchanting Plus (by DarkhaxDev)
+Custom Main Menu (by Lumien231)
+MixinBooter (by CleanroomMC)
+NonConflictKeys [Forge] (by TachibanaSherry)
+FIX MY PINGGGGG (by Itamio)
+AE2 Improved Search (by NuanKi)
+PackagedDraconic (by TheLMiffy1111)
+Energy Converters (by xalcon)
+GregTech CE Unofficial (by serenibyss)
+LogFilters (by CoolSquid)
+Resource Loader (by Lumien231)
+Dense Neutron Collectors (by tfarecnim)
+Had Enough Items (by CleanroomMC)
+Storage Drawers (by Texelsaur)
+AE2 PowerTools (by Aedial)
+SussyPatches (by Tian_mi)
+Techguns-CE (by Th3_Sl1ze)
+Demagnetize (by comp500)
+Spiked Foods (by Akrivus)
+Galacticraft Tweaker (by MJRLegends)
+Gravitation Suite Patcher (by Su5eD)
+ContentTweaker (by Jaredlll08)
+Zume (by Nolij)
+AE2 Crafting Tree - Legacy (by Kasumi_Nova)
+RLMixins (by fonnymunkey)
+Multi Builder Tool (by igentuman)
+Pyrotech (by codetaylor)
+OMLib (by Keridos)
+JEI Area Fixer (by ZZZank)
+AE2 Better Magnet Card (by NuanKi)
+AE2 Auto Pattern Upload (by GaLicn)
+Chameleon (by Texelsaur)
+ic2radBauble (by usertravis)
+Wopper (by Ellpeck)
+Collective (by Serilum)
+BetterBuildersWandsFix (by xinyihl)
+Galactic Computers (by EriTheSwitch)
+AntiGhost (by Giselbaer)
+Aqua Acrobatics [Forge] (by embeddedt)
+Realistic Terrain Generation Community (by MeowmelMuku)
+Flux Networks (by sonar_sonic)
+AstroTweaks (by MrKoteo)
+Alchemistry (by Dark_Arcana)
+Scalar Legacy (by kappa_maintainer)
+Red Core (by Desoroxxx)
+Game Stages (by DarkhaxDev)
+Patchouli Books (by EnderDevelopment)
+Ceramics (by KnightMiner)
+Mo' Creatures Extended (by ACGaming)
+OnlyOneItem (by Circulate233)
+籁/Sound Physics Remixin (by kappa_maintainer)
+BuildCraft|Transport (by Covert_Jaguar)
+OpenScreens (by itsmeowdev)
+Item Filters (by LatvianModder)
+ZeroCore 2 (by ZeroNoRyouki)
+Dynamistics (by Eutro)
+Commons0815 (by ben_mkiv)
+Morpheus (by Quetzi)
+BdLib (by bdew)
+Realistic Item Drops (by Funwayguy)
+NCO Java Legacy Lib (by tomdodd4598)
+Armor Points ++ (by Cheos)
+CoFH World (by TeamCoFH)
+Galacticraft Legacy (by TeamGalacticraft)
+LibNine (by phantamanta44)
+Trinity (by Troodontid)
+Macaw's Paintings (by sketch_macaw)
+Reach Fix (by meldexun)
+Extended Crafting: Nomifactory Edition (by Exa4096)
+IC2 Patcher (by Kanzaji)
+Celestial Unify (by MrKoteo)
+Energy Control (by Zuxelus)
+AE2Enhanced (by aedddd)
+Baubles (by Azanor13)
+Food Addon for CFM (by Tiny_McNulty84)
+Backpack Opener (by blue_beaker)
+Betterer P2P (by dyedquartz)
+ME Capability Adapter (by rfctksSparkle)
+Blockcraftery (by EpicSquid315)
+Masonry Blocks (by liahim85)
+AutoRegLib (by Vazkii)
+Flare (Spark for 1.12.2) (by CleanroomMC)
+Extended Crafting Terminals for Applied Energistics 2 (by 0xC4DE)
+Jade 🔍 (by Snownee)
+GC's /gchouston Command Remover (by znibsss)
+Iron Tanks (by Indemnity83)
+WanionLib (by WanionCane)
+TerraCore (by Terrails)
+Russifier Universal | Русификатор (by MrKoteo)
+Waila Harvestability (by squeek502)
+Particle Culling (by bl4ckscor3)
+Camouflaged Creepers (by georgetsak)
+ToroHealth Damage Indicators (by ToroCraft)
+Better Animals Plus (by cybercat5555)
+Better Builder's Wands (by Portablejim)
+AE Additions - ExtraCells2 Fork (by MasterYodAT9G)
+Packet Fixer (by TonimatasDEV)
+MrCrayfish's Furniture Mod Rebuilt (by ACGaming)
+IC2+FluxNetworks fix energy limit (by ElectrifiedDed)
+OpenComputers (by Sangar)
+Useful Backpacks (by HyCraftHD)
+Eternal Singularity (by KingWealthyturtle)
+Wireless Industry (by ultramarine11)
+Giselbaer's Durability Viewer (by Giselbaer)
+RenderLib (by meldexun)
+Common Capabilities (by kroeser)
+Ore Stages: ReStaged (by invadermonky)
+Scalar (by kappa_maintainer)
+IC2X UU-Matter [Archived] (by Christofmeg)
+Industrial Craft (by sfPlayer1)
+Super Sound Muffler: Revived (by Firstnecron)
+Fugue (by kappa_maintainer)
+Future Fireproof (by invadermonky)
+Keybind Description Fix (by kappa_maintainer)
+Thermal Dynamics (by TeamCoFH)
+Alfheim Lighting Engine (by Desoroxxx)
+Ex Nihilo: Creatio (by BloodWorkXGaming)
+DesirePaths (by Corosus)
+Chisel (by tterrag1098)
+NuclearCraft: Overhauled (by tomdodd4598)
+AsmodeusCore (by BlesseNtumble)
+LootTableTweaker (by DarkhaxDev)
+OCDriversPlus (by raymondbh)
+Thermal Innovation (by TeamCoFH)
+CreativeCore (by CreativeMD)
+Serverpauser (by smileycorp)
+FPS Reducer (by bre2el)
+Gravitation Suite (by Chocohead)
+CodeChicken Lib CRE (by kappa_maintainer)
+Advanced Machines (by Chocohead)
+Improved Mobs (Forge, NeoForge) (by flemmli97)
+AE2 Stuff Unofficial (by serenibyss)
+Entity Culling (by meldexun)
+Patchouli ROFL Edition (by MetallicaFan011)
+Advanced Solar Panels (by Chocohead)
+Block Drops Tweaker (by TheAwesomeGem)
+Spice of Life: Carrot Edition (by lordcazsius)
+FTB Quests (NeoForge) (by FTB)
+AlchemyLib (by Dark_Arcana)
+Apple Trees Revived [Forge & Fabric][1.12.x - 1.19.4] (by Dav729)
+VoxelMap (by MamiyaOtaru)
+Naughthirium (by Rongmario)
+CraftTweaker (by Jaredlll08)
+BuildCraft|Core (by Covert_Jaguar)
+Advanced Solar Panels Patcher (by Su5eD)
+Just Enough Resources (JER) (by way2muchnoise)
+Portal Gun (by iChun)
+AE2FluidCraft-Rework-Unofficial (by Circulate233)
+OpenSecurity (by MichiyoRavencroft)
+Dropt (by codetaylor)
+Yet Another Recipe Conflict Fixer (YARCF) (by SirOMGitsYOU)
+Waystones (by BlayTheNinth)
+NoDamI (No Damage Immunity) (by ProfHug0)
+ConfigAnytime (by CleanroomMC)
+StellarCore (by Kasumi_Nova)
+In Control! (by McJty)
+OfflineSkins (by LainMI)
+Inventory Tweaks [1.12 only] (by JimeoWan)
+TESLA (by DarkhaxDev)
+Pretty Beaches (by BlayTheNinth)
+BuildCraft|Factory (by Covert_Jaguar)
+AppliedChisel (by Circulate233)
+C.E.L.L.S (by Aedial)
+Reactor Stuff (by enderiumsmith)
+JEI UU Assembler (by blue_beaker)
+FTB Library (Forge) (Legacy) (by FTB)
+Farmer's Delight Legacy (by xuanyu)
+Dynamic Darkness (by GitHubActions)
+IC2 Tweaker (by tttusk)
+WHAT - Fluid Fix (by BordListian)
+Galaxy Space [Addon for GalactiCraft] (by BlesseNtumble)
+Timber! - Tree Chopping (by invadermonky)
+Thermal Cultivation (by TeamCoFH)
+VoxelMap Fixes (by ACGaming)
+Just Enough Throwing In Fluids (JETIF) (by Lykrast)
+GSIC2 (by misaka_15233)
+Chibi (by Rongmario)
+Additional Structures (by XxRexRaptorxX)
+SerializationIsBad (by Dogboy21)
+My Server Is Compatible (by focamacho)
+Default Options (by BlayTheNinth)
+YUNG's Better Mineshafts (Forge/NeoForge) (by YUNGNICKYOUNG)
+Buildcraft Compat (by Forge_User_75087269)
+Waifus and Ores (by YoWhaddup)
+Oceanic Expanse (by Sir_Squid1y)
+Energy Meters (by Quintinity)
+EnderTanks (by ShetiPhian)
+Additional Enchanted Miner (by Kotori316)
+MTE Patches (by blue_beaker)
+YM-Additions (by xinyihl)
+Controlling (by Jaredlll08)
+Iron Chests (by ProgWML6)
+FastStages (by theairblow)
+TenshiLib (Forge/NeoForge) (by flemmli97)
+Aroma1997Core (by Aroma1997)
+Find Nerby Items (by Pan_Kleik)
+Nothirium (by meldexun)
+Power Chisels (by trinsdar)
+Lazy AE2 Patch (by sjcl)
+Building Gadgets (by Direwolf20)
+AI Reducer (by Charles445)
+U Team Core (by HyCraftHD)
+Hwyla (by TehNut)
+Faster Ladder Climbing (by maddachshund)
+Universal Tweaks (by ACGaming)
+Better Split Stack (by blue_beaker)
+StarMaker [Addon for GalactiCraft] (by BlesseNtumble)
+Gnetum (by decce)
+Sledgehammer (by LX_Gaming)
+Advanced Machines Patcher (by Su5eD)
+IndustrialPrograms (by anar4732)
+Just Enough Dimensions (by masady)
+Bonsai Trees 4 (by davenonymous)
+Ore Prospectors (by Lothrazar)
+Opencomputers ICBM-Classic Addon (by TheEternalSoap)
+Bookshelf (by DarkhaxDev)
+GraviFlyFix (by PukPukov)
+QMD (by lach_01298)
+BuildCraft|Robotics (by Covert_Jaguar)
+LemonSkin (AppleSkin Fork) (by myxazaur)
+Thermal Foundation (by TeamCoFH)
+MysticalLib (by Noobanidus)
+GraveStone Mod (by henkelmax)
 ```
