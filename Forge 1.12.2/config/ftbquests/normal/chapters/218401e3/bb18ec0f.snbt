@@ -1,0 +1,18 @@
+{
+	disable_toast: true,
+	x: 19.5d,
+	y: -3.0d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "43efa496",
+		type: "item",
+		items: [{
+			id: "energycontrol:afsu",
+			tag: {
+				energy: 0.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

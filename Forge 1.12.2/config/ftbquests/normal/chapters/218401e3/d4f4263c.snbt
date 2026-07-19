@@ -1,0 +1,13 @@
+{
+	disable_toast: true,
+	x: 23.5d,
+	y: -1.0d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "10d27479",
+		type: "item",
+		items: [{
+			item: "astrotweaks:alpha_quant"
+		}]
+	}]
+}

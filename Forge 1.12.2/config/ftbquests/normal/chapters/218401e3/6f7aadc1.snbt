@@ -1,0 +1,16 @@
+{
+	disable_toast: true,
+	x: 6.5d,
+	y: -1.0d,
+	shape: "hexagon",
+	dependencies: [
+		"4fefd146"
+	],
+	tasks: [{
+		uid: "aa4d1a56",
+		type: "item",
+		items: [{
+			item: "ic2:misc_resource 1 1"
+		}]
+	}]
+}

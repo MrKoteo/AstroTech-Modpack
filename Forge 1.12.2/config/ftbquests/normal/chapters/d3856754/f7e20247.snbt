@@ -1,0 +1,31 @@
+{
+	x: 8.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "00bb20dd",
+		type: "checkmark",
+		title: "GregTech",
+		icon: {
+			id: "gregtech:meta_item_1",
+			Damage: 465s,
+			tag: {
+				terminal: {
+					_creative: 1b
+				}
+			}
+		}
+	}],
+	rewards: [{
+		uid: "562d34a6",
+		type: "item",
+		item: {
+			id: "gregtech:meta_item_1",
+			Damage: 465s,
+			tag: {
+				terminal: {
+					_creative: 1b
+				}
+			}
+		}
+	}]
+}

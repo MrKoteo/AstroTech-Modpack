@@ -1,0 +1,11 @@
+{
+	x: 7.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "0a9e9a83",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:fuel_loader"
+		}]
+	}]
+}

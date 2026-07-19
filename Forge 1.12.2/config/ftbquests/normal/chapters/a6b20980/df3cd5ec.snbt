@@ -1,0 +1,34 @@
+{
+	title: "Oh this strange, wondrous, and frightening world...",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "circle",
+	description: "Ох этот странный, удивительный и пугающий мир...",
+	dependencies: [
+		"dc6a3251"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "b7e65ce1",
+		type: "checkmark",
+		title: "Прогрессивная эра",
+		icon: "astrotweaks:master_badge"
+	}],
+	rewards: [{
+		uid: "b5b4d355",
+		type: "xp",
+		xp: 200
+	},
+	{
+		uid: "308db215",
+		type: "item",
+		item: "astrotweaks:engeneer_badge"
+	},
+	{
+		uid: "73ffe3a5",
+		type: "gamestage",
+		team_reward: true,
+		auto: "no_toast",
+		stage: "modern"
+	}]
+}

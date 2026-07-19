@@ -1,0 +1,17 @@
+{
+	title: "Glass casting",
+	icon: "minecraft:glass",
+	x: 19.0d,
+	y: -4.0d,
+	description: "Литьё стекла",
+	tasks: [{
+		uid: "fab4788f",
+		type: "item",
+		icon: "minecraft:glass",
+		items: [{
+			item: "minecraft:glass"
+		}],
+		count: 4L,
+		consume_items: true
+	}]
+}

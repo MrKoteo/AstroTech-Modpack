@@ -1,0 +1,21 @@
+{
+	title: "Rocket Assemblers",
+	icon: "galacticraftcore:rocket_workbench",
+	x: 4.0d,
+	y: 0.0d,
+	description: "Сборщики ракет",
+	tasks: [{
+		uid: "12a4aba1",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:rocket_workbench"
+		}]
+	},
+	{
+		uid: "13007dd5",
+		type: "item",
+		items: [{
+			item: "galaxyspace:assembly_machine"
+		}]
+	}]
+}

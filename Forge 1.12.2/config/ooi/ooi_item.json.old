@@ -1,0 +1,220 @@
+[
+{"matchItems":[{"id": "extendedcrafting:singularity_ultimate"}],"targetID": "eternalsingularity:eternal_singularity"},
+
+
+{"matchItems":[{"meta":65,"id":"techguns:itemshared"}],"targetID":"ic2:crafting","targetMeta":1},
+{"matchItems":[{"meta":6,"id":"opencomputers:material"}],"targetID":"gregtech:meta_item_1","targetMeta":518},
+
+{"matchItems":[{"meta":66,"id":"techguns:itemshared"}],"targetID":"mets:super_circuit"},
+
+
+{"matchItems":[{"meta":5,"id":"galacticraftcore:basic_block_core"},{"meta":0,"id":"gregtech:ore_copper_0"},{"meta":0,"id":"nuclearcraft:ore"},{"meta":0,"id":"thermalfoundation:ore"},{"meta":0,"id":"techguns:basicore"}],
+"targetID":"ic2:resource","targetMeta":1},
+{"matchItems":[{"meta":6,"id":"galacticraftcore:basic_block_core"},{"meta":0,"id":"gregtech:ore_tin_0"},{"meta":1,"id":"nuclearcraft:ore"},{"meta":1,"id":"thermalfoundation:ore"},{"meta":1,"id":"techguns:basicore"}],
+"targetID":"ic2:resource","targetMeta":3},
+{"matchItems":[{"meta":2,"id":"techguns:basicore"},{"meta":0,"id":"gregtech:ore_lead_0"},{"meta":2,"id":"nuclearcraft:ore"},{"meta":3,"id":"thermalfoundation:ore"}],
+"targetID":"ic2:resource","targetMeta":2},
+{"matchItems":[{"meta":2,"id":"galaxyspace:gsores"},{"meta":4,"id":"ic2:resource"},{"meta":4,"id":"techguns:basicore"},{"id":"reactor_stuff:ore_uranium"}],"targetID":"nuclearcraft:ore","targetMeta":4},
+{"matchItems":[{"meta":2,"id":"thermalfoundation:ore"}],"targetID":"gregtech:ore_silver_0","targetMeta":0},
+{"matchItems":[{"meta":1,"id":"galaxyspace:gsores"},{"meta":0,"id":"gregtech:ore_nickel_0"}],"targetID":"thermalfoundation:ore","targetMeta":5},
+{"matchItems":[{"meta":3,"id":"techguns:basicore"}],"targetID":"mets:titanium_ore","targetMeta":0},
+
+
+{"matchItems":[{"id":"techguns:itemshared","meta":95}],"targetID":"ic2:misc_resource","targetMeta":4},
+
+
+
+
+
+
+{"matchItems":[{"meta":435,"id":"gregtech:meta_item_1"},{"meta":1,"id": "thermalfoundation:dye"}],"targetID":"floralis:reddye"},
+{"matchItems":[{"meta":425,"id":"gregtech:meta_item_1"},{"meta":11,"id":"thermalfoundation:dye"}],"targetID":"floralis:yellowdye"},
+{"matchItems":[{"meta":434,"id":"gregtech:meta_item_1"},{"meta":2,"id": "thermalfoundation:dye"}],"targetID":"floralis:greendye"},
+{"matchItems":[{"meta":421,"id":"gregtech:meta_item_1"},{"meta":15,"id":"thermalfoundation:dye"},{"meta":2,"id":"quark:root_dye"}],"targetID":"floralis:whitedye"},
+{"matchItems":[{"meta":436,"id":"gregtech:meta_item_1"},{"meta":0,"id": "thermalfoundation:dye"},{"meta":1,"id":"quark:root_dye"}],"targetID":"floralis:blackdye"},
+{"matchItems":[{"meta":431,"id":"gregtech:meta_item_1"},{"meta":5,"id": "thermalfoundation:dye"}],"targetID":"floralis:purpledye"},
+{"matchItems":[{"meta":430,"id":"gregtech:meta_item_1"},{"meta":6,"id": "thermalfoundation:dye"}],"targetID":"floralis:cyandye"},
+{"matchItems":[{"meta":429,"id":"gregtech:meta_item_1"},{"meta":7,"id": "thermalfoundation:dye"}],"targetID":"floralis:lightgraydye"},
+{"matchItems":[{"meta":424,"id":"gregtech:meta_item_1"},{"meta":12,"id":"thermalfoundation:dye"}],"targetID":"floralis:lightbluedye"},
+{"matchItems":[{"meta":428,"id":"gregtech:meta_item_1"},{"meta":8,"id": "thermalfoundation:dye"}],"targetID":"floralis:graydye"},
+{"matchItems":[{"meta":427,"id":"gregtech:meta_item_1"},{"meta":9,"id": "thermalfoundation:dye"}],"targetID":"floralis:pinkdye"},
+{"matchItems":[{"meta":426,"id":"gregtech:meta_item_1"},{"meta":10,"id":"thermalfoundation:dye"}],"targetID":"floralis:limedye"},
+{"matchItems":[{"meta":423,"id":"gregtech:meta_item_1"},{"meta":13,"id":"thermalfoundation:dye"}],"targetID":"floralis:magentadye"},
+{"matchItems":[{"meta":422,"id":"gregtech:meta_item_1"},{"meta":14,"id":"thermalfoundation:dye"}],"targetID":"floralis:orangedye"},
+{"matchItems":[{"meta":432,"id":"gregtech:meta_item_1"},{"meta":4,"id": "thermalfoundation:dye"},{"meta":0,"id":"quark:root_dye"}],"targetID":"floralis:bluedye"},
+{"matchItems":[{"meta":433,"id":"gregtech:meta_item_1"},{"meta":3,"id": "thermalfoundation:dye"}],"targetID":"floralis:browndye"},
+{"matchItems":[{"meta":10,"id":"gregtech:meta_block_compressed_16"},{"id":"thermalfoundation:storage_resource"},{"id":"pyrotech:charcoal_block"}],"targetID":"chisel:block_charcoal2","targetMeta":1},
+{"matchItems":[{"meta":214,"id":"gregtech:meta_gem"}],"targetID":"appliedenergistics2:material"},
+
+
+{"matchItems": [{"meta": 7,"id": "gregtech:meta_block_compressed_19"}],"targetID": "astrotweaks:ruby_block"},
+{"matchItems": [{"id": "ancient_guns:steel_block"},{"meta": 8,"id": "ic2:resource"}],"targetID": "thermalfoundation:storage_alloy"},
+{"matchItems": [{"meta": 81,"id": "techguns:itemshared"}],
+    "targetID": "thermalfoundation:material",
+    "targetMeta": 163
+  },
+
+
+
+{"matchItems": [{"oreName": "ingotSteel" }],"targetID": "thermalfoundation:material","targetMeta": 160 },
+{"matchItems": [{"oreName": "ingotCopper" }],"targetID": "thermalfoundation:material","targetMeta": 128 },
+{"matchItems": [{"oreName": "ingotTin" }],"targetID": "nuclearcraft:ingot","targetMeta": 1 },
+{"matchItems": [{"oreName": "ingotZirconium" }],"targetID": "nuclearcraft:ingot","targetMeta": 10 },
+
+{"matchItems": [{"oreName": "ingotBronze" }],"targetID": "thermalfoundation:material","targetMeta": 163 },
+{"matchItems": [{"oreName": "ingotBrass" }],"targetID": "astrotweaks:brass_ingot"},
+{"matchItems": [{"oreName": "ingotNickel" }],"targetID": "thermalfoundation:material","targetMeta": 133 },
+{"matchItems": [{"oreName": "ingotCobalt" }],"targetID": "qmd:ingot","targetMeta": 4 },
+{"matchItems": [{"oreName": "ingotLead" }],"targetID": "thermalfoundation:material","targetMeta": 131 },
+{"matchItems": [{"oreName":"ingotAluminum"},{"oreName":"ingotAluminium"}],"targetID":"thermalfoundation:material","targetMeta": 132 },
+{"matchItems": [{"oreName": "ingotSilver" }],"targetID": "nuclearcraft:ingot","targetMeta": 13 },
+{"matchItems": [{"oreName": "ingotNiobium" }],"targetID": "qmd:ingot","targetMeta": 1 },
+{"matchItems": [{"oreName": "ingotTitanium" }],"targetID": "mets:titanium_ingot"},
+{"matchItems": [{"oreName": "ingotThorium" }],"targetID": "nuclearcraft:ingot","targetMeta": 3 },
+{"matchItems": [{"oreName": "ingotManganese" }],"targetID": "nuclearcraft:ingot","targetMeta": 11 },
+{"matchItems": [{"oreName": "ingotLithium" }],"targetID": "nuclearcraft:ingot","targetMeta": 6 },
+{"matchItems": [{"oreName": "ingotBoron" }],"targetID": "nuclearcraft:ingot","targetMeta": 5 },
+{"matchItems": [{"oreName": "ingotPlatinum" }],"targetID": "thermalfoundation:material","targetMeta": 134 },
+{"matchItems": [{"oreName": "ingotIridium" }],"targetID": "thermalfoundation:material","targetMeta": 135 },
+{"matchItems": [{"oreName": "ingotOsmium" }],"targetID": "qmd:ingot","targetMeta": 8 },
+{"matchItems": [{"oreName": "ingotZinc" }],"targetID": "qmd:ingot","targetMeta": 7 },
+{"matchItems": [{"oreName": "ingotChromium"},{"oreName": "ingotChrome"}],"targetID": "qmd:ingot","targetMeta": 2 },
+{"matchItems": [{"oreName": "ingotBismuth" }],"targetID": "gregtech:meta_ingot","targetMeta": 11 },
+{"matchItems": [{"oreName": "ingotStrontium" }],"targetID": "qmd:ingot","targetMeta": 14 },
+{"matchItems":[{"id":"advanced_solar_panels:crafting","meta":11},{"id":"alchemistry:ingot","meta":92},{"id":"reactor_stuff:uranium_ingot"},{"id":"gregtech:meta_ingot","meta":116},{"id":"ic2:ingot","meta":8}],"targetID":"nuclearcraft:ingot","targetMeta":4},
+
+
+{"matchItems": [{"oreName":"plateSteel" }],"targetID": "thermalfoundation:material","targetMeta": 352 },
+{"matchItems": [{"oreName":"plateIron"}],"targetID":"thermalfoundation:material","targetMeta":32},
+{"matchItems": [{"oreName":"plateCopper" }],"targetID": "thermalfoundation:material","targetMeta": 320 },
+{"matchItems": [{"oreName":"plateTin" }],"targetID": "thermalfoundation:material","targetMeta": 321 },
+{"matchItems": [{"oreName":"plateBronze" }],"targetID": "thermalfoundation:material","targetMeta": 355 },
+{"matchItems": [{"oreName":"plateLead" }],"targetID": "thermalfoundation:material","targetMeta": 323 },
+{"matchItems": [{"meta": 2,"id":"gregtech:meta_plate"}],"targetID": "thermalfoundation:material","targetMeta": 324 },
+{"matchItems": [{"oreName":"plateSilver" }],"targetID": "thermalfoundation:material","targetMeta": 322 },
+{"matchItems": [{"oreName":"plateGold" }],"targetID": "thermalfoundation:material","targetMeta": 33 },
+{"matchItems": [{"oreName":"plateTitanium" }],"targetID": "mets:titanium_plate"},
+{"matchItems": [{"oreName":"plateLapis" }],"targetID": "gregtech:meta_plate","targetMeta": 2007 },
+{"matchItems": [{"oreName":"platePlatinum" }],"targetID": "thermalfoundation:material","targetMeta": 326 },
+
+
+{"matchItems":[{"oreName":"dustCoal"}],"targetID":"thermalfoundation:material","targetMeta":768},
+{"matchItems":[{"oreName":"dustIron"}],"targetID":"thermalfoundation:material"},
+{"matchItems":[{"oreName":"dustGold"}],"targetID":"thermalfoundation:material","targetMeta": 1},
+{"matchItems":[{"oreName":"dustCopper"}],"targetID":"thermalfoundation:material","targetMeta": 64 },
+{"matchItems":[{"oreName":"dustTin"}],"targetID":"thermalfoundation:material","targetMeta": 65 },
+{"matchItems":[{"oreName":"dustSilver"}],"targetID":"nuclearcraft:dust","targetMeta": 13 },
+{"matchItems":[{"oreName":"dustAluminum"},{"oreName":"dustAluminium"}],"targetID": "thermalfoundation:material","targetMeta": 68 },
+{"matchItems":[{"oreName":"dustNickel"}],"targetID":"thermalfoundation:material","targetMeta": 69 },
+{"matchItems":[{"oreName":"dustPlatinum"}],"targetID":"qmd:dust","targetMeta": 10 },
+{"matchItems":[{"oreName":"dustIridium"}],"targetID":"thermalfoundation:material","targetMeta": 71 },
+{"matchItems":[{"oreName":"dustBronze"}],"targetID":"thermalfoundation:material","targetMeta": 99 },
+{"matchItems":[{"oreName":"dustInvar"}],"targetID":"thermalfoundation:material","targetMeta": 98 },
+{"matchItems":[{"oreName":"dustQuartz"},{"oreName":"dustNetherQuartz"}],"targetID":"nuclearcraft:gem_dust","targetMeta": 2 },
+{"matchItems":[{"oreName":"dustCobalt"}],"targetID":"qmd:dust","targetMeta": 4 },
+{"matchItems":[{"oreName":"dustTitanium"}],"targetID":"mets:titanium_dust"},
+{"matchItems":[{"oreName":"dustBrass"}],"targetID":"astrotweaks:brass_dust"},
+{"matchItems":[{"oreName":"dustMagnesium"}],"targetID":"nuclearcraft:dust","targetMeta": 7 },
+{"matchItems":[{"oreName":"dustManganese"}],"targetID":"nuclearcraft:dust","targetMeta": 11 },
+{"matchItems":[{"oreName":"dustDiamond"}],"targetID":"nuclearcraft:gem_dust"},
+{"matchItems":[{"oreName":"dustRuby"}],"targetID":"astrotweaks:ruby_dust"},
+{"matchItems":[{"oreName":"dustCertusQuartz"}],"targetID":"appliedenergistics2:material","targetMeta":2},
+{"matchItems":[{"id":"reactor_stuff:uranium_dust"},{"id":"gregtech:meta_dust:116","meta":116}],"targetID":"nuclearcraft:dust","targetMeta":4},
+{"matchItems":[{"oreName":"dustSaltpeter"}],"targetID":"thermalfoundation:material","targetMeta":772},
+{"matchItems":[{"oreName":"dustSulfur"}],"targetID":"nuclearcraft:gem_dust","targetMeta": 6 },
+
+
+{"matchItems":[{"oreName":"dustTinyNickel"}],"targetID":"gsic2:nickel_pile"},
+{"matchItems":[{"oreName":"dustTinyCobalt"}],"targetID":"gregtech:meta_dust_tiny","targetMeta":23},
+{"matchItems":[{"oreName":"dustTinyMagnesium"}],"targetID":"gregtech:meta_dust_tiny","targetMeta":59},
+{"matchItems":[{"oreName":"dustTinyAluminum"},{"oreName":"dustTinyAluminium"}],"targetID":"gsic2:aluminum_pile"},
+{"matchItems":[{"oreName":"dustTinyTitanium"}],"targetID":"galacticraftcore:ic2compat","targetMeta":7},
+{"matchItems":[{"oreName":"dustTinyTin"}],"targetID":"ic2:dust","targetMeta":28},
+{"matchItems":[{"oreName":"dustTinyGold"}],"targetID":"ic2:dust","targetMeta":20},
+{"matchItems":[{"oreName":"dustTinyCopper"}],"targetID":"ic2:dust","targetMeta":19},
+{"matchItems":[{"oreName":"dustTinySilver"}],"targetID":"ic2:dust","targetMeta":26},
+{"matchItems":[{"oreName":"dustTinyBronze"}],"targetID":"ic2:dust","targetMeta":18},
+{"matchItems":[{"oreName":"dustTinyIron"}],"targetID":"ic2:dust","targetMeta":21},
+{"matchItems":[{"oreName":"dustTinyLead"}],"targetID":"gregtech:meta_dust_tiny","targetMeta":55},
+{"matchItems":[{"oreName":"dustTinyLithium"}],"targetID":"gregtech:meta_dust_tiny","targetMeta":56},
+{"matchItems":[{"oreName":"dustTinyObsidian"}],"targetID":"ic2:dust","targetMeta":25},
+{"matchItems":[{"oreName":"dustTinyLapis"}],"targetID":"ic2:dust","targetMeta":22},
+{"matchItems":[{"oreName":"dustTinySulfur"}],"targetID":"ic2:dust","targetMeta":27},
+
+
+
+
+{"matchItems":[{"oreName":"nuggetSteel"}],"targetID":"thermalfoundation:material","targetMeta":224},
+{"matchItems":[{"oreName":"nuggetCopper"}],"targetID":"thermalfoundation:material","targetMeta":192},
+{"matchItems":[{"oreName":"nuggetTin"}],"targetID":"thermalfoundation:material","targetMeta":193},
+{"matchItems":[{"oreName":"nuggetLead"}],"targetID":"thermalfoundation:material","targetMeta":195},
+{"matchItems":[{"oreName":"nuggetSilver"}],"targetID":"thermalfoundation:material","targetMeta":194},
+{"matchItems":[{"oreName":"nuggetNickel"}],"targetID":"thermalfoundation:material","targetMeta":197},
+{"matchItems":[{"oreName":"nuggetCobalt"}],"targetID":"galaxyspace:nuggets"},
+{"matchItems":[{"oreName":"nuggetAluminum"},{"oreName":"nuggetAluminium"}],"targetID":"thermalfoundation:material","targetMeta":196},
+{"matchItems":[{"oreName":"nuggetPlatinum"}],"targetID":"gregtech:meta_nugget","targetMeta":80},
+{"matchItems":[{"oreName":"nuggetIridium"}],"targetID":"ic2:misc_resource","targetMeta":2},
+{"matchItems":[{"oreName":"nuggetBronze"}],"targetID":"thermalfoundation:material","targetMeta":227},
+{"matchItems":[{"oreName":"nuggetBrass"}],"targetID":"astrotweaks:brass_nugget"},
+{"matchItems":[{"oreName":"nuggetInvar"}],"targetID":"thermalfoundation:material","targetMeta":226},
+{"matchItems":[{"oreName":"nuggetDiamond"}],"targetID":"thermalfoundation:material","targetMeta":16},
+{"matchItems":[{"oreName":"nuggetEmerald"}],"targetID":"thermalfoundation:material","targetMeta":17},
+{"matchItems":[{"oreName":"nuggetElectrum"}],"targetID":"thermalfoundation:material","targetMeta":225},
+
+
+{"matchItems":[{"oreName":"gemRuby"}],"targetID":"astrotweaks:ruby"},
+
+
+{"matchItems":[{"oreName":"gearStone"}],"targetID":"thermalfoundation:material","targetMeta":23},
+{"matchItems":[{"oreName":"gearIron"}],"targetID":"thermalfoundation:material","targetMeta":24},
+{"matchItems":[{"oreName":"gearDiamond"}],"targetID":"thermalfoundation:material","targetMeta":26},
+{"matchItems":[{"oreName":"gearEmerald"}],"targetID":"thermalfoundation:material","targetMeta":27},
+{"matchItems":[{"oreName":"gearTin"}],"targetID":"thermalfoundation:material","targetMeta":257},
+{"matchItems":[{"oreName":"gearAluminum"},{"oreName":"gearAluminium"}],"targetID":"thermalfoundation:material","targetMeta":260},
+{"matchItems":[{"oreName":"gearSteel"}],"targetID":"thermalfoundation:material","targetMeta":288},
+{"matchItems":[{"oreName":"gearInvar"}],"targetID":"thermalfoundation:material","targetMeta":290},
+{"matchItems":[{"oreName":"gearBronze"}],"targetID":"thermalfoundation:material","targetMeta":291},
+{"matchItems":[{"oreName":"gearWood"}],"targetID":"thermalfoundation:material","targetMeta":22},
+
+
+
+
+
+
+{"matchItems":[{"id":"astrotweaks:bone_shard"}],"targetID":"pyrotech:material","targetMeta":11},
+{"matchItems":[{"id":"astrotweaks:diamond_shard"}],"targetID":"pyrotech:material","targetMeta":18},
+{"matchItems":[{"id":"astrotweaks:flint_shard"}],"targetID":"pyrotech:material","targetMeta":10},
+{"matchItems":[{"oreName":"plateDenseObsidian"}],"targetID":"ic2:plate","targetMeta":15},
+
+
+
+
+
+
+
+
+{"matchItems":[{"oreName":"blockNetherStar"}],"targetID":"astrotweaks:netherstar_block"},
+
+
+
+
+
+
+{"matchItems":[{"oreName":"stickStone"}],"targetID":"pyrotech:material","targetMeta":27},
+
+
+
+
+
+
+
+
+
+
+
+
+{"matchItems": [{"meta": 7,"id": "ironchest:iron_chest"}],
+    "targetID": "astrotweaks:null_item"
+  }
+
+]

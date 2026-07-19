@@ -1,0 +1,15 @@
+{
+	title: "Copper Processing",
+	icon: "thermalfoundation:material 1 128",
+	x: 13.0d,
+	y: -2.0d,
+	description: "Обработка меди",
+	tasks: [{
+		uid: "5f5f83db",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 128"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "Improved mining algorithms",
+	x: 7.0d,
+	y: 4.0d,
+	description: "Улучшенные алгоритмы добычи",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "b88dd3ab",
+		type: "item",
+		items: [{
+			item: "quarryplus:chunkdestroyer"
+		}]
+	}]
+}

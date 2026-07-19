@@ -1,0 +1,20 @@
+{
+	disable_toast: true,
+	x: 11.0d,
+	y: 2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"ed617d54"
+	],
+	tasks: [{
+		uid: "76f5e611",
+		type: "item",
+		items: [{
+			id: "mets:advanced_iridium_sword",
+			Damage: 12344s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

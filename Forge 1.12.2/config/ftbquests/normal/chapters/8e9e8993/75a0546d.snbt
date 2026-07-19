@@ -1,0 +1,34 @@
+{
+	title: "Lasers",
+	icon: {
+		id: "ic2:mining_laser",
+		tag: {
+			charge: 300000.0d
+		}
+	},
+	x: 3.0d,
+	y: 0.0d,
+	description: "Лазеры",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "af84700e",
+		type: "item",
+		items: [{
+			item: "astrotweaks:laser_emitter"
+		}]
+	},
+	{
+		uid: "fa47c710",
+		type: "item",
+		items: [{
+			id: "ic2:mining_laser",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

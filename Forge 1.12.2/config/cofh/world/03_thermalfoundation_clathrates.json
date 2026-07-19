@@ -1,0 +1,97 @@
+{
+	"dependencies": "thermalfoundation",
+	"populate": {
+		"redstone_clathrate": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "thermalfoundation:ore_fluid",
+						"properties": {
+							"type": "redstone"
+						},
+						"weight": 99
+					},
+					{
+						"name": "thermalfoundation:fluid_redstone",
+						"weight": 1
+					}
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 15
+			},
+			"cluster-count": 2,
+			"chunk-chance": 10,
+			"min-height": 4,
+			"max-height": 20,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		"glowstone_clathrate": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "thermalfoundation:ore_fluid",
+						"properties": {
+							"type": "glowstone"
+						},
+						"weight": 90
+					},
+					{
+						"name": "thermalfoundation:fluid_glowstone",
+						"weight": 10
+					}
+				],
+				"material": "minecraft:netherrack",
+				"cluster-size": 20
+			},
+			"cluster-count": 2,
+			"chunk-chance": 12,
+			"min-height": 10,
+			"max-height": 40,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1
+				]
+			}
+		},
+		"ender_clathrate": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "thermalfoundation:ore_fluid",
+					"properties": {
+						"type": "ender"
+					}
+				},
+				"material": "minecraft:end_stone",
+				"cluster-size": 24
+			},
+			"cluster-count": 10,
+			"chunk-chance": 4,
+			"min-height": 10,
+			"max-height": 80,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					1
+				]
+			}
+		}
+	}
+}

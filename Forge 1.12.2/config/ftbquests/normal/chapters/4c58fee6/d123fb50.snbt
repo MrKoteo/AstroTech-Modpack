@@ -1,0 +1,26 @@
+{
+	title: "Mining",
+	icon: "minecraft:stone_pickaxe",
+	x: 13.0d,
+	y: 0.0d,
+	description: "Горное дело",
+	or_tasks: true,
+	tasks: [{
+		uid: "08fba5ec",
+		type: "item",
+		items: [{
+			item: "pyrotech:flint_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b93534de",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:tool.pickaxe_copper"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "Electrical Circuits",
+	icon: "ic2:crafting 1 1",
+	x: 11.0d,
+	y: 2.0d,
+	description: "Электрические схемы",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "cbc1a70e",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any circuitBasic"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "circuitBasic"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

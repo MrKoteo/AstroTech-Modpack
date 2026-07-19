@@ -1,0 +1,18 @@
+{
+	title: "Advanced Optics",
+	x: 3.0d,
+	y: -2.0d,
+	description: "Продвинутая оптика",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "629e62d8",
+		type: "item",
+		items: [{
+			item: "mets:lens"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,10 @@
+{
+	x: 1.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "8370cfc8",
+		type: "stat",
+		stat: "stat.timeSinceDeath",
+		value: 144000
+	}]
+}

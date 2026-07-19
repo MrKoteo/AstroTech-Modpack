@@ -1,0 +1,27 @@
+{
+	title: "Iridium",
+	icon: "ic2:misc_resource 1 1",
+	x: 13.0d,
+	y: 4.0d,
+	description: "Иридий",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	tasks: [{
+		uid: "0caac9e1",
+		type: "item",
+		items: [{
+			item: "ic2:misc_resource 1 1"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "21b9858f",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 135"
+		}],
+		consume_items: true
+	}]
+}

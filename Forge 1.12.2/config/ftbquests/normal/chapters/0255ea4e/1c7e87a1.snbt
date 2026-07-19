@@ -1,0 +1,28 @@
+{
+	title: "GESU Energy Array (LuV)",
+	icon: "mets:te 1 24",
+	x: 8.0d,
+	y: 2.0d,
+	description: "Энергомассив GESU (LuV)",
+	tasks: [{
+		uid: "90cbcd22",
+		type: "item",
+		items: [{
+			item: "mets:te 1 24"
+		}]
+	},
+	{
+		uid: "aa77eaf2",
+		type: "item",
+		items: [{
+			item: "mets:te 1 25"
+		}]
+	},
+	{
+		uid: "f7001923",
+		type: "item",
+		items: [{
+			item: "mets:te 1 32"
+		}]
+	}]
+}

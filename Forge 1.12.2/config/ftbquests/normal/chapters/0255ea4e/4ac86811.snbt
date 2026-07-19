@@ -1,0 +1,15 @@
+{
+	title: "Reusable space rockets",
+	icon: "galacticraftcore:rocket_t1",
+	x: 6.0d,
+	y: -2.0d,
+	description: "Многоразовые космические ракеты",
+	tasks: [{
+		uid: "8b85ec7a",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:rocket_t1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

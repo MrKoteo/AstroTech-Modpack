@@ -1,0 +1,20 @@
+{
+	disable_toast: true,
+	x: 2.5d,
+	y: 1.0d,
+	shape: "hexagon",
+	dependencies: [
+		"a86c6c58"
+	],
+	tasks: [{
+		uid: "2ab4ba2d",
+		type: "item",
+		items: [{
+			id: "ic2:lapotron_crystal",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

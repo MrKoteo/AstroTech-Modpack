@@ -1,0 +1,32 @@
+{
+	title: "Predictive Systems",
+	icon: "openmodularturrets:potato_cannon_turret",
+	x: 15.0d,
+	y: 2.0d,
+	description: "Прогнозирующие системы",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "81fbc57c",
+		type: "item",
+		items: [{
+			item: "openmodularturrets:potato_cannon_turret"
+		}]
+	},
+	{
+		uid: "a7429218",
+		type: "item",
+		items: [{
+			item: "mets:te 1 42"
+		}]
+	},
+	{
+		uid: "78e3bb23",
+		type: "item",
+		items: [{
+			item: "mets:te 1 43"
+		}]
+	}]
+}

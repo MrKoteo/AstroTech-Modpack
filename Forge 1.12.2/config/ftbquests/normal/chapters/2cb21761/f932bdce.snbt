@@ -1,0 +1,22 @@
+{
+	title: "Oil",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "oil",
+			Amount: 1000
+		}
+	},
+	x: 5.0d,
+	y: 2.0d,
+	description: "Нефть",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "ec8f43eb",
+		type: "fluid",
+		fluid: "oil"
+	}]
+}

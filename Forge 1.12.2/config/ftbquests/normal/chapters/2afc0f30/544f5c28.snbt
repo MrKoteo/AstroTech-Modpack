@@ -1,0 +1,19 @@
+{
+	icon: "minecraft:structure_void",
+	disable_toast: true,
+	x: -2.5d,
+	y: 0.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "2dc14db2",
+		type: "checkmark",
+		icon: "minecraft:barrier"
+	}],
+	rewards: [{
+		uid: "606e5800",
+		type: "command",
+		auto: "enabled",
+		command: "/give @s minecraft:stick 1 0 {ench:[{\"id\":17,\"lvl\":1000}]}",
+		player_command: true
+	}]
+}

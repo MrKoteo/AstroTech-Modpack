@@ -1,0 +1,45 @@
+#modloaded securitycraft
+#packmode normal hard
+#priority 200
+
+import crafttweaker.item.IItemStack;
+import crafttweaker.item.IIngredient;
+
+
+
+// Заминированные рельсы
+recipes.remove(<securitycraft:track_mine>);
+recipes.addShapeless(<securitycraft:track_mine>, [<minecraft:rail>,<securitycraft:mine>]);
+
+// мина
+recipes.remove(<securitycraft:mine>);
+recipes.addShaped(<securitycraft:mine>, [[null, null, null],[null, <minecraft:stone_pressure_plate>, null], [<ore:ingotIron>, <ic2:dynamite>, <ore:ingotIron>]]);
+// железная мина
+recipes.remove(<securitycraft:bouncing_betty>);
+recipes.addShaped(<securitycraft:bouncing_betty>, [[null, null, null],[null, <minecraft:heavy_weighted_pressure_plate>, null], [<ore:ingotIron>, <ic2:dynamite>, <ore:ingotIron>]]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

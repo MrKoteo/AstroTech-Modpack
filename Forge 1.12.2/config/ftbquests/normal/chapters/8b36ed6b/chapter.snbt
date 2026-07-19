@@ -1,0 +1,7 @@
+{
+	title: "Applied Energetics 2",
+	icon: "chisel:futura 1 2",
+	always_invisible: false,
+	group: -1902212717,
+	default_quest_shape: ""
+}

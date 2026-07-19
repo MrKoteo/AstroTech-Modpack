@@ -1,0 +1,13 @@
+{
+	disable_toast: true,
+	x: 17.5d,
+	y: 4.5d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "2c1f237d",
+		type: "item",
+		items: [{
+			item: "mets:field_generator"
+		}]
+	}]
+}

@@ -1,0 +1,50 @@
+{
+	title: "Броня из кожи",
+	icon: {
+		id: "minecraft:leather_helmet",
+		tag: {}
+	},
+	x: 0.0d,
+	y: -2.0d,
+	description: "Leather armor",
+	tasks: [{
+		uid: "f4b0acd8",
+		type: "item",
+		items: [{
+			id: "minecraft:leather_helmet",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4938db24",
+		type: "item",
+		items: [{
+			id: "minecraft:leather_chestplate",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8457ed8a",
+		type: "item",
+		items: [{
+			id: "minecraft:leather_leggings",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "415c4c58",
+		type: "item",
+		items: [{
+			id: "minecraft:leather_boots",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

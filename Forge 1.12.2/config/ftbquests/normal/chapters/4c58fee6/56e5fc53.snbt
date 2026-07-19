@@ -1,0 +1,81 @@
+{
+	title: "Tools of labor",
+	icon: "minecraft:stone_axe",
+	x: 3.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	description: "Орудия труда",
+	or_tasks: true,
+	tasks: [{
+		uid: "84246255",
+		type: "item",
+		items: [{
+			item: "pyrotech:flint_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "aca33495",
+		type: "item",
+		items: [{
+			item: "pyrotech:flint_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "95f5c734",
+		type: "item",
+		items: [{
+			item: "pyrotech:flint_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "dd40df86",
+		type: "item",
+		items: [{
+			item: "pyrotech:flint_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "18548e89",
+		type: "item",
+		items: [{
+			item: "pyrotech:crude_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7b36a2c8",
+		type: "item",
+		items: [{
+			item: "pyrotech:crude_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2f2b60e5",
+		type: "item",
+		items: [{
+			item: "pyrotech:crude_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "187570c2",
+		type: "item",
+		items: [{
+			item: "pyrotech:crude_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

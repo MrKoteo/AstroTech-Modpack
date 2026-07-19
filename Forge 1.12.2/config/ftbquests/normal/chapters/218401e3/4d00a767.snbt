@@ -1,0 +1,20 @@
+{
+	disable_toast: true,
+	x: 4.0d,
+	y: 6.0d,
+	shape: "hexagon",
+	dependencies: [
+		"93fb88ae"
+	],
+	tasks: [{
+		uid: "dd9f58e7",
+		type: "item",
+		items: [{
+			id: "ic2:quantum_leggings",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

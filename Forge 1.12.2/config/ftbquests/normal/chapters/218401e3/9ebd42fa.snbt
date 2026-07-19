@@ -1,0 +1,30 @@
+{
+	title: "...",
+	icon: "astrotweaks:unknown_block",
+	disable_toast: true,
+	x: 30.0d,
+	y: 0.0d,
+	shape: "octagon",
+	dependencies: [
+		"291a86c2"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "d0975392",
+		type: "checkmark",
+		title: "[click]",
+		disable_toast: true
+	}],
+	rewards: [{
+		uid: "d85d9ef6",
+		type: "item",
+		item: "astrotweaks:phoenix_badge"
+	},
+	{
+		uid: "3e5061e5",
+		type: "command",
+		title: "Космическая эра",
+		command: "/gamestage add @s space_age",
+		player_command: true
+	}]
+}

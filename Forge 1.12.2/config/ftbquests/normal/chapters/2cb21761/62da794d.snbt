@@ -1,0 +1,32 @@
+{
+	title: "Rifled barrels",
+	icon: {
+		id: "techguns:ak47",
+		tag: {
+			camo: 0b,
+			ammovariant: "default",
+			ammo: 30s
+		}
+	},
+	x: 19.0d,
+	y: 0.0d,
+	description: "Нарезные стволы",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "ae9a09c5",
+		type: "item",
+		items: [{
+			id: "techguns:ak47",
+			tag: {
+				camo: 0b,
+				ammovariant: "default",
+				ammo: 30s
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

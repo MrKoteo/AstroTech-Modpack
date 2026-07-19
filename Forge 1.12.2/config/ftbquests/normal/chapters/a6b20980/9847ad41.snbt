@@ -1,0 +1,58 @@
+{
+	title: "PPE",
+	icon: {
+		id: "ic2:hazmat_helmet",
+		tag: {}
+	},
+	x: 3.0d,
+	y: 0.0d,
+	description: "СИЗ",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	tasks: [{
+		uid: "7c73d64a",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "ic2:hazmat_helmet",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "690c9673",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "ic2:hazmat_chestplate",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "52334da3",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "ic2:hazmat_leggings",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "670bb8b7",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "ic2:rubber_boots",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

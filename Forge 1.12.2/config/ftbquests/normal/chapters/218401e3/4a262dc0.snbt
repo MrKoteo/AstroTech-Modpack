@@ -1,0 +1,11 @@
+{
+	x: 23.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "eb69850e",
+		type: "item",
+		items: [{
+			item: "astrotweaks:quad_dddd_quant"
+		}]
+	}]
+}

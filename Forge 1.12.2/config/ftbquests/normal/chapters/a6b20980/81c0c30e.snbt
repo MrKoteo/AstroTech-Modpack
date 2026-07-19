@@ -1,0 +1,32 @@
+{
+	title: "Energy conversion",
+	icon: "energyconverters:energy_bridge",
+	x: 17.0d,
+	y: 0.0d,
+	description: "Конвертация энергий",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	tasks: [{
+		uid: "bf69c950",
+		type: "item",
+		items: [{
+			item: "energyconverters:energy_bridge"
+		}]
+	},
+	{
+		uid: "d0f244db",
+		type: "item",
+		items: [{
+			item: "energyconverters:energy_producer_fe"
+		}]
+	},
+	{
+		uid: "80c40b6c",
+		type: "item",
+		items: [{
+			item: "energyconverters:energy_consumer_eu 1 1"
+		}]
+	}]
+}

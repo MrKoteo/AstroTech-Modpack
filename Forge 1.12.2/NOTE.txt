@@ -1,0 +1,4 @@
+
+> with Update requires overwriting the Configs and the entire Mods folder
+
+> при обновлении требуется перезапись Конфигов и всей папки Mods

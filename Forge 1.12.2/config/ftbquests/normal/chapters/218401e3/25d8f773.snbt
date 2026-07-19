@@ -1,0 +1,17 @@
+{
+	disable_toast: true,
+	x: 20.5d,
+	y: 1.0d,
+	shape: "hexagon",
+	dependencies: [
+		"93876438"
+	],
+	tasks: [{
+		uid: "7d8b160c",
+		type: "item",
+		items: [{
+			item: "gravisuite:crafting 1 3"
+		}],
+		count: 2L
+	}]
+}

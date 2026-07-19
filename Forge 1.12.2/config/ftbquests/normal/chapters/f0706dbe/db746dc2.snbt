@@ -1,0 +1,110 @@
+{
+	title: "Trophies",
+	icon: "betteranimalsplus:antler",
+	x: 2.0d,
+	y: -2.0d,
+	description: "Трофеи",
+	or_tasks: true,
+	tasks: [{
+		uid: "29b9ef62",
+		type: "item",
+		items: [{
+			item: "betteranimalsplus:antler"
+		}]
+	},
+	{
+		uid: "5e686030",
+		type: "item",
+		items: [{
+			id: "betteranimalsplus:wolf_cape_classic",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6f82b9c3",
+		type: "item",
+		items: [{
+			id: "betteranimalsplus:wolf_cape_timber",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c43b6154",
+		type: "item",
+		items: [{
+			id: "betteranimalsplus:wolf_cape_black",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "299d0224",
+		type: "item",
+		items: [{
+			id: "betteranimalsplus:wolf_cape_arctic",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8ff39e1a",
+		type: "item",
+		items: [{
+			id: "betteranimalsplus:wolf_cape_brown",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "025ae2fd",
+		type: "item",
+		items: [{
+			id: "betteranimalsplus:wolf_cape_red",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0df454b5",
+		type: "item",
+		items: [{
+			id: "betteranimalsplus:bear_cape_brown",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e681f155",
+		type: "item",
+		items: [{
+			id: "betteranimalsplus:bear_cape_black",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b7c94c89",
+		type: "item",
+		items: [{
+			id: "betteranimalsplus:bear_cape_kermode",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a2b161e0",
+		type: "xp",
+		xp: 25
+	}]
+}

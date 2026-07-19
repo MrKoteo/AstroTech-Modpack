@@ -1,0 +1,13 @@
+{
+	disable_toast: true,
+	x: 8.5d,
+	y: 1.5d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "f633928a",
+		type: "item",
+		items: [{
+			item: "avaritia:extreme_crafting_table"
+		}]
+	}]
+}

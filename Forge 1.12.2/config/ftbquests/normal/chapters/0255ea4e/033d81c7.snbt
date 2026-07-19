@@ -1,0 +1,14 @@
+{
+	title: "Cryochambers",
+	icon: "galacticraftplanets:mars_machine 1 4",
+	x: 14.0d,
+	y: -2.0d,
+	description: "Криокамеры",
+	tasks: [{
+		uid: "5bca968a",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:mars_machine 1 4"
+		}]
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "Simplest armor",
+	icon: {
+		id: "mocreatures:furhelmet",
+		tag: {}
+	},
+	x: 9.0d,
+	y: -6.0d,
+	description: "Простейшая броня",
+	dependencies: [
+		"29e97dbb",
+		"43061975",
+		"40acf168",
+		"862c7cc9"
+	],
+	dependency_requirement: "one_completed",
+	or_tasks: true,
+	tasks: [{
+		uid: "05888e79",
+		type: "checkmark",
+		icon: {
+			id: "mocreatures:furhelmet",
+			tag: {}
+		}
+	}]
+}

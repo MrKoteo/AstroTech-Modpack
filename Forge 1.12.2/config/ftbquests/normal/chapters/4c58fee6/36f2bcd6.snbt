@@ -1,0 +1,17 @@
+{
+	title: "Trophies",
+	icon: "betteranimalsplus:antler",
+	x: 3.0d,
+	y: -4.0d,
+	description: "Трофеи",
+	dependencies: [
+		"db746dc2"
+	],
+	dependency_requirement: "one_started",
+	or_tasks: true,
+	tasks: [{
+		uid: "8cd7f0c4",
+		type: "checkmark",
+		icon: "betteranimalsplus:antler"
+	}]
+}

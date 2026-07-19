@@ -1,0 +1,28 @@
+{
+	title: "Mechanisms",
+	icon: "minecraft:piston",
+	x: 9.0d,
+	y: 0.0d,
+	description: "Механизмы",
+	hide_dependency_lines: true,
+	dependencies: [
+		"4c2f63f2"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "0a825d8c",
+		type: "item",
+		items: [{
+			item: "minecraft:piston"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "810bd072",
+		type: "item",
+		items: [{
+			item: "wopper:wopper"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	text: [
+		"Используется для конвертации EU -> AE"
+	],
+	tasks: [{
+		uid: "1f47d164",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:energy_acceptor"
+		}]
+	}]
+}

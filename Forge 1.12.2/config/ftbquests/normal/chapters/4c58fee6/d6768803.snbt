@@ -1,0 +1,24 @@
+{
+	title: "Bronze Processing",
+	icon: "thermalfoundation:material 1 163",
+	x: 17.0d,
+	y: -2.0d,
+	description: "Обработка бронзы",
+	tasks: [{
+		uid: "e420fe34",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 163"
+		}],
+		consume_items: true,
+		only_from_crafting: true
+	},
+	{
+		uid: "4d365d83",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 99"
+		}],
+		consume_items: true
+	}]
+}

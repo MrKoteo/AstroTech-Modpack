@@ -1,0 +1,17 @@
+{
+	icon: "quark:arrow_explosive",
+	x: 9.0d,
+	y: -4.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"4c2f63f2"
+	],
+	tasks: [{
+		uid: "7c89728b",
+		type: "item",
+		items: [{
+			item: "quark:arrow_explosive"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	title: "Hyper-high Voltage (LuV)",
+	icon: "mets:te 1 33",
+	x: 23.0d,
+	y: 0.0d,
+	description: "Гипервысокое напряжение LuV",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "8c290b50",
+		type: "item",
+		items: [{
+			item: "mets:te 1 33"
+		}]
+	},
+	{
+		uid: "8b6f05c1",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_hex 1 75"
+		}]
+	},
+	{
+		uid: "f62b75f3",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_hex 1 296"
+		}]
+	}]
+}

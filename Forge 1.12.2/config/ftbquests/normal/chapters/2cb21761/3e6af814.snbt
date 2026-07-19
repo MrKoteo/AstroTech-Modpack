@@ -1,0 +1,27 @@
+{
+	title: "Designing",
+	icon: "ic2:scaffold",
+	x: 7.0d,
+	y: -2.0d,
+	description: "Проектирование",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "c5d1e5c8",
+		type: "item",
+		items: [{
+			item: "ic2:scaffold"
+		}]
+	},
+	{
+		uid: "e74bfb4f",
+		type: "item",
+		items: [{
+			item: "portablecraftingtable:portable_crafting_table"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

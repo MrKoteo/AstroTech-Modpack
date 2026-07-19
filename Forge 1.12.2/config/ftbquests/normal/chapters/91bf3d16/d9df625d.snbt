@@ -1,0 +1,38 @@
+{
+	title: "Money",
+	icon: "astrotweaks:gold_coin",
+	x: 3.0d,
+	y: -2.0d,
+	description: "Деньги",
+	dependencies: [
+		"4c2f63f2"
+	],
+	tasks: [{
+		uid: "6d1f66c6",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "astrotweaks:copper_coin"
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "c7606fd4",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "astrotweaks:silver_coin"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "5f78e5a5",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "astrotweaks:gold_coin"
+		}],
+		consume_items: true
+	}]
+}

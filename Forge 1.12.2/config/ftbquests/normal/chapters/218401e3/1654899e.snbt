@@ -1,0 +1,19 @@
+{
+	disable_toast: true,
+	x: 4.0d,
+	y: 2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"008ecb10"
+	],
+	tasks: [{
+		uid: "be1e4a49",
+		type: "item",
+		items: [{
+			id: "mets:lithium_battery",
+			tag: {
+				charge: 50000.0d
+			}
+		}]
+	}]
+}

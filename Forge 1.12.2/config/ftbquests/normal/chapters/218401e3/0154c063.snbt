@@ -1,0 +1,16 @@
+{
+	disable_toast: true,
+	x: 11.5d,
+	y: 1.0d,
+	shape: "hexagon",
+	dependencies: [
+		"d82ba63a"
+	],
+	tasks: [{
+		uid: "2c009401",
+		type: "item",
+		items: [{
+			item: "advanced_solar_panels:crafting 1 2"
+		}]
+	}]
+}

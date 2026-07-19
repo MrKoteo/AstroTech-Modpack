@@ -1,0 +1,14 @@
+{
+	title: "Sublight engines",
+	icon: "galaxyspace:rocket_modules 1 6",
+	x: 24.0d,
+	y: -2.0d,
+	description: "Суб-световые двигатели",
+	tasks: [{
+		uid: "b4d1425c",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_modules 1 6"
+		}]
+	}]
+}

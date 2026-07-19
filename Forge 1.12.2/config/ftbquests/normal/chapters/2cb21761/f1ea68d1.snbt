@@ -1,0 +1,41 @@
+{
+	title: "Steelmaking",
+	icon: "thermalfoundation:material 1 160",
+	x: 11.0d,
+	y: -4.0d,
+	description: "Сталеварение",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "ca299ebc",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 50"
+		}]
+	},
+	{
+		uid: "8ebf7990",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 15"
+		}]
+	},
+	{
+		uid: "d16c95a4",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 160"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "3972ecfe",
+		type: "item",
+		items: [{
+			item: "ic2:crafting 1 5"
+		}],
+		count: 10L
+	}]
+}

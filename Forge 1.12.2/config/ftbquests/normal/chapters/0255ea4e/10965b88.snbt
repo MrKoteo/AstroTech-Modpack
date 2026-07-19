@@ -1,0 +1,11 @@
+{
+	x: 26.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "4f7926af",
+		type: "item",
+		items: [{
+			item: "wirelesstools:witiles 1 15"
+		}]
+	}]
+}

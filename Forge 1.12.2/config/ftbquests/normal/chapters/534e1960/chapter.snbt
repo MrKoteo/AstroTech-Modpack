@@ -1,0 +1,7 @@
+{
+	title: "Nuclearcraft",
+	icon: "ic2:te 1 24",
+	always_invisible: false,
+	group: -1498281600,
+	default_quest_shape: ""
+}

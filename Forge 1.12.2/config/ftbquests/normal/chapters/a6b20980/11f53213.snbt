@@ -1,0 +1,38 @@
+{
+	title: "Extreme Voltage (EV)",
+	icon: {
+		id: "ic2:cable",
+		Damage: 3s,
+		tag: {
+			type: 3b,
+			insulation: 3b
+		}
+	},
+	x: 19.0d,
+	y: 0.0d,
+	description: "Высокое напряжение EV",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	tasks: [{
+		uid: "84a0bc33",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "ic2:cable",
+			Damage: 3s,
+			tag: {
+				type: 3b,
+				insulation: 3b
+			}
+		}]
+	},
+	{
+		uid: "ddfdf81c",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 79"
+		}]
+	}]
+}

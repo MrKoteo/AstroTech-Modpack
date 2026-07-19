@@ -1,0 +1,25 @@
+{
+	x: 2.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "e3f6ffb2",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine 1 12"
+		}]
+	},
+	{
+		uid: "171555be",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine2"
+		}]
+	},
+	{
+		uid: "323dbed8",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine4"
+		}]
+	}]
+}

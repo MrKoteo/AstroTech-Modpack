@@ -1,0 +1,23 @@
+{
+	title: "Pottery",
+	icon: "ceramics:unfired_clay 1 9",
+	x: 9.0d,
+	y: 0.0d,
+	description: "Гончарное дело",
+	tasks: [{
+		uid: "f0d8bf1c",
+		type: "item",
+		items: [{
+			item: "ceramics:unfired_clay 1 9"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "d3fd8b35",
+		type: "item",
+		items: [{
+			item: "minecraft:brick"
+		}],
+		consume_items: true
+	}]
+}

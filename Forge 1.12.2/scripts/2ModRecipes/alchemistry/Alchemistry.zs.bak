@@ -1,0 +1,20 @@
+#priority 20
+import crafttweaker.item.IItemStack;
+import crafttweaker.item.IIngredient;
+
+//import mods.alchemistry;
+
+// mods.alchemistry.Combiner.addRecipe(IItemStack output, IItemstack[] input);
+// mods.alchemistry.Combiner.removeRecipe(IItemStack output);
+
+mods.alchemistry.Combiner.removeRecipe(<minecraft:quartz>);
+mods.alchemistry.Combiner.addRecipe(<minecraft:quartz>, [null,null,null,null,null,null,<alchemistry:compound:1>*32]);
+
+recipes.remove(<ic2:dust:13>);
+mods.alchemistry.Combiner.addRecipe(<ic2:dust:13>, [<alchemistry:compound:1>*8,<alchemistry:compound:1>*8]);
+
+
+mods.alchemistry.Combiner.addRecipe(<chisel:marble2:7>, [<alchemistry:element:20>*1,<alchemistry:element:6>*1,<alchemistry:element:8>*3,null,null,null,null,null,null]);
+
+//Dissolver.addRecipe(IIngredient input, boolean "относительная вероятность", (на)"int проходов", Object[][] probabilityGroups);
+//mods.alchemistry.Dissolver.addRecipe(<chisel:marble2:7>, false, 1,[[90, <alchemistry:element:20>,<alchemistry:element:6>,<alchemistry:element:8>*3], [10, <alchemistry:element:20>,<alchemistry:element:6>,<alchemistry:element:8>*3,<alchemistry:element:21>]]);

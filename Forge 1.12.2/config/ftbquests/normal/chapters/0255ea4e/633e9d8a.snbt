@@ -1,0 +1,14 @@
+{
+	title: "Advanced Rocket Assemblers",
+	icon: "galaxyspace:rocket_assembler",
+	x: 16.0d,
+	y: -2.0d,
+	description: "Продвинутые сборщики ракет",
+	tasks: [{
+		uid: "1f43bdab",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_assembler"
+		}]
+	}]
+}

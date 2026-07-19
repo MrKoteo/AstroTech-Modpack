@@ -1,0 +1,30 @@
+{
+	title: "Advanced electronics",
+	icon: "ic2:crafting 1 2",
+	x: 13.0d,
+	y: 0.0d,
+	description: "Улучшенная электроника",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	tasks: [{
+		uid: "63836666",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any circuitAdvanced"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "circuitAdvanced"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

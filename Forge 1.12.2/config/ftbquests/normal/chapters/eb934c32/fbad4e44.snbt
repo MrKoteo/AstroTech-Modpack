@@ -1,0 +1,12 @@
+{
+	icon: "galaxyspace:rocket_modules 1 7",
+	x: 37.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "34b06920",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_modules 1 7"
+		}]
+	}]
+}

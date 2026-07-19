@@ -1,0 +1,17 @@
+[
+  {
+    "type": "Item",
+    "name": "minecraft:redstone_block",
+    "meta": 0
+  },
+  {
+    "type": "OreDict",
+    "name": "blockRedstone",
+    "meta": 0
+  },
+  {
+    "type": "ModID",
+    "name": "minecraft",
+    "meta": -1
+  }
+]

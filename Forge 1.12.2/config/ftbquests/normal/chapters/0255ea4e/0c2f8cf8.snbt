@@ -1,0 +1,32 @@
+{
+	title: "IV Batteries",
+	icon: {
+		id: "energycontrol:afsu",
+		tag: {
+			energy: 0.0d
+		}
+	},
+	x: 8.0d,
+	y: 4.0d,
+	description: "Аккумуляторы IV",
+	or_tasks: true,
+	tasks: [{
+		uid: "2817a12e",
+		type: "item",
+		items: [{
+			id: "energycontrol:afsu",
+			tag: {
+				energy: 0.0d
+			}
+		}]
+	},
+	{
+		uid: "c7a3f3f3",
+		type: "item",
+		items: [{
+			id: "mets:te",
+			Damage: 2s,
+			tag: {}
+		}]
+	}]
+}

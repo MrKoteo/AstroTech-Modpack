@@ -1,0 +1,11 @@
+{
+	x: 5.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "ffa88a86",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_compressor"
+		}]
+	}]
+}

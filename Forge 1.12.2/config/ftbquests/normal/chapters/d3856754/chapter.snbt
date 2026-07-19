@@ -1,0 +1,24 @@
+{
+	title: "INFO",
+	icon: {
+		id: "patchouli:guide_book",
+		tag: {
+			"patchouli:book": "patchouli:astrotech"
+		}
+	},
+	disable_toast: true,
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "octagon",
+	images: [{
+		x: -3.0d,
+		y: 0.5d,
+		width: 3.0d,
+		height: 2.0d,
+		rotation: 0.0d,
+		image: "loaded:images/ins1.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

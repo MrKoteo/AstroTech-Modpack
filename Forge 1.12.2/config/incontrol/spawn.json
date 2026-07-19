@@ -1,0 +1,18 @@
+[
+  {
+    "minheight": 120,
+    "passive": true,
+    "result": "deny"
+  },
+  {
+    "mob": ["minecraft:pig", "minecraft:chicken"],
+    "biometype": "STEEP",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:sheep",
+    "biometype": "STEEP",
+    "block": ["minecraft:stone", "minecraft:cobblestone"],
+    "result": "deny"
+  }
+]

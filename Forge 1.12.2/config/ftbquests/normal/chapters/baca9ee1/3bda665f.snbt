@@ -1,0 +1,19 @@
+{
+	title: "Strange Matter",
+	icon: "astrotweaks:strange_matter",
+	x: 2.5d,
+	y: -2.0d,
+	description: "Странная материя",
+	hide_dependency_lines: true,
+	dependencies: [
+		"27c4d762"
+	],
+	tasks: [{
+		uid: "bc09c919",
+		type: "item",
+		items: [{
+			item: "astrotweaks:strange_matter"
+		}],
+		consume_items: true
+	}]
+}

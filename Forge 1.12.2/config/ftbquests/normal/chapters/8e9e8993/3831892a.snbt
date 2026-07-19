@@ -1,0 +1,19 @@
+{
+	title: "Genetics",
+	icon: "astrotweaks:genetics",
+	x: 5.0d,
+	y: 2.0d,
+	description: "Генетика",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "2a74903b",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:emptysyringe"
+		}],
+		consume_items: true
+	}]
+}

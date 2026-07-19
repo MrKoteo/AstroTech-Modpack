@@ -1,0 +1,7 @@
+{
+    "name": "Guide for AstroTech",
+	"landing_text": "loc.book_at.at_main",
+    "version": 1,
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": false
+}

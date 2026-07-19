@@ -1,0 +1,19 @@
+{
+	disable_toast: true,
+	x: 4.5d,
+	y: 3.0d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "e14381b0",
+		type: "item",
+		items: [{
+			id: "mets:advanced_lithium_battery",
+			tag: {
+				charge: 200000.0d
+			},
+			ForgeCaps: {
+				"ocdevices:item_analyze": {}
+			}
+		}]
+	}]
+}

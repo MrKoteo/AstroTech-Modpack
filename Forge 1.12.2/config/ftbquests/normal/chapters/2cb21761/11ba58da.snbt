@@ -1,0 +1,28 @@
+{
+	title: "Railway",
+	icon: "minecraft:rail",
+	x: 5.0d,
+	y: -2.0d,
+	description: "Железная дорога",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "8b9a778d",
+		type: "item",
+		items: [{
+			item: "minecraft:rail"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "b9def1bc",
+		type: "item",
+		items: [{
+			item: "minecraft:golden_rail"
+		}],
+		consume_items: true
+	}]
+}

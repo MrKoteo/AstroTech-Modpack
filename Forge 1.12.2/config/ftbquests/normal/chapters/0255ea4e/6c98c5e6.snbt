@@ -1,0 +1,33 @@
+{
+	title: "The void is cold and alluring...",
+	icon: "astrotweaks:space_badge",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "circle",
+	description: "Пустота холодна и маняща...",
+	dependencies: [
+		"14ec424a"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "6ce01aae",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "518d285d",
+		type: "xp",
+		xp: 480
+	},
+	{
+		uid: "77ce92c8",
+		type: "item",
+		item: "astrotweaks:phoenix_badge"
+	},
+	{
+		uid: "4f8740dd",
+		type: "gamestage",
+		team_reward: true,
+		auto: "no_toast",
+		stage: "space"
+	}]
+}

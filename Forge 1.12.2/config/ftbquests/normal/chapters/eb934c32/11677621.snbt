@@ -1,0 +1,11 @@
+{
+	x: 13.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "fe79d165",
+		type: "item",
+		items: [{
+			item: "galaxyspace:universal_recycler"
+		}]
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	title: "Using Antimatter",
+	icon: "astrotweaks:y_anti_quant",
+	x: 18.0d,
+	y: 4.0d,
+	description: "Использование Антиматерии",
+	tasks: [{
+		uid: "e0290e84",
+		type: "item",
+		items: [{
+			item: "qmd:antimatter_launcher"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "70731ab2",
+		type: "item",
+		items: [{
+			id: "qmd:cell",
+			Damage: 1s,
+			tag: {
+				particle_storage: {
+					particle_amount: 100000,
+					particle_capacity: 100000
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

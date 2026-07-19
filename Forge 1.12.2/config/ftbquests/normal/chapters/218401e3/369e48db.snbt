@@ -1,0 +1,16 @@
+{
+	disable_toast: true,
+	x: 13.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"4b2d3e79"
+	],
+	tasks: [{
+		uid: "fa081496",
+		type: "item",
+		items: [{
+			item: "advanced_solar_panels:machines 1 4"
+		}]
+	}]
+}

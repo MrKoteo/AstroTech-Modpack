@@ -1,0 +1,20 @@
+{
+	disable_toast: true,
+	x: 19.0d,
+	y: 2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"97a8d917"
+	],
+	tasks: [{
+		uid: "397b73b8",
+		type: "item",
+		items: [{
+			id: "gravisuite:ultimatelappack",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

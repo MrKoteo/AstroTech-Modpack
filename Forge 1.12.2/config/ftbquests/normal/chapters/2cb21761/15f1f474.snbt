@@ -1,0 +1,25 @@
+{
+	title: "Storage cells",
+	icon: "ic2:fluid_cell",
+	x: 15.0d,
+	y: -2.0d,
+	description: "Ячейки хранения",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "b364ee3b",
+		type: "item",
+		items: [{
+			item: "ic2:fluid_cell"
+		}],
+		count: 3L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "eb8fbe08",
+		type: "item",
+		item: "ic2:fluid_cell"
+	}]
+}

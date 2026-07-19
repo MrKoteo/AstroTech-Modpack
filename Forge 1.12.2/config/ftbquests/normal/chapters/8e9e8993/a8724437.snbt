@@ -1,0 +1,15 @@
+{
+	title: "AGI",
+	icon: "opencomputers:upgrade",
+	x: 19.0d,
+	y: -2.0d,
+	description: "Общий ИИ",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "a881774f",
+		type: "checkmark"
+	}]
+}

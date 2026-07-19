@@ -1,0 +1,25 @@
+{
+	title: "Separation",
+	icon: "exnihilocreatio:block_sieve",
+	x: 3.0d,
+	y: 2.0d,
+	description: "Сепарация",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "8ddf22a5",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_sieve"
+		}]
+	},
+	{
+		uid: "1b704ff7",
+		type: "item",
+		items: [{
+			item: "waterstrainer:strainer_base"
+		}]
+	}]
+}

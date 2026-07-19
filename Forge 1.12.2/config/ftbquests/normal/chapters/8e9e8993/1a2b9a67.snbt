@@ -1,0 +1,18 @@
+{
+	title: "Virtualization",
+	icon: "chisel:futura 1 4",
+	x: 11.0d,
+	y: 0.0d,
+	description: "Виртуализация",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "9c648dfe",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:controller"
+		}]
+	}]
+}

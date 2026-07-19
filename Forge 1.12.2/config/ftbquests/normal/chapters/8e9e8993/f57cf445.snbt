@@ -1,0 +1,19 @@
+{
+	title: "Installation protocols",
+	icon: "astrotweaks:scheme",
+	x: 21.0d,
+	y: 6.0d,
+	description: "Схемы монтажа",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "40b89f6d",
+		type: "item",
+		items: [{
+			id: "mbtool:mbtool",
+			tag: {}
+		}]
+	}]
+}

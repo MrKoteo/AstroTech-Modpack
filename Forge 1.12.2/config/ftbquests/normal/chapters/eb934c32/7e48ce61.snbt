@@ -1,0 +1,11 @@
+{
+	x: 12.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "42ea2c9b",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_modules 1 1"
+		}]
+	}]
+}

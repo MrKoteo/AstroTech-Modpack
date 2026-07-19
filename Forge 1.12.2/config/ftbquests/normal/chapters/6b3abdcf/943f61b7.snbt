@@ -1,0 +1,27 @@
+{
+	title: "OpenComputers",
+	disable_toast: true,
+	x: 0.0d,
+	y: 0.0d,
+	shape: "circle",
+	size: 2.0d,
+	tasks: [{
+		uid: "d9271ec0",
+		type: "checkmark",
+		icon: {
+			id: "opencomputers:storage",
+			Damage: 1s,
+			tag: {
+				"oc:lootFactory": "opencomputers:generator",
+				"oc:color": 5,
+				"oc:data": {
+					"oc:fs.label": "generator"
+				},
+				display: {
+					Name: "Generator Upgrade Software"
+				}
+			}
+		},
+		disable_toast: true
+	}]
+}

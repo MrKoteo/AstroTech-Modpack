@@ -1,0 +1,13 @@
+{
+	disable_toast: true,
+	x: 7.5d,
+	y: 5.0d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "6cbbcf00",
+		type: "item",
+		items: [{
+			item: "astrotweaks:void_antimatter"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Materials Grinding",
+	icon: "appliedenergistics2:grindstone",
+	x: 15.0d,
+	y: -2.0d,
+	description: "Измельчение материалов",
+	tasks: [{
+		uid: "2f55ccbf",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:grindstone"
+		}]
+	},
+	{
+		uid: "364c540f",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crank"
+		}]
+	}]
+}

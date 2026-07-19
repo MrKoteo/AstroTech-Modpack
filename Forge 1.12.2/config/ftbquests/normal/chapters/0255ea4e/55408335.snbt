@@ -1,0 +1,14 @@
+{
+	title: "Plasma engines",
+	icon: "galaxyspace:rocket_modules 1 5",
+	x: 22.0d,
+	y: -2.0d,
+	description: "Плазменные двигатели",
+	tasks: [{
+		uid: "5ec395c1",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_modules 1 5"
+		}]
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "Medicine",
+	icon: "yukys_herbmedinice:allium_herbmix",
+	x: 9.0d,
+	y: -2.0d,
+	description: "Лėкарство",
+	tasks: [{
+		uid: "e2877b70",
+		type: "item",
+		items: [{
+			item: "yukys_herbmedinice:medicinemixermolar"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8e082cf1",
+		type: "xp",
+		disable_toast: true,
+		value: 1L,
+		points: false
+	}],
+	rewards: [{
+		uid: "94acc1a4",
+		type: "item",
+		item: "yukys_herbmedinice:herbmedicine",
+		count: 5
+	}]
+}

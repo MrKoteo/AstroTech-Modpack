@@ -1,0 +1,25 @@
+{
+	icon: "minecraft:gunpowder",
+	x: 9.0d,
+	y: -2.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"4c2f63f2"
+	],
+	tasks: [{
+		uid: "9810da12",
+		type: "item",
+		items: [{
+			item: "minecraft:gunpowder"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "67781716",
+		type: "item",
+		items: [{
+			item: "astrotweaks:fulminate_powder"
+		}],
+		consume_items: true
+	}]
+}

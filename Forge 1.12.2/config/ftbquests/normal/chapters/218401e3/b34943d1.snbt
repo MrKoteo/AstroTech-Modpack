@@ -1,0 +1,16 @@
+{
+	disable_toast: true,
+	x: 13.0d,
+	y: -2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"675c8cde"
+	],
+	tasks: [{
+		uid: "f5bf939b",
+		type: "item",
+		items: [{
+			item: "ic2:iridium_reflector"
+		}]
+	}]
+}

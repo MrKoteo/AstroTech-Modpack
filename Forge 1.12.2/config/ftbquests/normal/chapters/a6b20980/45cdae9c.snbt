@@ -1,0 +1,18 @@
+{
+	title: "Geothermal energy",
+	icon: "ic2:te 1 4",
+	x: 7.0d,
+	y: -2.0d,
+	description: "Геотермальная энергия",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	tasks: [{
+		uid: "90241490",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 4"
+		}]
+	}]
+}

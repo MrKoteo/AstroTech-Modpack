@@ -1,0 +1,18 @@
+{
+	title: "Water distillation ",
+	icon: "ic2:te 1 33",
+	x: 17.0d,
+	y: -2.0d,
+	description: "Дистилляция воды",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "c586052c",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 33"
+		}]
+	}]
+}

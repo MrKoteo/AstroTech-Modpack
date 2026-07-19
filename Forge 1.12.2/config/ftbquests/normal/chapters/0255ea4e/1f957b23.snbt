@@ -1,0 +1,14 @@
+{
+	title: "Assembly Matter",
+	icon: "ic2:uu_matter",
+	x: 10.0d,
+	y: 4.0d,
+	description: "Сборочная материя",
+	tasks: [{
+		uid: "596d3054",
+		type: "fluid",
+		icon: "ic2:uu_matter",
+		fluid: "ic2uu_matter",
+		amount: 4040
+	}]
+}

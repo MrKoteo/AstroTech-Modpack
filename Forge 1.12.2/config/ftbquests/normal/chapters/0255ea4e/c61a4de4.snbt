@@ -1,0 +1,20 @@
+{
+	title: "Artificial magnetic field",
+	icon: {
+		id: "thermalinnovation:magnet",
+		Damage: 32000s,
+		tag: {
+			Energy: 600000
+		}
+	},
+	x: 12.0d,
+	y: -4.0d,
+	description: "Искусственное магнитное поле",
+	tasks: [{
+		uid: "68d38c54",
+		type: "item",
+		items: [{
+			item: "galaxyspace:radiation_stabiliser"
+		}]
+	}]
+}

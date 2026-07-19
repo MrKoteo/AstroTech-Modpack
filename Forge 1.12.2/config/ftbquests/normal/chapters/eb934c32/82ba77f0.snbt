@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "68fe3272",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:buggy 1 3"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

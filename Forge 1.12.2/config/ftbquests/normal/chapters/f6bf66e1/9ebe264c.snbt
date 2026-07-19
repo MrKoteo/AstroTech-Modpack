@@ -1,0 +1,16 @@
+{
+	title: "main",
+	icon: "astrotweaks:singularity_badge",
+	disable_toast: true,
+	x: 0.0d,
+	y: 0.0d,
+	shape: "circle",
+	dependencies: [
+		"0255ea4e"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "c9f6ea32",
+		type: "checkmark"
+	}]
+}

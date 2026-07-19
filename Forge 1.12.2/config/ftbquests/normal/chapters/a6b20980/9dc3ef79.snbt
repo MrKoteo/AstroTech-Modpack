@@ -1,0 +1,22 @@
+{
+	title: "Nuclear fusion",
+	icon: "trinity:thermonuclear_core_pu239",
+	x: 19.0d,
+	y: 4.0d,
+	description: "Ядерный синтез",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	tasks: [{
+		uid: "484b5e5e",
+		type: "checkmark"
+	},
+	{
+		uid: "95580182",
+		type: "item",
+		items: [{
+			item: "trinity:thermonuclear_core_pu239"
+		}]
+	}]
+}

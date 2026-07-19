@@ -1,0 +1,28 @@
+{
+	title: "Topological bridges",
+	x: 14.5d,
+	y: -4.0d,
+	description: "Топологические мосты",
+	hide_dependency_lines: true,
+	dependencies: [
+		"27c4d762"
+	],
+	tasks: [{
+		uid: "c03cc018",
+		type: "item",
+		items: [{
+			id: "portalgun:item_portalgun",
+			tag: {
+				username: "Global",
+				width: 1,
+				channelName: "Chell",
+				grabStrength: 4,
+				uuid: "Global",
+				lastFired: 1b,
+				height: 2
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

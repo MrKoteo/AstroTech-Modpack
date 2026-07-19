@@ -1,0 +1,14 @@
+{
+	title: "Vacuum glass units",
+	icon: "galacticraftcore:space_glass_clear",
+	x: 2.0d,
+	y: -2.0d,
+	description: "Вакуумные стеклопакеты",
+	tasks: [{
+		uid: "594809ff",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:space_glass_clear"
+		}]
+	}]
+}

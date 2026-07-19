@@ -1,0 +1,83 @@
+{
+	title: "Electrical Appliances",
+	icon: {
+		id: "ic2:chainsaw",
+		tag: {
+			charge: 30000.0d
+		}
+	},
+	x: 5.0d,
+	y: 2.0d,
+	description: "Электроприборы",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "b8debc4e",
+		type: "item",
+		items: [{
+			id: "ic2:chainsaw",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7ecadd67",
+		type: "item",
+		items: [{
+			id: "ic2:drill",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e51db23e",
+		type: "item",
+		items: [{
+			id: "ic2:electric_treetap",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8edad383",
+		type: "item",
+		items: [{
+			id: "ic2:electric_wrench",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9056b2e2",
+		type: "item",
+		items: [{
+			id: "powerchisels:electric_chisel",
+			tag: {
+				chiseldata: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8384eef0",
+		type: "item",
+		items: [{
+			id: "mets:electric_fishing_rod",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

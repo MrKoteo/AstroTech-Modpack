@@ -1,0 +1,101 @@
+{
+	title: "Geology",
+	icon: "prospectors:prospector_low",
+	x: 5.0d,
+	y: 2.0d,
+	description: "Геология",
+	hide_dependency_lines: true,
+	dependencies: [
+		"4c2f63f2"
+	],
+	tasks: [{
+		uid: "ea103335",
+		type: "item",
+		title: "4x Iron",
+		disable_toast: true,
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any oreIron"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "oreIron"
+				}
+			}
+		}],
+		count: 4L,
+		consume_items: true
+	},
+	{
+		uid: "b5d11334",
+		type: "item",
+		title: "4x Copper",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any oreCopper"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "oreCopper"
+				}
+			}
+		}],
+		count: 4L,
+		consume_items: true
+	},
+	{
+		uid: "601bad20",
+		type: "item",
+		title: "4x Tin",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any oreTin"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "oreTin"
+				}
+			}
+		}],
+		count: 4L,
+		consume_items: true
+	},
+	{
+		uid: "d05c147d",
+		type: "item",
+		items: [{
+			item: "chisel:limestone2 1 7"
+		}],
+		count: 4L,
+		consume_items: true
+	},
+	{
+		uid: "5b5a1274",
+		type: "item",
+		items: [{
+			item: "chisel:marble2 1 7"
+		}],
+		count: 4L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "7c24d463",
+		type: "item",
+		item: {
+			id: "quark:archaeologist_hat",
+			tag: {}
+		}
+	}]
+}

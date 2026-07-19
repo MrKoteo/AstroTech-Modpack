@@ -1,0 +1,22 @@
+{
+	title: "Gold Processing",
+	icon: "minecraft:gold_ingot",
+	x: 13.0d,
+	y: -4.0d,
+	description: "Обработка золота",
+	tasks: [{
+		uid: "9de78cdd",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_ingot"
+		}],
+		consume_items: true,
+		only_from_crafting: true
+	},
+	{
+		uid: "8cf5f76a",
+		type: "xp",
+		value: 5L,
+		points: false
+	}]
+}

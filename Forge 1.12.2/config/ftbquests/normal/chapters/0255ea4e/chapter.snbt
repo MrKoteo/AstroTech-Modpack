@@ -1,0 +1,7 @@
+{
+	title: "Space Age",
+	icon: "galaxyspace:rocket_tier_4",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

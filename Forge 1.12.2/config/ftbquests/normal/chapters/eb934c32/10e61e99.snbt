@@ -1,0 +1,12 @@
+{
+	x: 21.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "2f7d7e73",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_tier_4"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,10 @@
+{
+	x: 0.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "a698120e",
+		type: "stat",
+		stat: "stat.walkOneCm",
+		value: 100000
+	}]
+}

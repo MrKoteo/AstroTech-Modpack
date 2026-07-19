@@ -1,0 +1,7 @@
+{
+	title: "WireTechs",
+	icon: "astrotweaks:advanced_wireless_module",
+	always_invisible: false,
+	group: -1902212717,
+	default_quest_shape: ""
+}

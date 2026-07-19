@@ -1,0 +1,12 @@
+{
+	x: 7.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "5f7c1bb7",
+		type: "item",
+		items: [{
+			item: "galacticresearch:satellite_rocket"
+		}],
+		ignore_nbt: 1b
+	}]
+}

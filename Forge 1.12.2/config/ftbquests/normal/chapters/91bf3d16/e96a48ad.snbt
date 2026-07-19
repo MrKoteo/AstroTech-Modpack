@@ -1,0 +1,58 @@
+{
+	title: "Mechanics",
+	icon: "thermalfoundation:material 1 24",
+	x: 7.0d,
+	y: 0.0d,
+	description: "Механика",
+	hide_dependency_lines: true,
+	dependencies: [
+		"4c2f63f2"
+	],
+	tasks: [{
+		uid: "7dec4fa9",
+		type: "checkmark",
+		title: "Механика",
+		icon: "buildcraftcore:gear_wood",
+		disable_toast: true
+	},
+	{
+		uid: "8694ae03",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any gearWood"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "gearWood"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "25b55fdb",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any gearStone"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "gearStone"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

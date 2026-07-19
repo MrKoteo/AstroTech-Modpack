@@ -1,0 +1,24 @@
+itemGroup.moar_accelerator_components=Moar Accelerator Components
+
+tile.qmd.accelerator_rf_cavity_silver.name=Silver RF Cavity
+tile.qmd.accelerator_magnet_silver.name=Silver Accelerator Electromagnet
+tile.qmd.accelerator_rf_cavity_hbcco.name=HBCCO RF Cavity
+tile.qmd.accelerator_magnet_hbcco.name=HBCCO Accelerator Electromagnet
+
+tile.qmd.accelerator_rf_cavity_adaf.name=ADAF RF Cavity
+tile.qmd.accelerator_magnet_adaf.name=ADAF Accelerator Electromagnet
+tile.qmd.accelerator_rf_cavity_vocso.name=VOCSO RF Cavity
+tile.qmd.accelerator_magnet_vocso.name=VOCSO Accelerator Electromagnet
+tile.qmd.accelerator_rf_cavity_mhydrogen.name=Metallic Hydrogen RF Cavity
+tile.qmd.accelerator_magnet_mhydrogen.name=Metallic Hydrogen Accelerator Electromagnet
+
+item.contenttweaker.wire_hbcco.name=HBCCO Wire
+item.contenttweaker.dust_hbcco.name=HBCCO Dust
+item.contenttweaker.dust_bcco.name=BaCaCuO Dust Mixture
+
+item.contenttweaker.wire_adaf.name=ADAF Wire
+item.contenttweaker.dust_adaf.name=ADAF Dust
+item.contenttweaker.dust_ada.name=ADA Dust
+item.contenttweaker.wire_vocso.name=VOCSO Wire
+item.contenttweaker.dust_vocso.name=VOCSO Dust
+item.contenttweaker.dust_vocs.name=VOCS Dust

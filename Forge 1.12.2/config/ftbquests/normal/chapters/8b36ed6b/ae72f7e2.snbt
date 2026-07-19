@@ -1,0 +1,14 @@
+{
+	title: "AE2",
+	disable_toast: true,
+	x: 0.0d,
+	y: 0.0d,
+	shape: "circle",
+	size: 2.0d,
+	tasks: [{
+		uid: "af750d3d",
+		type: "checkmark",
+		icon: "chisel:futura 1 4",
+		disable_toast: true
+	}]
+}

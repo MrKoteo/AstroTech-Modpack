@@ -1,0 +1,17 @@
+{
+	title: "Open Computers",
+	icon: "opencomputers:tool 1 4",
+	disable_toast: true,
+	x: 3.5d,
+	y: 0.5d,
+	shape: "octagon",
+	tasks: [{
+		uid: "5054276c",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "f4ec9f43",
+		type: "item",
+		item: "opencomputers:tool 1 4"
+	}]
+}

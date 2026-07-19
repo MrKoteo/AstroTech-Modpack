@@ -1,0 +1,11 @@
+{
+	x: 6.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "a95b813e",
+		type: "item",
+		items: [{
+			item: "opencomputers:storage 1 4"
+		}]
+	}]
+}

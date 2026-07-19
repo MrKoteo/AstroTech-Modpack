@@ -1,0 +1,23 @@
+{
+	title: "Информационная эпоха!",
+	icon: "astrotweaks:phoenix_badge",
+	disable_toast: true,
+	x: 0.0d,
+	y: 0.0d,
+	shape: "circle",
+	size: 2.0d,
+	tasks: [{
+		uid: "08040a84",
+		type: "item",
+		items: [{
+			item: "astrotweaks:master_badge"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fe79679a",
+		type: "xp",
+		xp: 300
+	}]
+}

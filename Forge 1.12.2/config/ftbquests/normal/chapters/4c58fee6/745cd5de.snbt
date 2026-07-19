@@ -1,0 +1,29 @@
+{
+	title: "Leather processing",
+	icon: "minecraft:leather",
+	x: 7.0d,
+	y: -4.0d,
+	description: "Обработка кожи",
+	tasks: [{
+		uid: "ff13a0be",
+		type: "item",
+		items: [{
+			item: "pyrotech:material 1 38"
+		}],
+		count: 2L
+	},
+	{
+		uid: "3d67dc4f",
+		type: "item",
+		items: [{
+			item: "pyrotech:material 1 39"
+		}],
+		count: 2L
+	},
+	{
+		uid: "f5f8e832",
+		type: "xp",
+		value: 1L,
+		points: false
+	}]
+}

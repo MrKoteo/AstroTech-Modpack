@@ -1,0 +1,16 @@
+{
+	title: "3000mb Жидкая материя",
+	disable_toast: true,
+	x: 16.0d,
+	y: 2.0d,
+	shape: "square",
+	dependencies: [
+		"d2f13497"
+	],
+	tasks: [{
+		uid: "cc8f9453",
+		type: "fluid",
+		fluid: "ic2uu_matter",
+		amount: 3000
+	}]
+}

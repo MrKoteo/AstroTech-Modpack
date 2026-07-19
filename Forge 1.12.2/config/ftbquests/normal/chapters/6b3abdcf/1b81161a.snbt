@@ -1,0 +1,11 @@
+{
+	x: 14.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "e0ad6d15",
+		type: "item",
+		items: [{
+			item: "opencomputers:material 1 17"
+		}]
+	}]
+}

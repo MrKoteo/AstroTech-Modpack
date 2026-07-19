@@ -1,0 +1,12 @@
+{
+	title: "Информационная эра",
+	icon: {
+		id: "gravisuite:advancedjetpack",
+		tag: {
+			charge: 3000000.0d
+		}
+	},
+	always_invisible: true,
+	group: 0,
+	default_quest_shape: ""
+}

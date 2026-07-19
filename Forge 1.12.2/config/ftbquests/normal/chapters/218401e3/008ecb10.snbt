@@ -1,0 +1,16 @@
+{
+	disable_toast: true,
+	x: 3.5d,
+	y: 1.0d,
+	shape: "hexagon",
+	dependencies: [
+		"83abae86"
+	],
+	tasks: [{
+		uid: "0809a576",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:dust 1 6"
+		}]
+	}]
+}

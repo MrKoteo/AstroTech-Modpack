@@ -1,0 +1,25 @@
+{
+	title: "Plant breeding",
+	x: 3.0d,
+	y: -2.0d,
+	description: "Селекция",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "89ca5e2b",
+		type: "item",
+		items: [{
+			id: "ic2:crop_seed_bag",
+			tag: {
+				growth: 1b,
+				owner: "ic2",
+				scan: 4b,
+				id: "stickreed",
+				gain: 1b,
+				resistance: 1b
+			}
+		}]
+	}]
+}

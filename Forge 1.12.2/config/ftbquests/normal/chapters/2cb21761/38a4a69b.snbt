@@ -1,0 +1,60 @@
+{
+	title: "Smoothbore weapons",
+	icon: {
+		id: "techguns:combatshotgun",
+		tag: {
+			camo: 0b,
+			ammovariant: "default",
+			ammo: 8s
+		}
+	},
+	x: 3.0d,
+	y: 0.0d,
+	description: "Гладкоствольное оружие",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "8dd68dcc",
+		type: "item",
+		items: [{
+			id: "techguns:sawedoff",
+			tag: {
+				camo: 0b,
+				ammovariant: "default",
+				ammo: 2s
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "45cbd1a0",
+		type: "item",
+		items: [{
+			id: "techguns:handcannon",
+			tag: {
+				camo: 0b,
+				ammovariant: "default",
+				ammo: 1s
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "989d33dd",
+		type: "item",
+		items: [{
+			id: "techguns:revolver",
+			tag: {
+				camo: 0b,
+				ammovariant: "default",
+				ammo: 6s
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

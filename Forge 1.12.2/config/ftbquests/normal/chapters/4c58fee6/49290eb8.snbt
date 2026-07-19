@@ -1,0 +1,62 @@
+{
+	title: "Primitive weapons",
+	icon: "pyrotech:crude_spear",
+	x: 5.0d,
+	y: -2.0d,
+	description: "Примитивное оружие",
+	or_tasks: true,
+	tasks: [{
+		uid: "b4e1a6d6",
+		type: "item",
+		items: [{
+			item: "pyrotech:crude_spear"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d9ecefd9",
+		type: "item",
+		items: [{
+			item: "pyrotech:bone_spear"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b1c1ceb3",
+		type: "item",
+		items: [{
+			item: "pyrotech:flint_spear"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5deae798",
+		type: "item",
+		items: [{
+			item: "pyrotech:stone_hunters_knife"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6348381a",
+		type: "item",
+		items: [{
+			item: "pyrotech:bone_hunters_knife"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1bd42a1d",
+		type: "item",
+		items: [{
+			item: "pyrotech:flint_hunters_knife"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,42 @@
+{
+	x: -2.5d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"6c98c5e6"
+	],
+	tasks: [{
+		uid: "147916b8",
+		type: "checkmark",
+		title: "TEMP (_teh_)",
+		icon: {
+			id: "minecraft:structure_void",
+			tag: {}
+		}
+	}],
+	rewards: [{
+		uid: "52d323d9",
+		type: "item",
+		item: "astrotweaks:seed_of_life"
+	},
+	{
+		uid: "1a63219e",
+		type: "item",
+		item: "galaxyspace:rocket_modules 1 4"
+	},
+	{
+		uid: "eeb021da",
+		type: "item",
+		item: "galaxyspace:rocket_modules 1 5"
+	},
+	{
+		uid: "e359d57e",
+		type: "item",
+		item: "galaxyspace:rocket_modules 1 6"
+	},
+	{
+		uid: "71b76831",
+		type: "item",
+		item: "galaxyspace:rocket_modules 1 7"
+	}]
+}

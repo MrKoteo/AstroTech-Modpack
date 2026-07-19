@@ -1,0 +1,14 @@
+{
+	title: "Particle aggregation",
+	icon: "mets:te 1 22",
+	x: 12.0d,
+	y: 2.0d,
+	description: "Агрегация частиц",
+	tasks: [{
+		uid: "b681ebfc",
+		type: "item",
+		items: [{
+			item: "mets:te 1 22"
+		}]
+	}]
+}

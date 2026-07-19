@@ -1,0 +1,13 @@
+{
+  "selectedVersion": "0.5.17-alpha",
+  "latestVersion": "0.5.17-alpha",
+  "targetJavaVersion": 25,
+  "targetVendor": "Azul Zulu",
+  "javaPath": "C:\\Users\\Koteo\\.cleanroom\\java\\zulu25.34.17-ca-fx-jdk25.0.3-win_x64\\zulu25.34.17-ca-fx-jdk25.0.3-win_x64\\bin\\javaw.exe",
+  "args": "-XX:+UseCompactObjectHeaders -XX:MaxMetaspaceSize\u003d896M -XX:InitiatingHeapOccupancyPercent\u003d40 -XX:MaxTenuringThreshold\u003d9 -XX:+DisableExplicitGC -XX:+UseStringDeduplication -Dsun.rmi.dgc.server.gcInterval\u003d2147483646 -Dsun.java2d.d3d\u003dfalse -Dsun.java2d.noddraw\u003dtrue",
+  "autoSetup": true,
+  "enableRelauncher": true,
+  "FetchUpdates": true,
+  "clearCleanroomFolder": false,
+  "clearJavaProvisionFolder": false
+}

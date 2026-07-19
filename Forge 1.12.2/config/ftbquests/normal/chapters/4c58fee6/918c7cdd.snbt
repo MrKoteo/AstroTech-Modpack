@@ -1,0 +1,26 @@
+{
+	title: "Lead Processing",
+	icon: "thermalfoundation:material 1 131",
+	x: 15.0d,
+	y: -4.0d,
+	description: "Обработка свинца",
+	tasks: [{
+		uid: "04a9c050",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotLead"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotLead"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

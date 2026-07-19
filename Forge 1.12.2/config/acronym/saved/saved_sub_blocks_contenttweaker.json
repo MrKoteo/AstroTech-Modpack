@@ -1,0 +1,63 @@
+{
+  "savedSubBlockNames": {
+    "0": {
+      "0": "fluorite_block",
+      "1": "carbon_manganese_block",
+      "2": "t_b_p_block",
+      "3": "hastelloy_block",
+      "4": "si_c-_si_c_c_m_c_block",
+      "5": "zirconium_molybdenum_block",
+      "6": "extreme_block",
+      "7": "shibuichi_block",
+      "9": "tungsten_carbide_block",
+      "10": "zircaloy_block",
+      "11": "ferroboron_block",
+      "13": "stainless_steel_block",
+      "14": "polonium_block",
+      "15": "erbium_block"
+    },
+    "1": {
+      "0": "tough_block",
+      "1": "promethium147_block",
+      "2": "iodine_block",
+      "4": "niobium_block",
+      "6": "silicon_carbide_block",
+      "7": "yttrium_block",
+      "8": "h_s_l_a_steel_block",
+      "10": "niobium_tin_block",
+      "11": "radium_block",
+      "12": "nichrome_block",
+      "15": "super_alloy_block"
+    },
+    "2": {
+      "0": "caesium137_block",
+      "1": "neodymium_block",
+      "2": "hafnium_block",
+      "3": "samarium_block",
+      "4": "ytterbium_block",
+      "5": "boron_nitride_block",
+      "6": "calcium_block",
+      "7": "carobbiite_block",
+      "8": "hard_carbon_block",
+      "9": "potassium_block",
+      "10": "protactinium233_block",
+      "11": "niobium_titanium_block",
+      "12": "magnesium_diboride_block",
+      "13": "villiaumite_block",
+      "15": "strontium_block"
+    },
+    "3": {
+      "0": "sodium_block",
+      "1": "boron_arsenide_block",
+      "3": "lithium_manganese_dioxide_block",
+      "4": "lead_platinum_block",
+      "5": "ruthenium106_block",
+      "7": "osmiridium_block",
+      "8": "terbium_block",
+      "9": "tin_silver_block",
+      "10": "rhodochrosite_block",
+      "11": "thermoconducting_block",
+      "12": "europium155_block"
+    }
+  }
+}

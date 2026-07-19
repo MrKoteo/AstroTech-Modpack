@@ -1,0 +1,12 @@
+{
+	title: "SecurityCraft",
+	icon: "securitycraft:sc_manual",
+	disable_toast: true,
+	x: 5.0d,
+	y: 0.5d,
+	shape: "octagon",
+	tasks: [{
+		uid: "a4823f42",
+		type: "checkmark"
+	}]
+}

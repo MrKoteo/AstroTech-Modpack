@@ -1,0 +1,15 @@
+{
+	x: 10.5d,
+	y: 7.5d,
+	tasks: [{
+		uid: "f76d0a7a",
+		type: "item",
+		items: [{
+			id: "gravisuite:vajra",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

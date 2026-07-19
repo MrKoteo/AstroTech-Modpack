@@ -1,0 +1,387 @@
+{
+  "__comments": [
+    "WARNING: All changes should be made to the file with the name Custom",
+    "in the title. Changes made to the Generated file will be overwritten.",
+    "",
+    "This file defines ore compatibility.",
+    "",
+    "Slag content will be generated for each oredict entry.",
+    "",
+    "The first valid key in each langKey list will be chosen; reorder keys",
+    "to change which key is selected.",
+    "",
+    "The first valid nugget in each output list will be chosen; reorder nuggets",
+    "to change which nugget is selected.",
+    "",
+    "Slag color is a hex color code without the #",
+    "",
+    "Lang keys are in the format: (domain):(key)",
+    "",
+    "Output item strings are in the format: (domain):(path):(meta)"
+  ],
+  "oredict": {
+    "oreAluminum": {
+      "slagColor": "e2e2e3",
+      "langKey": [
+        "galacticraftcore:tile.basic_block_core.ore_aluminum_gc",
+        "galacticraftplanets:tile.asteroids_block.ore_aluminum_asteroids",
+        "galacticraftplanets:tile.venus.venus_ore_aluminum",
+        "galaxyspace:tile.aluminum_ore",
+        "galaxyspace:tile.europa_aluminum_ore",
+        "galaxyspace:tile.haumea_aluminum_ore",
+        "galaxyspace:tile.mars_aluminum",
+        "thermalfoundation:tile.thermalfoundation.ore.aluminum"
+      ],
+      "output": [
+        "gsic2:aluminum_nugget:0",
+        "thermalfoundation:material:196"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "oreCobalt": {
+      "slagColor": "1c5bc1",
+      "langKey": [
+        "celestial_unify:tile.k10c_cobalt_ore",
+        "celestial_unify:tile.u_carbonous_stone_cobalt",
+        "celestial_unify:tile.u_ferrous_stone_cobalt",
+        "exnihilocreatio:item.exnihilocreatio.ore.cobalt",
+        "galaxyspace:tile.cobaltum_ore",
+        "galaxyspace:tile.cobaltum_ore",
+        "galaxyspace:tile.miranda_cobalt_ore",
+        "gregtech:tile.ore_block"
+      ],
+      "output": [
+        "galaxyspace:nuggets:0",
+        "gregtech:meta_nugget:23"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "oreCopper": {
+      "slagColor": "ffaa1c",
+      "langKey": [
+        "celestial_unify:tile.k_442b_copper_ore",
+        "celestial_unify:tile.u_carbonous_stone_copper",
+        "exnihilocreatio:item.exnihilocreatio.ore.copper",
+        "galacticraftcore:tile.basic_block_core.ore_copper_gc",
+        "galacticraftcore:tile.basic_block_moon.coppermoon",
+        "galacticraftplanets:tile.mars.coppermars",
+        "galacticraftplanets:tile.venus.venus_ore_copper",
+        "galaxyspace:tile.copper_ore",
+        "galaxyspace:tile.io_copper_ore",
+        "galaxyspace:tile.proxima_b_copper_ore",
+        "gregtech:tile.ore_block",
+        "ic2:ic2.resource.copper_ore",
+        "nuclearcraft:tile.nuclearcraft.ore.copper",
+        "techguns:tile.techguns.basicore.0",
+        "thermalfoundation:tile.thermalfoundation.ore.copper"
+      ],
+      "output": [
+        "gregtech:meta_nugget:25",
+        "mets:copper_nugget:0",
+        "techguns:itemshared:86",
+        "thermalfoundation:material:192"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "oreGold": {
+      "slagColor": "fcee4b",
+      "langKey": [
+        "celestial_unify:tile.k_442b_gold_ore",
+        "celestial_unify:tile.k_452_deep_gold_ore",
+        "celestial_unify:tile.trap1_gold_ore",
+        "celestial_unify:tile.u_ferrous_stone_gold",
+        "exnihilocreatio:item.exnihilocreatio.ore.gold",
+        "galaxyspace:tile.gold_ore",
+        "galaxyspace:tile.mars_gold",
+        "galaxyspace:tile.proxima_b_gold_ore",
+        "gregtech:tile.ore_block",
+        "minecraft:tile.oreGold",
+        "mocreatures:tile.mocreatures.wyvern_gold_ore"
+      ],
+      "output": [
+        "minecraft:gold_nugget:0"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "oreIridium": {
+      "slagColor": "d5d4e7",
+      "langKey": [
+        "thermalfoundation:tile.thermalfoundation.ore.iridium"
+      ],
+      "output": [
+        "gregtech:meta_nugget:50",
+        "ic2:misc_resource:2",
+        "thermalfoundation:material:199"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "oreIron": {
+      "slagColor": "d8af93",
+      "langKey": [
+        "celestial_unify:tile.brownfox_iron_ore",
+        "celestial_unify:tile.brownfox_surface_iron_ore",
+        "celestial_unify:tile.fennec_a_iron_ore",
+        "celestial_unify:tile.fennec_a_subsurface_iron_ore",
+        "celestial_unify:tile.fennec_a_surface_iron_ore",
+        "celestial_unify:tile.k10b_iron_ore",
+        "celestial_unify:tile.k22b_iron_ore",
+        "celestial_unify:tile.k_442b_iron_ore",
+        "celestial_unify:tile.k_452_deep_iron_ore",
+        "celestial_unify:tile.k_jack_iron_ore",
+        "celestial_unify:tile.k_jack_surface_iron_ore",
+        "celestial_unify:tile.k_jill_iron_ore",
+        "celestial_unify:tile.k_jill_subsurface_iron_ore",
+        "celestial_unify:tile.kitsune_a_iron_ore",
+        "celestial_unify:tile.kitsune_b_iron_ore",
+        "celestial_unify:tile.redfox_iron_ore",
+        "celestial_unify:tile.redfox_surface_iron_ore",
+        "celestial_unify:tile.ss_charon_iron_ore",
+        "celestial_unify:tile.ss_charon_surface_iron_ore",
+        "celestial_unify:tile.ss_deimos_iron_ore",
+        "celestial_unify:tile.ss_deimos_surface_iron_ore",
+        "celestial_unify:tile.ss_dione_iron_ore",
+        "celestial_unify:tile.ss_dione_subsurface_iron_ore",
+        "celestial_unify:tile.ss_dione_surface_iron_ore",
+        "celestial_unify:tile.ss_iapetus_dark_surface_iron_ore",
+        "celestial_unify:tile.ss_iapetus_iron_ore",
+        "celestial_unify:tile.ss_iapetus_light_surface_iron_ore",
+        "celestial_unify:tile.ss_oberon_iron_ore",
+        "celestial_unify:tile.ss_oberon_subsurface_iron_ore",
+        "celestial_unify:tile.ss_oberon_surface_iron_ore",
+        "celestial_unify:tile.ss_proteus_iron_ore",
+        "celestial_unify:tile.ss_proteus_subsurface_iron_ore",
+        "celestial_unify:tile.ss_proteus_surface_iron_ore",
+        "celestial_unify:tile.ss_rhea_iron_ore",
+        "celestial_unify:tile.ss_rhea_subsurface_iron_ore",
+        "celestial_unify:tile.ss_rhea_surface_iron_ore",
+        "celestial_unify:tile.ss_tethys_iron_ore",
+        "celestial_unify:tile.ss_tethys_surface_iron_ore",
+        "celestial_unify:tile.trap1_iron_ore",
+        "exnihilocreatio:item.exnihilocreatio.ore.iron",
+        "galacticraftplanets:tile.asteroids_block.ore_iron_asteroids",
+        "galacticraftplanets:tile.mars.ironmars",
+        "galaxyspace:tile.iron_ore",
+        "galaxyspace:tile.mercury_iron_ore",
+        "galaxyspace:tile.miranda_iron_ore",
+        "galaxyspace:tile.phobos_iron_ore",
+        "gregtech:tile.ore_block",
+        "minecraft:tile.oreIron",
+        "mocreatures:tile.mocreatures.wyvern_iron_ore"
+      ],
+      "output": [
+        "minecraft:iron_nugget:0"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "oreLead": {
+      "slagColor": "95afee",
+      "langKey": [
+        "exnihilocreatio:item.exnihilocreatio.ore.lead",
+        "galacticraftplanets:tile.venus.venus_ore_galena",
+        "gregtech:tile.ore_block",
+        "ic2:ic2.resource.lead_ore",
+        "nuclearcraft:tile.nuclearcraft.ore.lead",
+        "techguns:tile.techguns.basicore.2",
+        "thermalfoundation:tile.thermalfoundation.ore.lead"
+      ],
+      "output": [
+        "gregtech:meta_nugget:55",
+        "mets:lead_nugget:0",
+        "techguns:itemshared:87",
+        "thermalfoundation:material:195"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "oreMithril": {
+      "slagColor": "9cf9ff",
+      "langKey": [
+        "thermalfoundation:tile.thermalfoundation.ore.mithril"
+      ],
+      "output": [
+        "thermalfoundation:material:200"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "oreNickel": {
+      "slagColor": "e4e5d8",
+      "langKey": [
+        "celestial_unify:tile.k22b_nickel_ore",
+        "celestial_unify:tile.k_442b_nickel_ore",
+        "celestial_unify:tile.k_452_deep_nickel_ore",
+        "celestial_unify:tile.u_carbonous_stone_nickel",
+        "celestial_unify:tile.u_ferrous_stone_nickel",
+        "exnihilocreatio:item.exnihilocreatio.ore.nickel",
+        "galaxyspace:tile.mercury_nickel_ore",
+        "galaxyspace:tile.miranda_nickel_ore",
+        "galaxyspace:tile.nickel_ore",
+        "galaxyspace:tile.nickel_ore",
+        "galaxyspace:tile.phobos_nickel_ore",
+        "gregtech:tile.ore_block",
+        "thermalfoundation:tile.thermalfoundation.ore.nickel"
+      ],
+      "output": [
+        "galaxyspace:nuggets:2",
+        "gregtech:meta_nugget:69",
+        "thermalfoundation:material:197"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "orePlatinum": {
+      "slagColor": "55f3ff",
+      "langKey": [
+        "exnihilocreatio:item.exnihilocreatio.ore.platinum",
+        "gregtech:tile.ore_block",
+        "thermalfoundation:tile.thermalfoundation.ore.platinum"
+      ],
+      "output": [
+        "gregtech:meta_nugget:80",
+        "thermalfoundation:material:198"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "oreSilver": {
+      "slagColor": "e8f6fd",
+      "langKey": [
+        "exnihilocreatio:item.exnihilocreatio.ore.silver",
+        "gregtech:tile.ore_block",
+        "thermalfoundation:tile.thermalfoundation.ore.silver"
+      ],
+      "output": [
+        "gregtech:meta_nugget:100",
+        "mocreatures:fine_silver_nugget:0",
+        "thermalfoundation:material:194"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "oreTin": {
+      "slagColor": "c3e9ff",
+      "langKey": [
+        "celestial_unify:tile.u_carbonous_stone_tin",
+        "exnihilocreatio:item.exnihilocreatio.ore.tin",
+        "galacticraftcore:tile.basic_block_core.ore_tin_gc",
+        "galacticraftcore:tile.basic_block_moon.tinmoon",
+        "galacticraftplanets:tile.mars.tinmars",
+        "galacticraftplanets:tile.venus.venus_ore_tin",
+        "galaxyspace:tile.proxima_b_tin_ore",
+        "galaxyspace:tile.tin_ore",
+        "gregtech:tile.ore_block",
+        "ic2:ic2.resource.tin_ore",
+        "nuclearcraft:tile.nuclearcraft.ore.tin",
+        "techguns:tile.techguns.basicore.1",
+        "thermalfoundation:tile.thermalfoundation.ore.tin"
+      ],
+      "output": [
+        "gregtech:meta_nugget:112",
+        "mets:tin_nugget:0",
+        "thermalfoundation:material:193"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "oreUranium": {
+      "slagColor": "5c734b",
+      "langKey": [
+        "exnihilocreatio:item.exnihilocreatio.ore.uranium",
+        "galaxyspace:tile.uranium_ore",
+        "ic2:ic2.resource.uranium_ore",
+        "nuclearcraft:tile.nuclearcraft.ore.uranium",
+        "reactor_stuff:tile.reactor_stuff:ore_uranium",
+        "techguns:tile.techguns.basicore.4"
+      ],
+      "output": [
+        "gregtech:meta_nugget:116"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    }
+  }
+}

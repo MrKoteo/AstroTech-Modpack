@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "4f0693e8",
+		type: "item",
+		items: [{
+			item: "opencomputers:cable"
+		}]
+	}]
+}

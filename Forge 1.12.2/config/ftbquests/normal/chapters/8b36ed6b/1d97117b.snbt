@@ -1,0 +1,18 @@
+{
+	x: 23.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "32c492d6",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 465"
+		}]
+	},
+	{
+		uid: "55308b89",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 469"
+		}]
+	}]
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "remove": [
+      "minecraft:chicken",
+      "minecraft:cow",
+      "minecraft:pig",
+      "minecraft:sheep",
+      "minecraft:horse",
+      "minecraft:rabbit",
+      "minecraft:llama"
+    ]
+  },
+  {
+	"biome": ["minecraft:plains","minecraft:forest","minecraft:taiga","minecraft:forest_hills","minecraft:taiga_hills","minecraft:jungle","minecraft:jungle_hills","minecraft:jungle_edge","minecraft:birch_forest","minecraft:birch_forest_hills","minecraft:roofed_forest","minecraft:redwood_taiga","minecraft:redwood_taiga_hills","minecraft:extreme_hills_with_trees","minecraft:savanna","minecraft:savanna_rock"],
+    "mobs": [
+      {
+        "mob": "minecraft:chicken",
+        "weight": 8,
+        "groupcountmin": 2,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  {
+	"biome": ["minecraft:plains","minecraft:forest","minecraft:taiga","minecraft:forest_hills","minecraft:taiga_hills","minecraft:jungle","minecraft:jungle_edge","minecraft:birch_forest","minecraft:birch_forest_hills","minecraft:roofed_forest","minecraft:taiga_cold","minecraft:redwood_taiga","minecraft:savanna","minecraft:savanna_rock"],
+    "mobs": [
+      {
+        "mob": "minecraft:cow",
+        "weight": 5,
+        "groupcountmin": 4,
+        "groupcountmax": 6
+      }
+    ]
+  },
+  {
+	"biome": ["minecraft:forest","minecraft:taiga","minecraft:forest_hills","minecraft:taiga_hills","minecraft:jungle","minecraft:jungle_hills","minecraft:jungle_edge","minecraft:birch_forest","minecraft:birch_forest_hills","minecraft:roofed_forest","minecraft:redwood_taiga","minecraft:redwood_taiga_hills","minecraft:savanna","minecraft:savanna_rock"],
+    "mobs": [
+      {
+        "mob": "minecraft:pig",
+        "weight": 6,
+        "groupcountmin": 3,
+        "groupcountmax": 5
+      }
+    ]
+  },
+  {
+	"biome": ["minecraft:plains","minecraft:ice_flats","minecraft:extreme_hills","minecraft:forest","minecraft:taiga","minecraft:forest_hills","minecraft:taiga_hills","minecraft:smaller_extreme_hills","minecraft:birch_forest","minecraft:birch_forest_hills","minecraft:roofed_forest","minecraft:taiga_cold","minecraft:taiga_cold_hills","minecraft:redwood_taiga","minecraft:redwood_taiga_hills","minecraft:extreme_hills_with_trees","minecraft:savanna","minecraft:savanna_rock"],
+    "mobs": [
+      {
+        "mob": "minecraft:sheep",
+        "weight": 5,
+        "groupcountmin": 4,
+        "groupcountmax": 7
+      }
+    ]
+  },
+  {
+	"biome": ["minecraft:plains","minecraft:forest","minecraft:jungle_edge","minecraft:birch_forest","minecraft:roofed_forest","minecraft:taiga_cold","minecraft:redwood_taiga","minecraft:savanna","minecraft:savanna_rock"],
+    "mobs": [
+      {
+        "mob": "minecraft:horse",
+        "weight": 5,
+        "groupcountmin": 4,
+        "groupcountmax": 5
+      }
+    ]
+  },
+  {
+	"biome": ["minecraft:desert", "minecraft:desert_hills", "minecraft:mesa","minecraft:savanna","minecraft:savanna_rock"],
+    "mobs": [
+      {
+        "mob": "minecraft:rabbit",
+        "weight": 4,
+        "groupcountmin": 2,
+        "groupcountmax": 4
+      }
+	]
+  },
+  {
+	"biome": ["minecraft:extreme_hills", "minecraft:smaller_extreme_hills", "minecraft:ice_mountains", "minecraft:ice_flats","minecraft:extreme_hills_with_trees"],
+    "mobs": [
+      {
+        "mob": "minecraft:llama",
+        "weight": 3,
+        "groupcountmin": 2,
+        "groupcountmax": 3
+      }
+	]
+  }
+]

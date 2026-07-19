@@ -1,0 +1,32 @@
+{
+	title: "Measuring Instruments",
+	icon: "ic2:meter",
+	x: 3.0d,
+	y: 2.0d,
+	description: "Измерительные приборы",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "d755ffb0",
+		type: "item",
+		items: [{
+			item: "ic2:meter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e4f435bd",
+		type: "item",
+		items: [{
+			id: "ic2:wind_meter",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

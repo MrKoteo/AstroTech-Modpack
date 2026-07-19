@@ -1,0 +1,13 @@
+{
+	disable_toast: true,
+	x: 17.0d,
+	y: 5.5d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "4a8cfc5c",
+		type: "item",
+		items: [{
+			item: "mets:nano_living_metal"
+		}]
+	}]
+}

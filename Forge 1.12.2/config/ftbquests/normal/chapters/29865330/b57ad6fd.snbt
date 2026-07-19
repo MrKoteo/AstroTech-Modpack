@@ -1,0 +1,23 @@
+{
+	title: "Space Adventures",
+	icon: "astrotweaks:planet_badge",
+	x: 0.0d,
+	y: 0.05d,
+	shape: "square",
+	description: "Космические приключения",
+	size: 2.6d,
+	tasks: [{
+		uid: "023d0244",
+		type: "checkmark",
+		title: "Space Adventures",
+		icon: "astrotweaks:planet_badge"
+	},
+	{
+		uid: "0f1a48b6",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 13"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Transcendent SP | Lvl: 9, 10",
+	icon: "wirelesstools:witiles 1 10",
+	x: 28.0d,
+	y: 6.0d,
+	description: "Трансцендентные Солнечные генераторы",
+	tasks: [{
+		uid: "ce6049d1",
+		type: "item",
+		items: [{
+			item: "wirelesstools:witiles 1 9"
+		}]
+	},
+	{
+		uid: "46591b13",
+		type: "item",
+		items: [{
+			item: "wirelesstools:witiles 1 10"
+		}]
+	}]
+}

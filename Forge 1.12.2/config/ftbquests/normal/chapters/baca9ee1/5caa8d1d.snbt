@@ -1,0 +1,19 @@
+{
+	title: "Entropy crystals",
+	icon: "draconicevolution:chaos_shard",
+	x: 4.5d,
+	y: -2.0d,
+	description: "Энтропийные кристаллы",
+	hide_dependency_lines: true,
+	dependencies: [
+		"27c4d762"
+	],
+	tasks: [{
+		uid: "a1eb4957",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaos_shard"
+		}],
+		consume_items: true
+	}]
+}

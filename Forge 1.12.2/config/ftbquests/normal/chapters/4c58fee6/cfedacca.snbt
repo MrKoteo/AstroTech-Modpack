@@ -1,0 +1,26 @@
+{
+	title: "Archery",
+	icon: "minecraft:bow",
+	x: 13.0d,
+	y: 2.0d,
+	description: "Стрельба из лука",
+	tasks: [{
+		uid: "cd2495f1",
+		type: "item",
+		items: [{
+			item: "minecraft:bow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3fec01d5",
+		type: "item",
+		items: [{
+			item: "pyrotech:flint_arrow"
+		},
+		{
+			item: "pyrotech:bone_arrow"
+		}]
+	}]
+}

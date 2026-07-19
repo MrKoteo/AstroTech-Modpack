@@ -1,0 +1,38 @@
+{
+	title: "Advanced Electrical Appliances",
+	icon: {
+		id: "gravisuite:advanceddrill",
+		tag: {
+			charge: 45000.0d
+		}
+	},
+	x: 3.0d,
+	y: 2.0d,
+	description: "Улучшенные электроприборы",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "ae8dd01b",
+		type: "item",
+		items: [{
+			id: "gravisuite:advanceddrill",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cd75bbbf",
+		type: "item",
+		items: [{
+			id: "gravisuite:advancedchainsaw",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

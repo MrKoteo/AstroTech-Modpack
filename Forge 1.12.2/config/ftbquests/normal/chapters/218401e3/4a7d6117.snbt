@@ -1,0 +1,21 @@
+{
+	disable_toast: true,
+	x: 8.5d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"b2a9b39d"
+	],
+	tasks: [{
+		uid: "fd75cb22",
+		type: "item",
+		items: [{
+			id: "gravisuite:advancednanochestplate",
+			tag: {
+				charge: 3000000.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

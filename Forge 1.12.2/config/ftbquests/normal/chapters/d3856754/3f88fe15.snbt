@@ -1,0 +1,26 @@
+{
+	disable_toast: true,
+	x: 6.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "0cc7d12d",
+		type: "checkmark",
+		title: "Techguns",
+		icon: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "techguns:techguns_manual"
+			}
+		}
+	}],
+	rewards: [{
+		uid: "8841c53a",
+		type: "item",
+		item: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "techguns:techguns_manual"
+			}
+		}
+	}]
+}

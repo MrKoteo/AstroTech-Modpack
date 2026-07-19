@@ -1,0 +1,25 @@
+{
+	title: "Horseback riding",
+	icon: "minecraft:saddle",
+	x: 9.0d,
+	y: 4.0d,
+	description: "Верховая езда",
+	text: [
+		"Tame a horse",
+		"",
+		"Приручить лошадь"
+	],
+	tasks: [{
+		uid: "64bd7e72",
+		type: "item",
+		items: [{
+			item: "minecraft:saddle"
+		}]
+	},
+	{
+		uid: "3e85519f",
+		type: "stat",
+		stat: "stat.horseOneCm",
+		value: 100000
+	}]
+}

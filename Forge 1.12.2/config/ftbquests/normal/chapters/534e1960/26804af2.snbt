@@ -1,0 +1,14 @@
+{
+	title: "Nuclearcraft",
+	disable_toast: true,
+	x: 0.0d,
+	y: 0.0d,
+	shape: "circle",
+	size: 2.0d,
+	tasks: [{
+		uid: "1594cb8b",
+		type: "checkmark",
+		icon: "nuclearcraft:rtg_plutonium",
+		disable_toast: true
+	}]
+}

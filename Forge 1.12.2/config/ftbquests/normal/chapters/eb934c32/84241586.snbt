@@ -1,0 +1,13 @@
+{
+	title: "Теплозащита 1 ранга",
+	icon: "galacticraftplanets:item_basic_asteroids 1 7",
+	x: 11.5d,
+	y: -6.0d,
+	tasks: [{
+		uid: "3efced90",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:item_basic_asteroids 1 7"
+		}]
+	}]
+}

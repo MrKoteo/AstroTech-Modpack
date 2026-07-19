@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: -4.0d,
+	description: "> Info Age/Open Computers",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "7076556a",
+		type: "item",
+		items: [{
+			item: "opencomputers:material 1 4"
+		}]
+	}]
+}

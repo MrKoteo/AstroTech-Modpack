@@ -1,0 +1,52 @@
+{
+	title: "Fire",
+	icon: "cfm:fire_pit_on",
+	x: 5.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	description: "Огонь",
+	dependencies: [
+		"82939afa"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "42b4032b",
+		type: "interaction",
+		title: "Прикоснуться к огню",
+		icon: "ic2:misc_resource 1 8",
+		disable_toast: true,
+		match_type: "block_id",
+		match: "minecraft:fire"
+	},
+	{
+		uid: "d1723bac",
+		type: "item",
+		items: [{
+			item: "pyrotech:flint_and_tinder"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "98395dbe",
+		type: "item",
+		items: [{
+			item: "pyrotech:matchstick"
+		}]
+	},
+	{
+		uid: "17fc5b76",
+		type: "item",
+		items: [{
+			item: "pyrotech:bow_drill_durable_spindle"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7165caaa",
+		type: "xp",
+		icon: "cfm:fire_pit_on",
+		xp: 10
+	}]
+}

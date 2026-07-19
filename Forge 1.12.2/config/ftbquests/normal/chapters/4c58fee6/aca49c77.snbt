@@ -1,0 +1,20 @@
+{
+	icon: "minecraft:coal 1 1",
+	disable_toast: true,
+	x: 11.0d,
+	y: -2.0d,
+	text: [
+		"Make a coal pit and get coal!",
+		"",
+		"Сделайте угольную яму и получите уголь!"
+	],
+	tasks: [{
+		uid: "4adc8212",
+		type: "item",
+		items: [{
+			item: "minecraft:coal 1 1"
+		}],
+		count: 8L,
+		consume_items: true
+	}]
+}

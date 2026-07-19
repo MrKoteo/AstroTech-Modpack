@@ -1,0 +1,14 @@
+{
+	title: "Technical modifications",
+	icon: "galaxyspace:modification_table",
+	x: 18.0d,
+	y: -2.0d,
+	description: "Технические модификации",
+	tasks: [{
+		uid: "e97549b6",
+		type: "item",
+		items: [{
+			item: "galaxyspace:modification_table"
+		}]
+	}]
+}

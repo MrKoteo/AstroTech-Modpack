@@ -1,0 +1,20 @@
+{
+	disable_toast: true,
+	x: 9.0d,
+	y: 2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"3d707cc7"
+	],
+	tasks: [{
+		uid: "7123ae6e",
+		type: "item",
+		items: [{
+			id: "gravisuite:advancedjetpack",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

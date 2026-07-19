@@ -1,0 +1,14 @@
+{
+	title: "Gravity Field Generators (GFG)",
+	icon: "gravisuite:crafting 1 3",
+	x: 14.0d,
+	y: 2.0d,
+	description: "Генераторы Гравитационного Поля (ГГП)",
+	tasks: [{
+		uid: "b5a8061b",
+		type: "item",
+		items: [{
+			item: "gravisuite:crafting 1 3"
+		}]
+	}]
+}

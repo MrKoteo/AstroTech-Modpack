@@ -1,0 +1,11 @@
+{
+	x: 8.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "12b8e64f",
+		type: "item",
+		items: [{
+			item: "opencomputers:component 1 2"
+		}]
+	}]
+}

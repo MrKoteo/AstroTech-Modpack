@@ -1,0 +1,222 @@
+# MoarAcceleratorComponents-1.1.0
+
+itemGroup.moar_accelerator_components=Moar Accelerator Components
+
+tile.qmd.accelerator_rf_cavity_silver.name=Серебряный ВЧ-резонатор
+tile.qmd.accelerator_magnet_silver.name=Серебряный электромагнит ускорителя
+tile.qmd.accelerator_rf_cavity_hbcco.name=ВЧ-резонатор из HBCCO
+tile.qmd.accelerator_magnet_hbcco.name=Электромагнит ускорителя из HBCCO
+
+tile.qmd.accelerator_rf_cavity_adaf.name=ВЧ-резонатор из ADAF
+tile.qmd.accelerator_magnet_adaf.name=Электромагнит ускорителя из ADAF
+tile.qmd.accelerator_rf_cavity_vocso.name=ВЧ-резонатор из VOCSO
+tile.qmd.accelerator_magnet_vocso.name=Электромагнит ускорителя из VOCSO
+tile.qmd.accelerator_rf_cavity_mhydrogen.name=ВЧ-резонатор из металлического водорода
+tile.qmd.accelerator_magnet_mhydrogen.name=Электромагнит ускорителя из металлического водорода
+
+item.contenttweaker.wire_hbcco.name=Проволока из HBCCO
+item.contenttweaker.dust_hbcco.name=Пыль HBCCO
+item.contenttweaker.dust_bcco.name=Пыль смеси BaCaCuO
+
+item.contenttweaker.wire_adaf.name=Проволока из ADAF
+item.contenttweaker.dust_adaf.name=Пыль ADAF
+item.contenttweaker.dust_ada.name=Пыль ADA
+item.contenttweaker.wire_vocso.name=Проволока из VOCSO
+item.contenttweaker.dust_vocso.name=Пыль VOCSO
+item.contenttweaker.dust_vocs.name=Пыль VOCS
+
+# MoarReactorFunctionality-1.10.2
+
+item.contenttweaker.blaster.name=Малый Компрессионный Заряд
+item.contenttweaker.radio_waste.name=Стандартная Переработанная Гранула Ядерных Отходов
+
+fluid.liquid_air=Обеднённый Воздух
+fluid.nether_air=Адский Воздух
+fluid.end_air=Эндер Воздух
+fluid.well_pressed_water=Высоконапорная Вода
+fluid.super_critical_steam=Сверхкритический Пар
+fluid.crap_steam=Бросовый Пар
+fluid.hot_nitrogen=Горячий Азот
+fluid.hot_carbon_dioxide=Горячий Углекислый Газ
+fluid.hot_helium=Горячий Гелий
+fluid.hot_argon=Горячий Аргон
+fluid.krypton=Криптон
+fluid.hot_krypton=Горячий Криптон
+fluid.xenon=Ксенон
+fluid.hot_xenon=Горячий Ксенон
+fluid.hot_neon=Горячий Неон
+fluid.compr_carbon_dioxide=Сжатый Углекислый Газ
+fluid.supercritical_carbon_dioxide=Сверхкритический Углекислый Газ
+fluid.critical_exhaust_carbon_dioxide=Критический Углекислый Газ Отработавших Газов
+
+fluid.cold_nrg=Тёплая Жидкая Энергия
+fluid.hot_nrg=Горячая Жидкая Энергия
+fluid.hot_deuterium=Горячая Плазма Дейтерия
+fluid.hot_tritium=Горячая Плазма Трития
+
+itemGroup.moar_reactor_functionality=Moar Reactor Functionality
+
+# MoarRealisticEnrichment-1.1.3
+
+item.contenttweaker.salt.name=Соль
+fluid.salty_solution=Солёный Раствор
+fluid.cl2=Хлор
+
+fluid.clf3=Трифторид Хлора
+
+fluid.duf6=Гексафторид Обеднённого Урана
+fluid.nuf6=Гексафторид Природного Урана
+fluid.leuf6=Гексафторид Низкообогащённого Урана
+fluid.meuf6=Гексафторид Среднеобогащённого Урана
+fluid.heuf6=Гексафторид Высокообогащённого Урана
+fluid.vheuf6=Гексафторид Сверхвысокообогащённого Урана
+fluid.xeuf6=Гексафторид Чрезвычайно Обогащённого Урана
+fluid.seuf6=Гексафторид Сверхобогащённого Урана
+fluid.ueuf6=Гексафторид Ультраобогащённого Урана
+fluid.wguf6=Гексафторид Оружейного Урана
+fluid.ipuf6=Гексафторид Изотопно Чистого Урана
+
+fluid.le_water=Низкообогащённая Вода
+fluid.me_water=Среднеобогащённая Вода
+fluid.he_water=Высокообогащённая Вода
+fluid.vhe_water=Сверхвысокообогащённая Вода
+fluid.xe_water=Чрезвычайно Обогащённая Вода
+fluid.se_water=Сверхобогащённая Вода
+fluid.ue_water=Ультраобогащённая Вода
+fluid.te_water=Чрезмерно Обогащённая Вода
+
+fluid.hydrogen_sulfide=Сероводород
+fluid.le_hydrogen_sulfide=Низкообогащённый Сероводород
+fluid.me_hydrogen_sulfide=Среднеобогащённый Сероводород
+fluid.he_hydrogen_sulfide=Высокообогащённый Сероводород
+
+# NCEIB-Overhaul-v2.0
+
+contenttweaker.material.tungsten_carbide.name=Карбид Вольфрама
+contenttweaker.material.niobium_tin.name=Ниобий-Олово
+contenttweaker.material.stainless_steel.name=Нержавеющая Сталь
+contenttweaker.material.niobium_titanium.name=Ниобий-Титан
+contenttweaker.material.superalloy.name=Суперсплав
+contenttweaker.material.extreme.name=Экстремальный Сплав
+contenttweaker.material.hard_carbon.name=Твёрдый Углеродный Сплав
+contenttweaker.material.lithium_manganese_dioxide.name=Диоксид Марганца-Лития
+contenttweaker.material.h_s_l_a_steel.name=HSLA Сталь (Высокопрочная Низколегированная)
+contenttweaker.material.magnesium_diboride.name=Сплав Диборида Магния
+contenttweaker.material.si_c_si_c_c_m_c.name=Керамический Композит SiC-SiC
+contenttweaker.material.lead_platinum.name=Свинцово-Платиновый Сплав
+contenttweaker.material.thermoconducting.name=Теплопроводящий Сплав
+contenttweaker.material.silicon_carbide.name=Карбид Кремния
+contenttweaker.material.zirconium_molybdenum.name=Цирконий-Молибденовый Сплав
+contenttweaker.material.tough.name=Прочный Сплав
+contenttweaker.material.tin_silver.name=Оловянно-Серебряный Сплав
+contenttweaker.material.shibuichi.name=Сплав Сибуити
+contenttweaker.material.boron_arsenide.name=Арсенид Бора
+contenttweaker.material.boron_nitride.name=Кубический Нитрид Бора
+contenttweaker.material.caesium137.name=Цезий-137
+contenttweaker.material.europium155.name=Европий-155
+contenttweaker.material.promethium147.name=Прометий-147
+contenttweaker.material.protactinium233.name=Протактиний-233
+contenttweaker.material.ruthenium106.name=Рутений-106
+contenttweaker.part.block.name=Блок из %s
+
+# NOR v1.32
+
+fluid.dirt=Жидкая Грязь
+fluid.biogas=Биогаз
+fluid.methan=Метан
+fluid.hco_steam=Синтез-газ
+fluid.tropsch=Реагент Фишера-Тропша
+fluid.moc=Смесь Нефти и Угля
+fluid.bergius=Реагент Бергиуса
+
+fluid.sour_oilgas=Неочищенный Нефтяной Газ
+fluid.sour_naphta=Неочищенная Нафта
+fluid.sour_kerosene=Неочищенный Керосин
+fluid.sour_dieseloil=Неочищенное Дизельное Топливо
+fluid.sour_heavyoil=Неочищенное Мазутное Масло
+fluid.oil_waste=Нефтяные Остатки
+
+fluid.hycarb_gas=Углеводородный Газ
+fluid.sour_natgas=Неочищенный Природный Газ
+fluid.natgas=Природный Газ
+fluid.sour_lpg=Неочищенный СУГ
+fluid.lpg=Сжиженный Углеводородный Газ (СУГ)
+fluid.pressurizedlpg=Сжатый СУГ
+fluid.hot_lpgex=Горячий Выхлоп СУГ
+fluid.sour_water=Кислая Вода
+fluid.treated_naphta=Гидрокрекинговая Нафта
+fluid.naphta_petr=Бензиновая Фракция Нафты
+
+fluid.kerosene=Керосин
+fluid.pressurizedkerosene=Сжатый Керосин
+fluid.hot_kerosenex=Горячий Выхлоп Керосина
+fluid.sour_diesel=Неочищенное Дизельное Топливо
+fluid.dieseloil=Дизельное Топливо
+fluid.diesel=Дизель
+fluid.pressurizeddiesel=Сжатый Дизель
+fluid.hot_dieselex=Горячий Выхлоп Дизеля
+fluid.heavyoil=Мазутное Масло
+fluid.fcc_feed=Сырьё Флюид Каталитического Крекинга (FCC)
+fluid.lightvacgas=Лёгкий Вакуумный Газойль
+fluid.heavyvacgas=Тяжёлый Вакуумный Газойль
+fluid.vacuum_residuum=Вакуумный Остаток
+
+fluid.cracked_vacgas=Гидрокрекинг-Вакуумный Газойль
+fluid.cracked_gasoline=Гидрокрекинг-Бензин
+fluid.butane=Изобутан
+fluid.coker=Коксовая Смесь
+fluid.sodium_silicate=Силикат Натрия
+fluid.faujasite=Фауязит
+fluid.cracked_fluid=Крекинг-Флюид
+fluid.spent_faujasite=Отработанный Фауязит (Насыщенный Коксом)
+fluid.pentene=Пентен
+
+fluid.alkyl_petrol=Алкилат Бензин
+fluid.alkyl_feed=Сырьё для Алкилирования
+fluid.pressurizedgasoline=Сжатый Бензин
+fluid.fuel=Бензин
+fluid.hot_gasolinex=Горячий Выхлоп Бензина
+fluid.pressurizedfueloil=Сжатый Топочный Мазут
+fluid.fuel_oil=Топочный Мазут
+fluid.hot_fueloilex=Горячий Выхлоп Мазута
+fluid.regen_faujasite=Регенерированный Фауязит
+
+fluid.gasolinex=Радиоактивный Выхлоп Бензина
+fluid.lpgex=Радиоактивный Выхлоп СУГ
+fluid.dieselex=Радиоактивный Выхлоп Дизеля
+fluid.fueloilex=Радиоактивный Выхлоп Мазута
+fluid.kerosenex=Радиоактивный Выхлоп Керосина
+fluid.cold_gasolinex=Охлаждённый Выхлоп Бензина
+fluid.cold_lpgex=Охлаждённый Выхлоп СУГ
+fluid.cold_dieselex=Охлаждённый Выхлоп Дизеля
+fluid.cold_fueloilex=Охлаждённый Выхлоп Мазута
+fluid.cold_kerosenex=Охлаждённый Выхлоп Керосина
+fluid.fired_gasolinex=Огневой Выхлоп Бензина
+fluid.fired_lpgex=Огневой Выхлоп СУГ
+fluid.fired_dieselex=Огневой Выхлоп Дизеля
+fluid.fired_fueloilex=Огневой Выхлоп Мазута
+fluid.fired_kerosenex=Огневой Выхлоп Керосина
+
+fluid.hydrogenisation=Флюид Гидрирования Метаном
+fluid.bergius_oil=Синтетическая Нефть Бергиуса
+fluid.Fischer_oil=Синтетическая Нефть Фишера-Тропша
+fluid.karrick=Синтетическая Нефть Каррика
+fluid.coker_tar=Коксовый Пек
+fluid.black_liquor=Чёрный Щёлок
+fluid.med_blend=Средняя Смесь Жидкой Биомассы
+fluid.rich_bioblend=Богатая Смесь Жидкой Биомассы
+fluid.poor_feed=Бедное Сырьё Гидротермального Ожижения
+fluid.med_feed=Среднее Сырьё Гидротермального Ожижения
+fluid.rich_feed=Богатое Сырьё Гидротермального Ожижения
+
+fluid.rich_feed=Богатое Сырьё Гидротермального Ожижения (Дубль)
+fluid.bio_oil=Продвинутое Био-Масло
+
+fluid.bitumen=Жидкий Битум
+fluid.cracked_bitumen=Крекинг-Жидкий Битум
+fluid.retort=Сырьё Реторта Горючего Сланца
+fluid.solved_shale=Растворённый Горючий Сланец
+fluid.shale=Очищенный Горючий Сланец
+
+item.contenttweaker.catalyst.name=Катализатор Реакции
+item.contenttweaker.crushed_bitumen.name=Дроблёный Горючий Сланец

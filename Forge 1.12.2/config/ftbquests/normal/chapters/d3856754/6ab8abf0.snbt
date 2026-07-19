@@ -1,0 +1,27 @@
+{
+	title: "Packaged Auto",
+	icon: {
+		id: "patchouli:guide_book",
+		tag: {
+			"patchouli:book": "packagedauto:guide"
+		}
+	},
+	disable_toast: true,
+	x: 5.0d,
+	y: 2.0d,
+	shape: "octagon",
+	tasks: [{
+		uid: "d572a52f",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "cc2c5da2",
+		type: "item",
+		item: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "packagedauto:guide"
+			}
+		}
+	}]
+}

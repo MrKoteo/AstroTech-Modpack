@@ -1,0 +1,23 @@
+{
+	title: "Art",
+	icon: "minecraft:painting",
+	x: 17.0d,
+	y: 4.0d,
+	description: "Искусство",
+	tasks: [{
+		uid: "98537000",
+		type: "item",
+		items: [{
+			item: "minecraft:painting"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "35aca765",
+		type: "item",
+		items: [{
+			item: "quark:colored_item_frame 1 8"
+		}],
+		consume_items: true
+	}]
+}

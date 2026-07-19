@@ -1,0 +1,14 @@
+{
+	title: "Quark metamaterials",
+	x: 12.5d,
+	y: 0.0d,
+	description: "Кварковые метаматериалы",
+	tasks: [{
+		uid: "f2152bcf",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 6"
+		}],
+		consume_items: true
+	}]
+}

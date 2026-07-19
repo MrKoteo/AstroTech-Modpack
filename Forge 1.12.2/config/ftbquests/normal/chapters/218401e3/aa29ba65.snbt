@@ -1,0 +1,17 @@
+{
+	disable_toast: true,
+	x: 18.5d,
+	y: -3.0d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "89c4ee57",
+		type: "item",
+		items: [{
+			id: "energycontrol:afb",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

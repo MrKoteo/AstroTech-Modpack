@@ -1,0 +1,49 @@
+{
+  "id": "quarryplus:builtin_laserplus",
+  "type": "quarryplus:workbench_recipe",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond",
+      "data": 0,
+      "count": 24
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "data": 0,
+      "count": 48
+    },
+    {
+      "item": "minecraft:redstone",
+      "data": 0,
+      "count": 288
+    },
+    {
+      "item": "minecraft:glowstone_dust",
+      "data": 0,
+      "count": 96
+    },
+    {
+      "item": "minecraft:obsidian",
+      "data": 0,
+      "count": 48
+    },
+    {
+      "item": "minecraft:glass",
+      "data": 0,
+      "count": 216
+    }
+  ],
+  "energy": 64000.0,
+  "showInJEI": true,
+  "result": {
+    "item": "quarryplus:laserplus",
+    "data": 0,
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "quarryplus:machine_enabled",
+      "value": "LaserPlus"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+	title: "debug",
+	icon: "minecraft:structure_void",
+	disable_toast: true,
+	always_invisible: true,
+	group: 0,
+	default_quest_shape: ""
+}

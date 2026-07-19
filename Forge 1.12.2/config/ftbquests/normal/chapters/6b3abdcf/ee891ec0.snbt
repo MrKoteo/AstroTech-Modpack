@@ -1,0 +1,12 @@
+{
+	x: 14.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "e2ed31ea",
+		type: "item",
+		items: [{
+			item: "opencomputers:component 1 15"
+		}],
+		ignore_nbt: 1b
+	}]
+}

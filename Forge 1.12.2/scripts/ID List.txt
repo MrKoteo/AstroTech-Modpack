@@ -1,0 +1,56 @@
+Stages:
+{
+	[None]
+	stone_age
+	antique
+	medieval		*
+	industrial_age		*
+	modern_age		*
+	atomic_age
+	info_age		*
+	space_age		*
+	future			*
+}
+
+
+
+// Stages:
+// ancient, medieval, industrial, modern, info, space, future
+
+
+
+# Напоминалка:
+
+Добавить в AstroTech:
+
+
+- Изменить текстуры меди и бронзы в Thermal Foundation
+- Добавить возможность получения меди с помощью ExNihilo
+- 
+
+
+- 
+
+
+
+
+
+Жетоны: {
+	Значок Выживальщика	->  Survivalists_badge
+	Значок Обывателя	->  Philistine_badge
+	Значок Инженера		->  Engineer_badge
+	Значок Мастера		->  Master_badge
+	Значок Феникса		->  Phoenix_badge
+	Значок Космоса		->  Space_badge
+	Значок Сингулярности	->  Singularity_badge
+}
+
+
+
+
+
+
+
+
+
+

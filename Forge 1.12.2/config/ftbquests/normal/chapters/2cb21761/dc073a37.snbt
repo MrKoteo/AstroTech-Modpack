@@ -1,0 +1,25 @@
+{
+	title: "TNT",
+	icon: "minecraft:tnt",
+	x: 5.0d,
+	y: -4.0d,
+	description: "Динамит",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "58b4e554",
+		type: "item",
+		items: [{
+			item: "minecraft:tnt"
+		}]
+	},
+	{
+		uid: "a72748dc",
+		type: "item",
+		items: [{
+			item: "ic2:dynamite"
+		}]
+	}]
+}

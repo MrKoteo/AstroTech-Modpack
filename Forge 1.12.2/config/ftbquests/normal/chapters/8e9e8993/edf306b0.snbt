@@ -1,0 +1,40 @@
+{
+	title: "High-tech SP | Lvl: 4",
+	icon: "advanced_solar_panels:machines 1 4",
+	x: 21.0d,
+	y: -2.0d,
+	description: "Высокотехнологичные солнечные панели",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "918875bc",
+		type: "item",
+		items: [{
+			item: "advanced_solar_panels:machines 1 4"
+		}]
+	},
+	{
+		uid: "44116ede",
+		type: "item",
+		items: [{
+			item: "wirelesstools:witiles 1 3"
+		}]
+	},
+	{
+		uid: "a661666e",
+		type: "item",
+		items: [{
+			item: "wirelesstools:witiles 1 4"
+		}]
+	},
+	{
+		uid: "86dd7941",
+		type: "item",
+		items: [{
+			item: "mets:te 1 18"
+		}]
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	icon: "galacticraftcore:oxygen_gear",
+	x: 5.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "ff111e49",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_gear"
+		}]
+	},
+	{
+		uid: "cc5baeed",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_mask"
+		}]
+	},
+	{
+		uid: "e2656837",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 19"
+		}]
+	}]
+}

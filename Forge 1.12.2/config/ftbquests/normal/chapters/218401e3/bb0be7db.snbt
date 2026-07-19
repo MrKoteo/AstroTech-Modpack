@@ -1,0 +1,13 @@
+{
+	disable_toast: true,
+	x: 16.5d,
+	y: 4.5d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "83463212",
+		type: "item",
+		items: [{
+			item: "mets:living_circuit"
+		}]
+	}]
+}

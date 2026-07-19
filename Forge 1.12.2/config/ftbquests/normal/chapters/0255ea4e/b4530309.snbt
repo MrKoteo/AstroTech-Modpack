@@ -1,0 +1,12 @@
+{
+	title: "Mars Exploration Program",
+	icon: "galacticraftplanets:mars 1 5",
+	x: 12.0d,
+	y: 0.0d,
+	description: "Программа освоения марса",
+	tasks: [{
+		uid: "b8f94e1e",
+		type: "dimension",
+		dim: -29
+	}]
+}

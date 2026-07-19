@@ -1,0 +1,14 @@
+{
+	title: "Space Communication Network",
+	icon: "galacticraftcore:dishbase",
+	x: 6.0d,
+	y: 2.0d,
+	description: "Космическая сеть связи",
+	tasks: [{
+		uid: "e304ab85",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:dishbase"
+		}]
+	}]
+}

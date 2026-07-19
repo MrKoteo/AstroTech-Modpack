@@ -1,0 +1,34 @@
+{
+	title: "On the road to technological divinity...",
+	icon: "astrotweaks:singularity_badge",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "circle",
+	description: "На пути к технологической божественности...",
+	dependencies: [
+		"48a00ee7"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "7e882147",
+		type: "checkmark",
+		icon: "astrotweaks:singularity_badge"
+	}],
+	rewards: [{
+		uid: "7e02ac10",
+		type: "xp",
+		xp: 666
+	},
+	{
+		uid: "0acc7327",
+		type: "item",
+		item: "astrotweaks:space_badge"
+	},
+	{
+		uid: "a97a1f4a",
+		type: "gamestage",
+		team_reward: true,
+		auto: "no_toast",
+		stage: "future"
+	}]
+}

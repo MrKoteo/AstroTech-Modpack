@@ -1,0 +1,39 @@
+{
+	title: "Perfect SP | Lvl: 5, 6",
+	icon: "advanced_solar_panels:machines 1 5",
+	x: 27.0d,
+	y: -2.0d,
+	description: "Совершенные солнечные панели",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "d1414e2e",
+		type: "item",
+		items: [{
+			item: "advanced_solar_panels:machines 1 5"
+		}]
+	},
+	{
+		uid: "6a905c4a",
+		type: "item",
+		items: [{
+			item: "wirelesstools:witiles 1 5"
+		}]
+	},
+	{
+		uid: "1727b974",
+		type: "item",
+		items: [{
+			item: "wirelesstools:witiles 1 6"
+		}]
+	},
+	{
+		uid: "345111fd",
+		type: "item",
+		items: [{
+			item: "mets:te 1 20"
+		}]
+	}]
+}

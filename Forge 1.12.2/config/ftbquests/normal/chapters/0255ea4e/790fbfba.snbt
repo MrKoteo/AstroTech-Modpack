@@ -1,0 +1,22 @@
+{
+	title: "Emergency Equipment Kits",
+	icon: "galacticraftcore:emergency_kit",
+	x: 6.0d,
+	y: -4.0d,
+	description: "Экстренные наборы оборудования",
+	tasks: [{
+		uid: "0dda69ae",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:emergency_kit"
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "c256e226",
+		type: "item",
+		items: [{
+			item: "galaxyspace:gs_basic 1 20"
+		}]
+	}]
+}

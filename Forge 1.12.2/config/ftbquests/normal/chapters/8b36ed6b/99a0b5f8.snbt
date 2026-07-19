@@ -1,0 +1,27 @@
+{
+	icon: "appliedenergistics2:part 1 380",
+	disable_toast: true,
+	x: 11.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "ee31ab55",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 380"
+		}]
+	},
+	{
+		uid: "137ffafa",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 44"
+		}]
+	},
+	{
+		uid: "7bd63fb2",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 43"
+		}]
+	}]
+}

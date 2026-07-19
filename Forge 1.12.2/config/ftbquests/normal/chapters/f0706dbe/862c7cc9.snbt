@@ -1,0 +1,50 @@
+{
+	title: "Одежда из шкур",
+	icon: {
+		id: "mocreatures:hidehelmet",
+		tag: {}
+	},
+	x: 0.0d,
+	y: -3.0d,
+	description: "Animal skin clothing",
+	tasks: [{
+		uid: "e2995a4c",
+		type: "item",
+		items: [{
+			id: "mocreatures:hidehelmet",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f481e95b",
+		type: "item",
+		items: [{
+			id: "mocreatures:hidechest",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b1a12fa9",
+		type: "item",
+		items: [{
+			id: "mocreatures:hidelegs",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "91296120",
+		type: "item",
+		items: [{
+			id: "mocreatures:hideboots",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

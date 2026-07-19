@@ -1,0 +1,17 @@
+{
+	disable_toast: true,
+	x: 2.0d,
+	y: 4.0d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "901d7d36",
+		type: "item",
+		items: [{
+			id: "ic2:nano_helmet",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

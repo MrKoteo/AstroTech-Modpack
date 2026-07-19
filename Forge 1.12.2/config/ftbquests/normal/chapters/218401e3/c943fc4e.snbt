@@ -1,0 +1,13 @@
+{
+	disable_toast: true,
+	x: 0.5d,
+	y: -3.0d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "43ef90b4",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 1"
+		}]
+	}]
+}

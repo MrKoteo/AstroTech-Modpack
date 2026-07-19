@@ -1,0 +1,36 @@
+{
+	title: "MV Batteries",
+	icon: {
+		id: "ic2:te",
+		Damage: 73s,
+		tag: {}
+	},
+	x: 21.0d,
+	y: 0.0d,
+	description: "Аккумуляторы MV",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	tasks: [{
+		uid: "b4706414",
+		type: "item",
+		items: [{
+			id: "ic2:te",
+			Damage: 73s,
+			tag: {}
+		}]
+	},
+	{
+		uid: "5bcc0228",
+		type: "item",
+		items: [{
+			id: "ic2:advanced_re_battery",
+			tag: {
+				charge: 100000.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

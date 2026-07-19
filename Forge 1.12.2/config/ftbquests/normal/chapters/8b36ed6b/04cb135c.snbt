@@ -1,0 +1,11 @@
+{
+	x: 11.5d,
+	y: -4.5d,
+	tasks: [{
+		uid: "b4e16b9f",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 340"
+		}]
+	}]
+}

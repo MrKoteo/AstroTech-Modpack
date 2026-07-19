@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: -3.0d,
+	or_tasks: true,
+	tasks: [{
+		uid: "c61d6b32",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:quartz_growth_accelerator"
+		}]
+	},
+	{
+		uid: "865d8947",
+		type: "item",
+		items: [{
+			item: "ae2stuff:grower"
+		}]
+	}]
+}

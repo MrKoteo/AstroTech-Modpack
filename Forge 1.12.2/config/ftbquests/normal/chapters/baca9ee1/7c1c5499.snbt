@@ -1,0 +1,22 @@
+{
+	x: 14.5d,
+	y: 4.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"27c4d762"
+	],
+	tasks: [{
+		uid: "d8cc0bea",
+		type: "item",
+		items: [{
+			item: "astrotweaks:ark"
+		}]
+	},
+	{
+		uid: "c4c320df",
+		type: "item",
+		items: [{
+			item: "astrotweaks:ark_resonator"
+		}]
+	}]
+}

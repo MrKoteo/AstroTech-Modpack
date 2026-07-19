@@ -1,0 +1,71 @@
+{
+	icon: "appliedenergistics2:material 1 27",
+	x: 18.5d,
+	y: -1.5d,
+	or_tasks: true,
+	tasks: [{
+		uid: "fa6162f0",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 27"
+		}]
+	},
+	{
+		uid: "7adcd8d5",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 30"
+		}]
+	},
+	{
+		uid: "d7fc2c9d",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 31"
+		}]
+	},
+	{
+		uid: "300c24c4",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 53"
+		}]
+	},
+	{
+		uid: "ef6fdf79",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 29"
+		}]
+	},
+	{
+		uid: "124295e3",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 26"
+		}]
+	},
+	{
+		uid: "c10bf8bc",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 59"
+		}]
+	},
+	{
+		uid: "6d987fe0",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 58"
+		}]
+	},
+	{
+		uid: "fa1badb6",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:material",
+			Damage: 60s,
+			tag: {}
+		}]
+	}]
+}

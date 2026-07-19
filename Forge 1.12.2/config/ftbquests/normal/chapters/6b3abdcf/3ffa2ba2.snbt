@@ -1,0 +1,11 @@
+{
+	x: 8.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "c6988176",
+		type: "item",
+		items: [{
+			item: "opencomputers:card 1 4"
+		}]
+	}]
+}

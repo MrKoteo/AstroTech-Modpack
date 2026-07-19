@@ -1,0 +1,49 @@
+{
+	title: "Mixed Reality",
+	icon: {
+		id: "openglasses:openglasses",
+		tag: {
+			thermalvision: 1b,
+			UUIDLeast: -8223773884789497009L,
+			navigation: 1b,
+			nightvision: 1b,
+			opensecurity: 1b,
+			motionsensor: 1b,
+			Energy: 5000000,
+			widgetLimit: 255,
+			isCreative: 1b,
+			radarRange: 128,
+			EnergyCapacity: 5000000,
+			UUIDMost: -6832436507356738439L,
+			tankUpgrade: 1b,
+			upkeepCost: 0,
+			geolyzer: 1b,
+			daylightDetector: 1b,
+			hasKeyboard: 1b
+		}
+	},
+	x: 15.0d,
+	y: 4.0d,
+	description: "Смешанная реальность",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "4f9749a3",
+		type: "item",
+		items: [{
+			id: "openglasses:openglasses",
+			tag: {
+				Energy: 0,
+				widgetLimit: 9,
+				radarRange: 0,
+				EnergyCapacity: 50000,
+				UUIDMost: -6832436507356738439L,
+				UUIDLeast: -8223773884789497009L,
+				upkeepCost: 1
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

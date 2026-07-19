@@ -1,0 +1,24 @@
+itemGroup.moar_accelerator_components=Moar Accelerator Components
+
+tile.qmd.accelerator_rf_cavity_silver.name=Серебряный ВЧ-резонатор
+tile.qmd.accelerator_magnet_silver.name=Серебряный электромагнит ускорителя
+tile.qmd.accelerator_rf_cavity_hbcco.name=ВЧ-резонатор из HBCCO
+tile.qmd.accelerator_magnet_hbcco.name=Электромагнит ускорителя из HBCCO
+
+tile.qmd.accelerator_rf_cavity_adaf.name=ВЧ-резонатор из ADAF
+tile.qmd.accelerator_magnet_adaf.name=Электромагнит ускорителя из ADAF
+tile.qmd.accelerator_rf_cavity_vocso.name=ВЧ-резонатор из VOCSO
+tile.qmd.accelerator_magnet_vocso.name=Электромагнит ускорителя из VOCSO
+tile.qmd.accelerator_rf_cavity_mhydrogen.name=ВЧ-резонатор из металлического водорода
+tile.qmd.accelerator_magnet_mhydrogen.name=Электромагнит ускорителя из металлического водорода
+
+item.contenttweaker.wire_hbcco.name=Проволока из HBCCO
+item.contenttweaker.dust_hbcco.name=Пыль HBCCO
+item.contenttweaker.dust_bcco.name=Пыль смеси BaCaCuO
+
+item.contenttweaker.wire_adaf.name=Проволока из ADAF
+item.contenttweaker.dust_adaf.name=Пыль ADAF
+item.contenttweaker.dust_ada.name=Пыль ADA
+item.contenttweaker.wire_vocso.name=Проволока из VOCSO
+item.contenttweaker.dust_vocso.name=Пыль VOCSO
+item.contenttweaker.dust_vocs.name=Пыль VOCS

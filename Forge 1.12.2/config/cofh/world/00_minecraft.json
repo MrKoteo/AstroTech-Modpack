@@ -1,0 +1,343 @@
+{
+	"priority": 1000000000000,
+	"populate": {
+		"gravel": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "gravel",
+				"material": "minecraft:stone",
+				"cluster-size": 32
+			},
+			"cluster-count": 10,
+			"min-height": 16,
+			"max-height": 200,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		"diorite": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "stone",
+					"properties": {
+						"variant": "diorite"
+					}
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 32
+			},
+			"cluster-count": 10,
+			"min-height": 10,
+			"max-height": 90,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		"granite": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "stone",
+					"properties": {
+						"variant": "granite"
+					}
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 32
+			},
+			"cluster-count": 10,
+			"min-height": 4,
+			"max-height": 80,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		"andesite": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "stone",
+					"properties": {
+						"variant": "andesite"
+					}
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 32
+			},
+			"cluster-count": 10,
+			"min-height": 8,
+			"max-height": 80,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		"coal": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "coal_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 30
+			},
+			"cluster-count": 1,
+			"min-height": 20,
+			"max-height": 76,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		"iron": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "iron_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 10
+			},
+			"cluster-count": 6,
+			"min-height": 5,
+			"max-height": 64,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		"gold": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "gold_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 10
+			},
+			"cluster-count": 3,
+			"min-height": 4,
+			"max-height": 40,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+
+		"redstone": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "redstone_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 9
+			},
+			"cluster-count": 5,
+			"min-height": 3,
+			"max-height": 24,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		"diamond": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "diamond_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 1,
+			"min-height": 2,
+			"max-height": 13,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		"lapis": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "lapis_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 8
+			},
+			"cluster-count": 1,
+			"center-height": 13,
+			"spread": 11,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		"mesa_gold": {
+			"enabled": true,
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "gold_ore"
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 16
+			},
+			"cluster-count": 12,
+			"min-height": 32,
+			"max-height": 80,
+			"retrogen": false,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"mesa",
+							"mesa_rock",
+							"mesa_clear_rock",
+							"mutated_mesa",
+							"mutated_mesa_rock",
+							"mutated_mesa_clear_rock"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		"emerald": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "emerald_ore"
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 2
+			},
+			"cluster-count": {
+				"min": 3,
+				"max": 7
+			},
+			"min-height": 4,
+			"max-height": 28,
+			"retrogen": false,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"extreme_hills",
+							"smaller_extreme_hills",
+							"extreme_hills_with_trees",
+							"mutated_extreme_hills",
+							"mutated_extreme_hills_with_trees"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		"silverfish": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "monster_egg",
+					"properties": {
+						"variant": "stone"
+					}
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 14
+			},
+			"cluster-count": 6,
+			"min-height": 10,
+			"max-height": 65,
+			"retrogen": false,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"extreme_hills",
+							"smaller_extreme_hills",
+							"extreme_hills_with_trees",
+							"mutated_extreme_hills",
+							"mutated_extreme_hills_with_trees"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		"quartz": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "quartz_ore",
+				"material": "minecraft:netherrack",
+				"cluster-size": 15
+			},
+			"cluster-count": 15,
+			"min-height": 5,
+			"max-height": 100,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	disable_toast: true,
+	x: -1.5d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"cf2d355f"
+	],
+	tasks: [{
+		uid: "caebc23b",
+		type: "item",
+		items: [{
+			item: "irontanks:obsidian_tank"
+		}]
+	}]
+}

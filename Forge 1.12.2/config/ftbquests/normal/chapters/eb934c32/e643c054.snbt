@@ -1,0 +1,12 @@
+{
+	x: 7.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "54557add",
+		type: "item",
+		items: [{
+			item: "galacticresearch:mining_rocket"
+		}],
+		ignore_nbt: 1b
+	}]
+}

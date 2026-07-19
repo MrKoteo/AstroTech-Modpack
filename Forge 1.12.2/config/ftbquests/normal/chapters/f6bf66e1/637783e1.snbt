@@ -1,0 +1,11 @@
+{
+	x: 8.5d,
+	y: 6.0d,
+	tasks: [{
+		uid: "6b6ce646",
+		type: "item",
+		items: [{
+			item: "astrotweaks:void_matter_core"
+		}]
+	}]
+}

@@ -1,0 +1,249 @@
+{
+  "_schemaVersion": 7,
+  "_lastMCVersionId": 340,
+  "generalSettings": {
+    "detectATLauncherInstance": true,
+    "detectCurseManifest": true,
+    "detectMultiMCManifest": true,
+    "detectMCUpdaterInstance": true,
+    "detectTechnicPack": true,
+    "detectModrinthPack": true,
+    "detectBiomeData": false,
+    "detectDimensionData": true,
+    "detectWorldData": false,
+    "clientId": "450485984333660181",
+    "defaultIcon": "AT_128x",
+    "enableJoinRequests": false,
+    "preferredClientLevel": 3,
+    "resetTimeOnInit": false,
+    "autoRegister": false
+  },
+  "biomeSettings": {
+    "fallbackBiomeIcon": "unknown",
+    "biomeData": {
+      "default": {
+        "textOverride": "Playing in {biome.name}"
+      }
+    }
+  },
+  "dimensionSettings": {
+    "fallbackDimensionIcon": "AT_128x",
+    "dimensionData": {
+      "default": {
+        "textOverride": "In the {dimension.name}",
+        "iconOverride": "AT_128x"
+      }
+    }
+  },
+  "serverSettings": {
+    "fallbackServerIcon": "default",
+    "fallbackServerName": "Minecraft Server",
+    "fallbackServerMotd": "A Minecraft Server",
+    "serverData": {
+      "default": {
+        "textOverride": "Playing on {server.motd.raw}",
+        "iconOverride": "AT_128x"
+      }
+    },
+    "pingRateInterval": 5,
+    "pingRateUnit": "minutes"
+  },
+  "statusMessages": {
+    "mainMenuData": {
+      "textOverride": "curseforge.com/minecraft/modpacks/astro-tech",
+      "iconOverride": "AT_128x",
+      "data": {
+        "enabled": true,
+        "useAsMain": false,
+        "isInstance": false,
+        "activityType": 0,
+        "statusDisplayType": 0,
+        "partyPrivacy": 1,
+        "details": "",
+        "detailsUrl": "https://curseforge.com/minecraft/modpacks/astro-tech",
+        "gameState": "",
+        "gameStateUrl": "",
+        "appName": "",
+        "largeImageKey": "",
+        "largeImageText": "",
+        "largeImageUrl": "",
+        "smallImageKey": "",
+        "smallImageText": "",
+        "smallImageUrl": "",
+        "startTimestamp": "",
+        "endTimestamp": "",
+        "buttons": {}
+      }
+    },
+    "loadingData": {
+      "textOverride": "Loading...",
+      "iconOverride": "AT_128x",
+      "data": {
+        "enabled": true,
+        "useAsMain": false,
+        "isInstance": false,
+        "activityType": 0,
+        "statusDisplayType": 0,
+        "partyPrivacy": 1,
+        "details": "",
+        "detailsUrl": "https://curseforge.com/minecraft/modpacks/astro-tech",
+        "gameState": "",
+        "gameStateUrl": "",
+        "appName": "",
+        "largeImageKey": "",
+        "largeImageText": "",
+        "largeImageUrl": "",
+        "smallImageKey": "",
+        "smallImageText": "",
+        "smallImageUrl": "",
+        "startTimestamp": "",
+        "endTimestamp": "",
+        "buttons": {}
+      }
+    },
+    "lanData": {
+      "textOverride": "Playing on a LAN Server",
+      "iconOverride": "AT_128x",
+      "data": {
+        "enabled": true,
+        "useAsMain": false,
+        "isInstance": false,
+        "activityType": 0,
+        "statusDisplayType": 0,
+        "partyPrivacy": 1,
+        "details": "",
+        "detailsUrl": "https://curseforge.com/minecraft/modpacks/astro-tech",
+        "gameState": "",
+        "gameStateUrl": "",
+        "appName": "",
+        "largeImageKey": "",
+        "largeImageText": "",
+        "largeImageUrl": "",
+        "smallImageKey": "",
+        "smallImageText": "",
+        "smallImageUrl": "",
+        "startTimestamp": "",
+        "endTimestamp": "",
+        "buttons": {}
+      }
+    },
+    "singleplayerData": {
+      "textOverride": "Playing Singleplayer",
+      "iconOverride": "AT_128x",
+      "data": {
+        "enabled": true,
+        "useAsMain": false,
+        "isInstance": false,
+        "activityType": 0,
+        "statusDisplayType": 0,
+        "partyPrivacy": 1,
+        "details": "",
+        "detailsUrl": "https://curseforge.com/minecraft/modpacks/astro-tech",
+        "gameState": "",
+        "gameStateUrl": "",
+        "appName": "",
+        "largeImageKey": "",
+        "largeImageText": "",
+        "largeImageUrl": "",
+        "smallImageKey": "",
+        "smallImageText": "",
+        "smallImageUrl": "",
+        "startTimestamp": "",
+        "endTimestamp": "",
+        "buttons": {}
+      }
+    },
+    "realmData": {
+      "textOverride": "Playing on {server.motd.raw}",
+      "iconOverride": "feedback_grass"
+    }
+  },
+  "advancedSettings": {
+    "enablePerGui": false,
+    "enablePerItem": false,
+    "enablePerEntity": false,
+    "formatWords": true,
+    "debugMode": false,
+    "verboseMode": false,
+    "refreshRate": 20,
+    "allowPlaceholderPreviews": false,
+    "guiSettings": {
+      "fallbackGuiIcon": "unknown",
+      "guiData": {
+        "default": {
+          "textOverride": "In {screen.name}"
+        }
+      }
+    },
+    "itemMessages": {
+      "default": "Holding {item.message.holding}"
+    },
+    "entitySettings": {
+      "fallbackEntityIcon": "unknown",
+      "targetData": {
+        "default": {
+          "textOverride": "Targeting {entity.target.name}"
+        }
+      },
+      "ridingData": {
+        "default": {
+          "textOverride": "Riding {entity.riding.name}"
+        }
+      }
+    },
+    "allowEndpointIcons": true,
+    "serverIconEndpoint": "https://api.mcsrvstat.us/icon/{server.address.short}",
+    "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}",
+    "allowDuplicatePackets": false,
+    "maxConnectionAttempts": 10,
+    "enableClassGraph": false
+  },
+  "accessibilitySettings": {
+    "languageId": "en_us",
+    "stripTranslationColors": false,
+    "stripTranslationFormatting": false,
+    "stripExtraGuiElements": false,
+    "configKeyCode": 73
+  },
+  "displaySettings": {
+    "presenceData": {
+      "enabled": true,
+      "useAsMain": false,
+      "isInstance": false,
+      "activityType": 0,
+      "statusDisplayType": 0,
+      "partyPrivacy": 1,
+      "details": "{getFirst(menu.message, dimension.message)}",
+      "detailsUrl": "",
+      "gameState": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
+      "gameStateUrl": "",
+      "appName": "AstroTech",
+      "largeImageKey": "{general.icon}",
+      "largeImageText": "{getFirst(menu.message, dimension.message)}",
+      "largeImageUrl": "",
+      "smallImageKey": "",
+      "smallImageText": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
+      "smallImageUrl": "",
+      "startTimestamp": "{data.general.time}",
+      "endTimestamp": "",
+      "buttons": {}
+    },
+    "dynamicIcons": {
+      "AT_128x": "https://raw.githubusercontent.com/MrKoteo/AstroTech-Modpack/refs/heads/main/res/icon_128.png",
+      "AT_64x": "https://raw.githubusercontent.com/MrKoteo/AstroTech-Modpack/refs/heads/main/res/icon_64.png",
+      "AT_32x": "https://raw.githubusercontent.com/MrKoteo/AstroTech-Modpack/refs/heads/main/res/icon_32.png",
+      "at_128": "https://github.com/MrKoteo/AstroTech-Modpack/blob/514866d2b35ce323b698ed55d46592696b9809d8/res/icon_128.png"
+    },
+    "dynamicVariables": {
+      "mods": "{general.mods} Mod(s)",
+      "player_info_coordinate": "At {player.position.x}, {player.position.z}",
+      "players": "{server.players.current} / {server.players.max} Players",
+      "player_info_in": "({custom.player_info.health})",
+      "player_info_items": "Items: {item.main_hand.message}",
+      "player_info_out": "As {player.name}",
+      "player_info_health": "Health: {player.health.current}/{player.health.max}",
+      "world_info": "On {world.name}",
+      "pack": "https://curseforge.com/minecraft/modpacks/astro-tech/"
+    }
+  }
+}

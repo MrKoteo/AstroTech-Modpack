@@ -1,0 +1,13 @@
+{
+	disable_toast: true,
+	x: 3.5d,
+	y: -1.5d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "96143c5b",
+		type: "item",
+		items: [{
+			item: "avaritia:neutron_collector"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	disable_toast: true,
+	x: 14.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "668a98aa",
+		type: "item",
+		items: [{
+			item: "avaritia:infinity_pants"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

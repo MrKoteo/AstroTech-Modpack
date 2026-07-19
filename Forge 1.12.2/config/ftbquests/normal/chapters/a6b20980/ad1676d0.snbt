@@ -1,0 +1,41 @@
+{
+	title: "Mining automation",
+	icon: "buildcraftbuilders:quarry",
+	x: 17.0d,
+	y: 2.0d,
+	description: "Автоматизация добычи",
+	text: [
+		"Может быть запитан энергией RF/FE с помощью кабеля",
+		"Для конвертации из EU используйте мод @EnergyConverters",
+		"",
+		"Can be powered by RF/FE energy via cable",
+		"To convert from EU, use @EnergyConverters mod."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	tasks: [{
+		uid: "28d37746",
+		type: "item",
+		items: [{
+			item: "buildcraftbuilders:quarry"
+		}]
+	},
+	{
+		uid: "c8cc7df3",
+		type: "item",
+		items: [{
+			item: "buildcrafttransport:pipe_gold_item"
+		}],
+		count: 8L
+	},
+	{
+		uid: "8ea3de26",
+		type: "item",
+		items: [{
+			item: "buildcraftcore:marker_volume"
+		}],
+		count: 3L
+	}]
+}

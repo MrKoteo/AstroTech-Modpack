@@ -1,0 +1,27 @@
+{
+	title: "Nuclearcraft",
+	disable_toast: true,
+	x: 5.0d,
+	y: -1.0d,
+	shape: "octagon",
+	tasks: [{
+		uid: "37edb8cc",
+		type: "checkmark",
+		icon: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "nuclearcraft:guide"
+			}
+		}
+	}],
+	rewards: [{
+		uid: "f5dcd93b",
+		type: "item",
+		item: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "nuclearcraft:guide"
+			}
+		}
+	}]
+}

@@ -1,0 +1,10 @@
+{
+	x: 0.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "166f19bf",
+		type: "stat",
+		stat: "stat.fishCaught",
+		value: 50
+	}]
+}

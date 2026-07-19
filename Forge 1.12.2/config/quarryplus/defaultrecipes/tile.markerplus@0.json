@@ -1,0 +1,49 @@
+{
+  "id": "quarryplus:builtin_markerplus",
+  "type": "quarryplus:workbench_recipe",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot",
+      "data": 0,
+      "count": 10
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "data": 0,
+      "count": 12
+    },
+    {
+      "item": "minecraft:redstone",
+      "data": 0,
+      "count": 18
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 4,
+      "count": 18
+    },
+    {
+      "item": "minecraft:glowstone_dust",
+      "data": 0,
+      "count": 6
+    },
+    {
+      "item": "minecraft:ender_pearl",
+      "data": 0,
+      "count": 1
+    }
+  ],
+  "energy": 2000.0,
+  "showInJEI": true,
+  "result": {
+    "item": "quarryplus:markerplus",
+    "data": 0,
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "quarryplus:machine_enabled",
+      "value": "MarkerPlus"
+    }
+  ]
+}

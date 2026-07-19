@@ -1,0 +1,18 @@
+{
+	title: "Molecular Assembly",
+	icon: "advanced_solar_panels:machines",
+	x: 17.0d,
+	y: 0.0d,
+	description: "Молекулярная сборка",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "6b815370",
+		type: "item",
+		items: [{
+			item: "advanced_solar_panels:machines"
+		}]
+	}]
+}

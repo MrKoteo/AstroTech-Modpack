@@ -1,0 +1,15 @@
+{
+	x: 11.5d,
+	y: 7.5d,
+	tasks: [{
+		uid: "1b4fe732",
+		type: "item",
+		items: [{
+			id: "wirelesstools:luckyvajra",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

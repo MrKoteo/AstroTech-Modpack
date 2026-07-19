@@ -1,0 +1,25 @@
+{
+	title: "Laser energy transfer",
+	icon: "galacticraftplanets:beam_receiver",
+	x: 23.0d,
+	y: 4.0d,
+	description: "Лазерная передача энергии",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "9608bd1c",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:beam_receiver"
+		}]
+	},
+	{
+		uid: "ff8e9927",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:beam_reflector"
+		}]
+	}]
+}

@@ -1,0 +1,46 @@
+{
+	title: "Initial automation",
+	icon: "ic2:te 1 55",
+	x: 11.0d,
+	y: 0.0d,
+	description: "Начальная автоматизация",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "9fd5f6ef",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 55"
+		}]
+	},
+	{
+		uid: "4589ee4c",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 47"
+		}]
+	},
+	{
+		uid: "23341178",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 43"
+		}]
+	},
+	{
+		uid: "ac91c815",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 45"
+		}]
+	},
+	{
+		uid: "21f93aed",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 44"
+		}]
+	}]
+}

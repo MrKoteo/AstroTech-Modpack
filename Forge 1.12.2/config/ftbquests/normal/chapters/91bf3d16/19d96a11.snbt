@@ -1,0 +1,22 @@
+{
+	title: "Mathematics",
+	icon: "galacticraftcore:prelaunch_checklist",
+	x: 7.0d,
+	y: 2.0d,
+	description: "Математика",
+	hide_dependency_lines: true,
+	dependencies: [
+		"4c2f63f2"
+	],
+	tasks: [{
+		uid: "5711219a",
+		type: "checkmark",
+		icon: "galacticraftcore:prelaunch_checklist"
+	},
+	{
+		uid: "802fc110",
+		type: "xp",
+		value: 5L,
+		points: false
+	}]
+}

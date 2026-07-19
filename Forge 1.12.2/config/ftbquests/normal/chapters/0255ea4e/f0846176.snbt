@@ -1,0 +1,21 @@
+{
+	title: "Continuum SP | Lvl: 7, 8",
+	icon: "wirelesstools:witiles 1 7",
+	x: 18.0d,
+	y: 6.0d,
+	description: "Солнечные генераторы Континуума",
+	tasks: [{
+		uid: "abe6b6bc",
+		type: "item",
+		items: [{
+			item: "wirelesstools:witiles 1 7"
+		}]
+	},
+	{
+		uid: "8fef4eb9",
+		type: "item",
+		items: [{
+			item: "wirelesstools:witiles 1 8"
+		}]
+	}]
+}

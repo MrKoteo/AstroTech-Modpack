@@ -1,0 +1,21 @@
+{
+	disable_toast: true,
+	x: 21.5d,
+	y: 1.0d,
+	shape: "hexagon",
+	dependencies: [
+		"82901528"
+	],
+	tasks: [{
+		uid: "77484543",
+		type: "item",
+		items: [{
+			id: "mets:tactical_laser_submachine_gun",
+			tag: {
+				charge: 1.0E8d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

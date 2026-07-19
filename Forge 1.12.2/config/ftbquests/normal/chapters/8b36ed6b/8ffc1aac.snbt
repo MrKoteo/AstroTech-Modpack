@@ -1,0 +1,11 @@
+{
+	x: 22.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "5215da28",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crafting_storage_1k"
+		}]
+	}]
+}

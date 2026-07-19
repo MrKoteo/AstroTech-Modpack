@@ -1,0 +1,22 @@
+{
+	x: -2.5d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "12ca290a",
+		type: "checkmark",
+		title: "TEMP (_teh_)",
+		icon: {
+			id: "minecraft:structure_void",
+			tag: {}
+		}
+	}],
+	rewards: [{
+		uid: "1dc8875c",
+		type: "item",
+		item: "astrotweaks:triple_abg_quant"
+	}]
+}

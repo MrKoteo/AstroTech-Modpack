@@ -1,0 +1,18 @@
+{
+	x: 10.0d,
+	y: 7.5d,
+	tasks: [{
+		uid: "b4f88abd",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine_tiered 1 4"
+		}]
+	},
+	{
+		uid: "e312b631",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine_tiered 1 12"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 27.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "7af6c6de",
+		type: "item",
+		items: [{
+			id: "mets:tachyon_disruptor",
+			tag: {
+				charge: 4.0E8d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,36 @@
+{
+	title: "Electricity",
+	icon: "astrotweaks:light_mid",
+	x: 5.0d,
+	y: 0.0d,
+	description: "Электричество",
+	text: [
+		"LV"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "9e91f5c1",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}],
+		count: 16L,
+		consume_items: true
+	},
+	{
+		uid: "0d2ab1fd",
+		type: "item",
+		items: [{
+			id: "ic2:cable",
+			Damage: 4s,
+			tag: {
+				type: 4b,
+				insulation: 0b
+			}
+		}],
+		consume_items: true
+	}]
+}

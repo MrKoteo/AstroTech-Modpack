@@ -1,0 +1,205 @@
+{
+  "images": {
+    "atl": {
+      "image":"modpack:textures/gui/at_logo.png",
+      "posX": -75,
+      "posY": 15,
+      "width": 313,
+      "height": 101,
+      "alignment": "top_center"
+    },
+    "transparentBox": {
+      "image": "modpack:textures/gui/btn_bg.png",
+      "posX": 33,
+      "posY": -300,
+      "width": 120,
+      "height": 600,
+      "alignment": "left_center"
+    }
+  },
+  "buttons": {
+    "singleplayer": {
+      "text": "menu.singleplayer",
+      "posX": 44,
+      "posY": -70,
+      "width": 100,
+      "height": 20,
+      "normalTextColor": 16777215,
+      "hoverTextColor": 4286414205,
+      "texture": "modpack:textures/gui/btn2.png",
+      "alignment": "left_center",
+      "action": {
+        "type": "openGui",
+        "gui": "singleplayer"
+      }
+    },
+    "multiplayer": {
+      "text": "menu.multiplayer",
+      "posX": 44,
+      "posY": -50,
+      "width": 100,
+      "height": 20,
+      "normalTextColor": 16777215,
+      "hoverTextColor": 4286414205,
+      "texture": "modpack:textures/gui/btn2.png",
+      "alignment": "left_center",
+      "action": {
+        "type": "openGui",
+        "gui": "multiplayer"
+      }
+    },
+    "mods": {
+      "text": "fml.menu.mods",
+      "posX": 44,
+      "posY": -30,
+      "width": 100,
+      "height": 20,
+      "normalTextColor": 16777215,
+      "hoverTextColor": 4286414205,
+      "texture": "modpack:textures/gui/btn2.png",
+      "alignment": "left_center",
+      "action": {
+        "type": "openGui",
+        "gui": "mods"
+      }
+    },
+    "options": {
+      "text": "menu.options",
+      "posX": 44,
+      "posY": -10,
+      "width": 100,
+      "height": 20,
+      "normalTextColor": 16777215,
+      "hoverTextColor": 4286414205,
+      "texture": "modpack:textures/gui/btn2.png",
+      "alignment": "left_center",
+      "action": {
+        "type": "openGui",
+        "gui": "options"
+      }
+    },
+    "languages": {
+      "text": "Languages",
+      "posX": 44,
+      "posY": 10,
+      "width": 100,
+      "height": 20,
+      "normalTextColor": 16777215,
+      "hoverTextColor": 4286414205,
+      "texture": "modpack:textures/gui/btn2.png",
+      "alignment": "left_center",
+      "action": {
+        "type": "openGui",
+        "gui": "languages"
+      }
+    },
+    "bug reports": {
+      "text": "Bug Reports",
+      "posX": 44,
+      "posY": 30,
+      "width": 100,
+      "height": 20,
+      "normalTextColor": 16777215,
+      "hoverTextColor": 4286414205,
+      "texture": "modpack:textures/gui/btn2.png",
+      "alignment": "left_center",
+      "action": {
+        "type": "openLink",
+        "link": "https://discord.gg/jnpAXru2w9"
+      }
+    },
+    "discord": {
+      "text": "Discord",
+      "posX": 44,
+      "posY": 50,
+      "width": 100,
+      "height": 20,
+      "normalTextColor": 16777215,
+      "hoverTextColor": 4286414205,
+      "texture": "modpack:textures/gui/btn2.png",
+      "alignment": "left_center",
+      "action": {
+        "type": "openLink",
+        "link": "https://discord.gg/jnpAXru2w9"
+      }
+    },
+    "quit": {
+      "text": "menu.quit",
+      "posX": 44,
+      "posY": 70,
+      "width": 100,
+      "height": 20,
+      "normalTextColor": 16777215,
+      "hoverTextColor": 4286414205,
+      "texture": "modpack:textures/gui/btn2.png",
+      "alignment": "left_center",
+      "action": {
+        "type": "quit"
+      }
+    }
+  },
+  "labels": {
+    "mojang": {
+      "text": "",
+      "posX": 8,
+      "posY": -15,
+      "color": -1,
+      "alignment": "bottom_left"
+    },
+    "version_text": {
+      "text": "Modpack version:",
+      "posX": -45,
+      "posY": -22,
+      "color": 14540253,
+      "anchor": "end",
+      "alignment": "bottom_right"
+    },
+    "version_num": {
+      "text": "Alpha-14.3",
+      "posX": -40,
+      "posY": -22,
+      "color": 1175295,
+      "alignment": "bottom_right"
+    },
+    "version_web_text": {
+      "text": "Released version:",
+      "posX": -45,
+      "posY": -12,
+      "color": 11184810,
+      "anchor": "end",
+      "alignment": "bottom_right"
+    },
+    "version_web_num": {
+      "text": "web:https://raw.githubusercontent.com/MrKoteo/AstroTech-Modpack/refs/heads/main/version.txt",
+      "posX": -40,
+      "posY": -12,
+      "color": 1179460,
+      "alignment": "bottom_right"
+    }
+  },
+  "other": {
+    "background": {
+      "image": "astrotech:textures/menu/12.png",
+      "slideshow": {
+        "images": [
+		"astrotech:textures/menu/1.png",
+		"astrotech:textures/menu/2.png",
+		"astrotech:textures/menu/3.png",
+		"astrotech:textures/menu/4.png",
+		"astrotech:textures/menu/5.png",
+		"astrotech:textures/menu/6.png",
+		"astrotech:textures/menu/7.png",
+		"astrotech:textures/menu/8.png",
+		"astrotech:textures/menu/9.png",
+		"astrotech:textures/menu/10.png",
+		"astrotech:textures/menu/11.png",
+		"astrotech:textures/menu/12.png"
+
+        ],
+        "displayDuration": 600,
+        "fadeDuration": 0,
+        "shuffle": true
+      }
+    }
+  }
+}

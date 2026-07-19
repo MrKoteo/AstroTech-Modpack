@@ -1,0 +1,7 @@
+#priority 10
+
+import crafttweaker.oredict.IOreDict;
+import crafttweaker.oredict.IOreDictEntry;
+
+oreDict.QuantumTraverseHowCanYouPossiblyNotBeDoneYetWithTheStrangeNamingSystem;
+<ore:QuantumTraverseHowCanYouPossiblyNotBeDoneYetWithTheStrangeNamingSystem>.add(<nuclearcraft:supercold_ice>);

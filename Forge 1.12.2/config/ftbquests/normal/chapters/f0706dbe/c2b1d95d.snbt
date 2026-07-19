@@ -1,0 +1,10 @@
+{
+	x: -1.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "0850d8a2",
+		type: "stat",
+		stat: "stat.swimOneCm",
+		value: 100000
+	}]
+}

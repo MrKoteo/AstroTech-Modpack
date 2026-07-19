@@ -1,0 +1,13 @@
+{
+	title: "...",
+	icon: "minecraft:structure_block",
+	x: 4.0d,
+	y: -3.0d,
+	dependencies: [
+		"5631a2c1"
+	],
+	tasks: [{
+		uid: "e6200d7a",
+		type: "checkmark"
+	}]
+}

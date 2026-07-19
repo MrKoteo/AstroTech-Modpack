@@ -1,0 +1,29 @@
+{
+	title: "Storage Systems",
+	icon: "cfm:crate",
+	x: 7.0d,
+	y: -4.0d,
+	description: "Системы хранения",
+	hide_dependency_lines: true,
+	dependencies: [
+		"4c2f63f2"
+	],
+	tasks: [{
+		uid: "12ec8f49",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "cfm:crate"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a218775d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "cfm:cabinet_oak"
+		}],
+		ignore_nbt: 1b
+	}]
+}

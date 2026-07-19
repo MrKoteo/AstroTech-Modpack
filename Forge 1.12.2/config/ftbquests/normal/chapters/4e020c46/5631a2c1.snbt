@@ -1,0 +1,17 @@
+{
+	title: "World's metamorphoses",
+	icon: "astrotweaks:null_item",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "circle",
+	description: "Мировые метаморфозы",
+	dependencies: [
+		"27c4d762"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "49a0712d",
+		type: "checkmark",
+		icon: "astrotweaks:null_item"
+	}]
+}

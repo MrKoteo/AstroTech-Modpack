@@ -1,0 +1,25 @@
+{
+	title: "Mysticism",
+	icon: "quarryplus:magicmirror",
+	x: 3.0d,
+	y: 4.0d,
+	description: "Мистицизм",
+	hide_dependency_lines: true,
+	dependencies: [
+		"4c2f63f2"
+	],
+	tasks: [{
+		uid: "77b659b2",
+		type: "item",
+		items: [{
+			item: "quarryplus:magicmirror"
+		}]
+	},
+	{
+		uid: "b863a151",
+		type: "item",
+		items: [{
+			item: "waystones:return_scroll"
+		}]
+	}]
+}

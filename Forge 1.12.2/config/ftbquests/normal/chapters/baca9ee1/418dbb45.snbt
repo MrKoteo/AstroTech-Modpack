@@ -1,0 +1,24 @@
+{
+	title: "Void Polarization",
+	x: 8.5d,
+	y: 0.0d,
+	description: "Поляризация войдов",
+	hide_dependency_lines: true,
+	dependencies: [
+		"27c4d762"
+	],
+	tasks: [{
+		uid: "b73d1f2a",
+		type: "item",
+		items: [{
+			item: "astrotweaks:void_matter_core"
+		}]
+	},
+	{
+		uid: "bc939f61",
+		type: "item",
+		items: [{
+			item: "astrotweaks:void_antimatter_core"
+		}]
+	}]
+}

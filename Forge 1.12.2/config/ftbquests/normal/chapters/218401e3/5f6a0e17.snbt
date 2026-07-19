@@ -1,0 +1,17 @@
+{
+	disable_toast: true,
+	x: 5.0d,
+	y: 2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"1654899e"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "e49a9088",
+		type: "item",
+		items: [{
+			item: "mets:lens"
+		}]
+	}]
+}

@@ -1,0 +1,84 @@
+{
+	title: "Heavy Radiation Shielding",
+	icon: {
+		id: "qmd:helm_hev",
+		tag: {
+			energyStorage: {
+				energy: 0L,
+				capacity: 1000000L,
+				maxTransfer: 1000000
+			}
+		}
+	},
+	x: 3.0d,
+	y: 4.0d,
+	description: "Тяжёлая радиационная защита",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "a5708c88",
+		type: "item",
+		items: [{
+			id: "qmd:helm_hev",
+			tag: {
+				energyStorage: {
+					energy: 0L,
+					capacity: 1000000L,
+					maxTransfer: 1000000
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "859d8553",
+		type: "item",
+		items: [{
+			id: "qmd:chest_hev",
+			tag: {
+				energyStorage: {
+					energy: 0L,
+					capacity: 1000000L,
+					maxTransfer: 1000000
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f181c038",
+		type: "item",
+		items: [{
+			id: "qmd:legs_hev",
+			tag: {
+				energyStorage: {
+					energy: 0L,
+					capacity: 1000000L,
+					maxTransfer: 1000000
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ce3c9aa3",
+		type: "item",
+		items: [{
+			id: "qmd:boots_hev",
+			tag: {
+				energyStorage: {
+					energy: 0L,
+					capacity: 1000000L,
+					maxTransfer: 1000000
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

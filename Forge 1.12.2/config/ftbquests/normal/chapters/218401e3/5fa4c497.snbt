@@ -1,0 +1,16 @@
+{
+	disable_toast: true,
+	x: 10.5d,
+	y: -1.0d,
+	shape: "hexagon",
+	dependencies: [
+		"b318a62d"
+	],
+	tasks: [{
+		uid: "29d9400d",
+		type: "item",
+		items: [{
+			item: "ic2:crafting 1 4"
+		}]
+	}]
+}

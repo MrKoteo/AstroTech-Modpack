@@ -1,0 +1,61 @@
+{
+	title: "Quark technologies",
+	icon: {
+		id: "gregtech:gt_armor",
+		Damage: 40s,
+		tag: {
+			Charge: 400000000L
+		}
+	},
+	x: 28.0d,
+	y: 2.0d,
+	description: "Кварковые технологии",
+	tasks: [{
+		uid: "81571141",
+		type: "item",
+		items: [{
+			id: "gregtech:gt_armor",
+			Damage: 40s,
+			tag: {
+				Charge: 400000000L
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "655deb10",
+		type: "item",
+		items: [{
+			id: "gregtech:gt_armor",
+			Damage: 41s,
+			tag: {
+				Charge: 400000000L
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "00cf9f6c",
+		type: "item",
+		items: [{
+			id: "gregtech:gt_armor",
+			Damage: 42s,
+			tag: {
+				Charge: 400000000L
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "456e21b1",
+		type: "item",
+		items: [{
+			id: "gregtech:gt_armor",
+			Damage: 43s,
+			tag: {
+				Charge: 400000000L
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

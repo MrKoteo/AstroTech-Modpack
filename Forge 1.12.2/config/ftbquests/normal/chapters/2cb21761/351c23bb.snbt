@@ -1,0 +1,18 @@
+{
+	title: "Standard Liquid Tanks",
+	icon: "irontanks:iron_tank",
+	x: 9.0d,
+	y: -2.0d,
+	description: "Стандартные жидкостные резервуары",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "9f914ac6",
+		type: "item",
+		items: [{
+			item: "irontanks:iron_tank"
+		}]
+	}]
+}

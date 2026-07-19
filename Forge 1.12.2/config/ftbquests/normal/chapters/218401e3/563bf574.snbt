@@ -1,0 +1,16 @@
+{
+	disable_toast: true,
+	x: -2.0d,
+	y: 4.0d,
+	shape: "hexagon",
+	dependencies: [
+		"3b680066"
+	],
+	tasks: [{
+		uid: "bc097940",
+		type: "item",
+		items: [{
+			item: "irontanks:emerald_tank"
+		}]
+	}]
+}

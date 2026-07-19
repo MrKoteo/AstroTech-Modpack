@@ -1,0 +1,38 @@
+{
+	title: "Plasma Weapons",
+	icon: {
+		id: "mets:plasma_air_cannon",
+		tag: {
+			charge: 200000.0d
+		}
+	},
+	x: 19.0d,
+	y: 6.0d,
+	description: "Плазменное оружие",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "bdf6d37f",
+		type: "item",
+		items: [{
+			id: "mets:plasma_air_cannon",
+			Damage: 12344s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "08400fa6",
+		type: "item",
+		items: [{
+			id: "mets:electric_plasma_gun",
+			Damage: 12344s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

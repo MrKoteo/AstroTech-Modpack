@@ -1,0 +1,13 @@
+{
+	title: "Теплозащита 4 ранга",
+	icon: "galaxyspace:gs_basic 1 22",
+	x: 25.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "340142cb",
+		type: "item",
+		items: [{
+			item: "galaxyspace:gs_basic 1 22"
+		}]
+	}]
+}

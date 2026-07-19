@@ -1,0 +1,13 @@
+{
+	icon: "galacticraftcore:rocket_workbench",
+	disable_toast: true,
+	x: 7.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "61250024",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:rocket_workbench"
+		}]
+	}]
+}

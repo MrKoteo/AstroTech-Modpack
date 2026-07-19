@@ -1,0 +1,11 @@
+{
+	x: 7.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "0b62d32f",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:landing_pad"
+		}]
+	}]
+}

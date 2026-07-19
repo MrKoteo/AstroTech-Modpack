@@ -1,0 +1,14 @@
+{
+	x: 11.5d,
+	y: 8.0d,
+	tasks: [{
+		uid: "61dea988",
+		type: "item",
+		items: [{
+			id: "crazyae:storage_cell_16mb",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

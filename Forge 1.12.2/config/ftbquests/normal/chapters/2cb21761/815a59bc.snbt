@@ -1,0 +1,18 @@
+{
+	title: "Coal coking",
+	icon: "ic2:te 1 100",
+	x: 9.0d,
+	y: -4.0d,
+	description: "Коксование угля",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "20f55662",
+		type: "item",
+		items: [{
+			item: "ic2:coke"
+		}]
+	}]
+}

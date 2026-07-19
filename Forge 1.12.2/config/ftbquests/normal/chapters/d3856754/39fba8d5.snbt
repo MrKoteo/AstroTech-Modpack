@@ -1,0 +1,17 @@
+{
+	title: "Pyrotech",
+	icon: "pyrotech:book",
+	disable_toast: true,
+	x: 6.5d,
+	y: 2.0d,
+	shape: "octagon",
+	tasks: [{
+		uid: "52bffb3c",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "8e47771d",
+		type: "item",
+		item: "pyrotech:book"
+	}]
+}

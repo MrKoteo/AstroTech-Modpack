@@ -1,0 +1,18 @@
+{
+	title: "Automation",
+	icon: "chisel:auto_chisel",
+	x: 7.0d,
+	y: 2.0d,
+	description: "Автоматизация",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "a34e5010",
+		type: "item",
+		items: [{
+			item: "chisel:auto_chisel"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "Metacrystals of Matter",
+	icon: "eternalsingularity:eternal_singularity",
+	x: 10.5d,
+	y: 0.0d,
+	description: "Метакристаллы материи",
+	hide_dependency_lines: true,
+	dependencies: [
+		"27c4d762"
+	],
+	tasks: [{
+		uid: "1fb12cb1",
+		type: "item",
+		items: [{
+			item: "eternalsingularity:eternal_singularity"
+		}],
+		consume_items: true
+	}]
+}

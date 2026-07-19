@@ -1,0 +1,49 @@
+{
+	title: "Combat Lasers",
+	icon: {
+		id: "mets:tactical_laser_submachine_gun",
+		tag: {
+			charge: 1.0E8d
+		}
+	},
+	x: 19.0d,
+	y: 4.0d,
+	description: "Боевые лазеры",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "65c199ff",
+		type: "item",
+		items: [{
+			id: "mets:electric_submachine_gun",
+			Damage: 12344s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ba27a058",
+		type: "item",
+		items: [{
+			id: "mets:advanced_electric_submachine_gun",
+			Damage: 12344s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8231a9b6",
+		type: "item",
+		items: [{
+			id: "mets:tactical_laser_submachine_gun",
+			Damage: 12344s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,57 @@
+{
+  "MAINHAND": {
+    "astrotweaks:emerald_axe": 600,
+    "astrotweaks:emerald_sword": 800,
+    "minecraft:bow": 850,
+    "minecraft:diamond_axe": 600,
+    "minecraft:diamond_sword": 800,
+    "minecraft:enchanted_book": 800,
+    "minecraft:golden_axe": 700,
+    "minecraft:golden_sword": 900,
+    "minecraft:iron_axe": 600,
+    "minecraft:iron_sword": 850,
+    "minecraft:snowball": 900,
+    "minecraft:stone_axe": 600,
+    "minecraft:stone_sword": 880,
+    "minecraft:wooden_axe": 700,
+    "minecraft:wooden_sword": 900
+  },
+  "OFFHAND": {
+    "minecraft:ender_pearl": 600,
+    "minecraft:flint_and_steel": 700,
+    "minecraft:lava_bucket": 400,
+    "minecraft:shield": 850
+  },
+  "FEET": {
+    "astrotweaks:emerald_boots": 650,
+    "minecraft:chainmail_boots": 850,
+    "minecraft:diamond_boots": 650,
+    "minecraft:golden_boots": 900,
+    "minecraft:iron_boots": 800,
+    "minecraft:leather_boots": 950
+  },
+  "LEGS": {
+    "astrotweaks:emerald_leggings": 650,
+    "minecraft:chainmail_leggings": 850,
+    "minecraft:diamond_leggings": 650,
+    "minecraft:golden_leggings": 900,
+    "minecraft:iron_leggings": 800,
+    "minecraft:leather_leggings": 950
+  },
+  "CHEST": {
+    "astrotweaks:emerald_chestplate": 650,
+    "minecraft:chainmail_chestplate": 850,
+    "minecraft:diamond_chestplate": 650,
+    "minecraft:golden_chestplate": 900,
+    "minecraft:iron_chestplate": 800,
+    "minecraft:leather_chestplate": 950
+  },
+  "HEAD": {
+    "astrotweaks:emerald_helmet": 650,
+    "minecraft:chainmail_helmet": 850,
+    "minecraft:diamond_helmet": 650,
+    "minecraft:golden_helmet": 900,
+    "minecraft:iron_helmet": 800,
+    "minecraft:leather_helmet": 1000
+  }
+}

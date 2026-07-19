@@ -1,0 +1,21 @@
+{
+	title: "Sealed Channels",
+	icon: "galacticraftcore:enclosed 1 3",
+	x: 2.0d,
+	y: -4.0d,
+	description: "Герметичные каналы",
+	tasks: [{
+		uid: "8bbe91d9",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:enclosed 1 1"
+		}]
+	},
+	{
+		uid: "a117afd9",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:enclosed 1 5"
+		}]
+	}]
+}

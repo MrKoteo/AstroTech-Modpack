@@ -1,0 +1,13 @@
+{
+	disable_toast: true,
+	x: 5.5d,
+	y: 5.0d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "49d5c107",
+		type: "item",
+		items: [{
+			item: "astrotweaks:strange_clot"
+		}]
+	}]
+}

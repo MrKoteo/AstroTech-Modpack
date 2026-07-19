@@ -1,0 +1,50 @@
+{
+	title: "Alchemy",
+	icon: {
+		id: "minecraft:potion",
+		tag: {
+			Potion: "minecraft:night_vision"
+		}
+	},
+	x: 5.0d,
+	y: -2.0d,
+	description: "Алхимия",
+	hide_dependency_lines: true,
+	dependencies: [
+		"4c2f63f2"
+	],
+	tasks: [{
+		uid: "c8d0cbca",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:mundane"
+			}
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9d612e2c",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:strong_healing"
+			}
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c6c206e5",
+		type: "item",
+		item: {
+			id: "quark:witch_hat",
+			tag: {}
+		}
+	}]
+}

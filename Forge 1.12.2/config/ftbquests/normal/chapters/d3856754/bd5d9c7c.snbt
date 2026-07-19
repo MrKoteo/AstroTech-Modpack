@@ -1,0 +1,25 @@
+{
+	title: "Guidelines",
+	icon: "astrotweaks:science",
+	disable_toast: true,
+	x: 0.0d,
+	y: 0.5d,
+	shape: "circle",
+	description: "Руководства",
+	size: 2.0d,
+	tasks: [{
+		uid: "2c23b482",
+		type: "checkmark",
+		disable_toast: true
+	}],
+	rewards: [{
+		uid: "2877e270",
+		type: "item",
+		item: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "patchouli:astrotech"
+			}
+		}
+	}]
+}

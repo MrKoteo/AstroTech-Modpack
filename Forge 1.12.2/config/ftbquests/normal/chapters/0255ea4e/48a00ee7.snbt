@@ -1,0 +1,23 @@
+{
+	title: "What awaits us next?",
+	icon: "astrotweaks:unknown_block",
+	x: 34.0d,
+	y: 0.0d,
+	shape: "circle",
+	description: "Что нас ждёт дальше?",
+	dependencies: [
+		"1d2dbc7d",
+		"78eb80d9",
+		"7ee709f4",
+		"1f957b23",
+		"5daae0b3",
+		"c61a4de4",
+		"3f13d30c",
+		"1c7e87a1"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "45732f3b",
+		type: "checkmark"
+	}]
+}

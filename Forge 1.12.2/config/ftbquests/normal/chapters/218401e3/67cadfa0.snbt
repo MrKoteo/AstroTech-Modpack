@@ -1,0 +1,16 @@
+{
+	disable_toast: true,
+	x: 15.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"369e48db"
+	],
+	tasks: [{
+		uid: "c253a099",
+		type: "item",
+		items: [{
+			item: "mets:superconducting_cable"
+		}]
+	}]
+}

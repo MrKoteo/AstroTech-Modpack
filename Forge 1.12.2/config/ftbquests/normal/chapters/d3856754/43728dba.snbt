@@ -1,0 +1,16 @@
+{
+	disable_toast: true,
+	x: 8.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "a68eef79",
+		type: "checkmark",
+		title: "Extended Crafting",
+		icon: "extendedcrafting:guide"
+	}],
+	rewards: [{
+		uid: "23c3c2c0",
+		type: "item",
+		item: "extendedcrafting:guide"
+	}]
+}

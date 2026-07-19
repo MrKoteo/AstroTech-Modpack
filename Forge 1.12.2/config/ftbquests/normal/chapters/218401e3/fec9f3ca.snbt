@@ -1,0 +1,16 @@
+{
+	disable_toast: true,
+	x: 7.0d,
+	y: -2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"6f7aadc1"
+	],
+	tasks: [{
+		uid: "d832dbdf",
+		type: "item",
+		items: [{
+			item: "mets:niobium_titanium_dust"
+		}]
+	}]
+}

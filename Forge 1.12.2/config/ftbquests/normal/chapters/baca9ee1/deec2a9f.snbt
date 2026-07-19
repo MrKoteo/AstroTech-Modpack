@@ -1,0 +1,18 @@
+{
+	title: "Stable Black Holes",
+	icon: "matteroverdrive:gravitational_anomaly",
+	x: 10.5d,
+	y: -2.0d,
+	description: "Стабильные чёрные дыры",
+	hide_dependency_lines: true,
+	dependencies: [
+		"27c4d762"
+	],
+	tasks: [{
+		uid: "d2a1efcb",
+		type: "item",
+		items: [{
+			item: "matteroverdrive:gravitational_anomaly"
+		}]
+	}]
+}

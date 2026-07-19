@@ -1,0 +1,16 @@
+{
+	title: "Need help with the modpack",
+	icon: "packagedauto:proxy_marker",
+	x: 0.0d,
+	y: 2.5d,
+	description: "Требуется помощь с модпаком",
+	tasks: [{
+		uid: "7f1b636a",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "979a7374",
+		type: "xp",
+		xp: 33
+	}]
+}

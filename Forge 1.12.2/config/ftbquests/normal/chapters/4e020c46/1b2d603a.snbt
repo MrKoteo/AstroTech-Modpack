@@ -1,0 +1,16 @@
+{
+	x: 2.5d,
+	y: -3.0d,
+	dependencies: [
+		"5631a2c1"
+	],
+	tasks: [{
+		uid: "9499909a",
+		type: "item",
+		items: [{
+			item: "minecraft:potion"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

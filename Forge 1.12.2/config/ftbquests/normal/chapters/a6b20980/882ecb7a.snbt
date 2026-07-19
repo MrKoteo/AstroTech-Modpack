@@ -1,0 +1,35 @@
+{
+	title: "LV Batteries",
+	icon: {
+		id: "ic2:te",
+		Damage: 72s,
+		tag: {}
+	},
+	x: 5.0d,
+	y: 0.0d,
+	description: "Аккумуляторы LV",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "0d887939",
+		type: "item",
+		items: [{
+			id: "ic2:te",
+			Damage: 72s,
+			tag: {}
+		}]
+	},
+	{
+		uid: "1fd7e937",
+		type: "item",
+		items: [{
+			id: "ic2:re_battery",
+			tag: {
+				charge: 10000.0d
+			}
+		}]
+	}]
+}

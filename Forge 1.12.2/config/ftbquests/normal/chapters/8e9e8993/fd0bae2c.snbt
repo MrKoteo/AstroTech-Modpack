@@ -1,0 +1,36 @@
+{
+	title: "Quantum fields",
+	icon: "advanced_solar_panels:crafting 1 13",
+	x: 21.0d,
+	y: 0.0d,
+	description: "Квантовые поля",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "57a03479",
+		type: "item",
+		items: [{
+			item: "advanced_solar_panels:crafting 1 13"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "116f2325",
+		type: "item",
+		items: [{
+			item: "mets:field_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "e2b7088e",
+		type: "item",
+		item: "astrotweaks:q_proton"
+	},
+	{
+		uid: "3a56835f",
+		type: "item",
+		item: "astrotweaks:q_neutron"
+	}]
+}

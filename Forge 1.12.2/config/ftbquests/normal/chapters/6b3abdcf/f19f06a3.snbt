@@ -1,0 +1,11 @@
+{
+	x: 10.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "8394cc1c",
+		type: "item",
+		items: [{
+			item: "opencomputers:upgrade 1 31"
+		}]
+	}]
+}

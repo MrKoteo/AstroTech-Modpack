@@ -1,0 +1,48 @@
+{
+	icon: {
+		id: "ceramics:clay_helmet",
+		tag: {}
+	},
+	x: 0.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "24c2bb13",
+		type: "item",
+		items: [{
+			id: "ceramics:clay_helmet",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5f4027f1",
+		type: "item",
+		items: [{
+			id: "ceramics:clay_chestplate",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "62b68952",
+		type: "item",
+		items: [{
+			id: "ceramics:clay_leggings",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9849b3f7",
+		type: "item",
+		items: [{
+			id: "ceramics:clay_boots",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

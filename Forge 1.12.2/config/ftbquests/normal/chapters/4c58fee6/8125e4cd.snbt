@@ -1,0 +1,62 @@
+{
+	title: "Processing tools",
+	icon: "pyrotech:flint_butchers_knife",
+	x: 7.0d,
+	y: -2.0d,
+	description: "Инструменты обработки",
+	or_tasks: true,
+	tasks: [{
+		uid: "37a2b0af",
+		type: "item",
+		items: [{
+			item: "pyrotech:bone_butchers_knife"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "93f0845e",
+		type: "item",
+		items: [{
+			item: "pyrotech:flint_butchers_knife"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d7f2f341",
+		type: "item",
+		items: [{
+			item: "pyrotech:bone_hammer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b40e1e38",
+		type: "item",
+		items: [{
+			item: "pyrotech:flint_hammer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b5b1417f",
+		type: "item",
+		items: [{
+			item: "pyrotech:bone_shears"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4e8ee9e2",
+		type: "item",
+		items: [{
+			item: "pyrotech:flint_shears"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

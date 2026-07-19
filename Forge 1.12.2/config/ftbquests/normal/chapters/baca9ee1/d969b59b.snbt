@@ -1,0 +1,55 @@
+{
+	x: -2.5d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"27c4d762"
+	],
+	tasks: [{
+		uid: "1f5ce12a",
+		type: "checkmark",
+		title: "TEMP (_teh_)",
+		icon: {
+			id: "minecraft:structure_void",
+			tag: {}
+		}
+	}],
+	rewards: [{
+		uid: "4bef2feb",
+		type: "item",
+		item: "astrotweaks:u_destroyer_item",
+		count: 8
+	},
+	{
+		uid: "628b9609",
+		type: "item",
+		item: "astrotweaks:u_destroyer_block",
+		count: 4
+	},
+	{
+		uid: "e679d747",
+		type: "item",
+		item: "astrotweaks:ark"
+	},
+	{
+		uid: "540e0500",
+		type: "item",
+		item: "astrotweaks:qm_block"
+	},
+	{
+		uid: "2c412f90",
+		type: "item",
+		item: "astrotweaks:ark_resonator"
+	},
+	{
+		uid: "d0b711f6",
+		type: "item",
+		item: "astrotweaks:qtp_supressor"
+	},
+	{
+		uid: "72f80fac",
+		type: "item",
+		item: "astrotweaks:u_killer_block",
+		count: 4
+	}]
+}

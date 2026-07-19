@@ -1,0 +1,24 @@
+{
+	title: "Entropy Capacitors",
+	x: 6.5d,
+	y: -2.0d,
+	description: "Энтропийные конденсаторы",
+	hide_dependency_lines: true,
+	dependencies: [
+		"27c4d762"
+	],
+	tasks: [{
+		uid: "47f49bf4",
+		type: "item",
+		items: [{
+			id: "free_chaos:chaotic_capacitor",
+			tag: {
+				DEUpgrades: {
+					rfCap: 4b
+				},
+				Energy: 1536000000
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

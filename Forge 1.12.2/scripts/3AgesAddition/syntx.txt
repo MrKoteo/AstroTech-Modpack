@@ -1,0 +1,10 @@
+#norun // temporary
+
+
+
+// mods.recipestages.Recipes.setRecipeStageByMod("one", "minecraft");
+// mods.recipestages.Recipes.setRecipeStage("one", <minecraft:stone_hoe>);
+//
+// mods.ItemStages.setUnfamiliarName("name", <minecraft:wool:*>);
+// mods.ItemStages.stageRecipeCategory("stage_name", "minecraft.anvil");
+//

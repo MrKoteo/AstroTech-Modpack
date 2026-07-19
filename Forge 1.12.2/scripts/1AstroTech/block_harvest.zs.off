@@ -1,0 +1,96 @@
+#norun
+/*
+import crafttweaker.event.BlockBreakEvent;
+import crafttweaker.block.IBlock;
+import crafttweaker.item.IItemStack;
+import crafttweaker.player.IPlayer;
+
+// helper-функция: возвращает true если pattern совпадает с blockId:blockMeta
+function matchesPattern(blockId as string, blockMeta as int, pattern as string) as bool {
+    // разбиваем pattern по ':'
+    var parts as string[] = pattern.split(":");
+    if (parts.length == 0) {
+        return false;
+    }
+    // собираем id из первых двух частей (если pattern вида mod:base:id? учтите только mod:id)
+    var patId as string = parts[0];
+    if (parts.length >= 2) {
+        patId = parts[0] + ":" + parts[1];
+    }
+    if (patId != blockId) {
+        return false;
+    }
+    // если нет третьей части — значит мета не указана => любое meta подходит
+    if (parts.length < 3) {
+        return true;
+    }
+    var patMetaStr as string = parts[2];
+    if (patMetaStr == "*") {
+        return true;
+    }
+    // пытаемся сравнить числовую мету
+    var patMeta as int = patMetaStr as int;
+    return (blockMeta == patMeta);
+}
+
+//####################################################################################################
+
+val blacklist as string[] = [
+    "minecraft:gravel",
+	"minecraft:log:*",
+	"minecraft:log2:*",
+	"minecraft:stone:*",
+	"minecraft:log:*",
+	"minecraft:sandstone:*",
+	"minecraft:red_sandstone:*",
+	"minecraft:netherrack",
+	"minecraft:stonebrick:*",
+	"minecraft:quartz_block:*",
+	"minecraft:stained_hardened_clay:*",
+	"minecraft:concrete:*",
+	"minecraft:hardened_clay",
+	"minecraft:brick_block",
+	"minecraft:iron_bars",
+	"minecraft:cobblestone_wall:*",
+	"ic2:rubber_wood",
+	"gregtech:rubber_log",
+	"appletreesrev:apple_log",
+
+	"chisel:marble2:*",
+	"gregtech:stone_smooth:*",
+	"chisel:limestone2:*",
+	"chisel:basalt2:*",
+	"pyrotech:limestone",
+
+	"minecraft:grass",
+	"minecraft:dirt:*"
+];
+
+events.onBlockBreak(function(event as BlockBreakEvent) {
+	var blockMeta as int = event.blockState.meta;
+    var block as IBlock = event.blockState.block;
+    var blockId as string = block.definition.id;
+
+    // поиск в массиве
+    var isBlacklisted as bool = false;
+    for p in blacklist {
+        if (matchesPattern(block.definition.id, blockMeta, p)) {
+			isBlacklisted = true;
+			break;
+		}
+    }
+    if (!isBlacklisted) {
+        return; // не наша цель — разрешаем дальше
+    }
+
+    val player as IPlayer = event.player;
+    val held as IItemStack = player.currentItem;
+
+    // Если рука не пустая - разрешаем ломку
+    if (isNull(held)) {
+        event.cancel();
+    }
+
+});
+
+*/

@@ -1,0 +1,43 @@
+{
+	title: "Agriculture",
+	icon: "minecraft:wheat",
+	x: 7.0d,
+	y: 2.0d,
+	description: "Земледелие",
+	tasks: [{
+		uid: "51304530",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "minecraft:wheat"
+		}]
+	},
+	{
+		uid: "83cc5045",
+		type: "item",
+		title: "Саженец",
+		disable_toast: true,
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any treeSapling"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "treeSapling"
+				}
+			}
+		}]
+	},
+	{
+		uid: "bd94e8a7",
+		type: "item",
+		items: [{
+			item: "pyrotech:bucket_wood"
+		}],
+		ignore_nbt: 1b
+	}]
+}

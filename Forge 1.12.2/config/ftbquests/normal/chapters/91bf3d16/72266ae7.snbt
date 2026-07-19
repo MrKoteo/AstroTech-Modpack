@@ -1,0 +1,20 @@
+{
+	title: "Cartography",
+	icon: "minecraft:map",
+	x: 5.0d,
+	y: 4.0d,
+	shape: "rsquare",
+	description: "Картография",
+	hide_dependency_lines: true,
+	dependencies: [
+		"4c2f63f2"
+	],
+	tasks: [{
+		uid: "95b86ecb",
+		type: "item",
+		items: [{
+			item: "minecraft:map"
+		}],
+		consume_items: true
+	}]
+}

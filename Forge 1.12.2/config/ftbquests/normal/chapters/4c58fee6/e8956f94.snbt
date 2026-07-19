@@ -1,0 +1,25 @@
+{
+	title: "Animal Husbandry",
+	icon: {
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "minecraft:cow"
+			}
+		}
+	},
+	x: 9.0d,
+	y: 2.0d,
+	description: "Животноводство",
+	text: [
+		"Grow up a couple of animals",
+		"",
+		"Вырасти пару животных"
+	],
+	tasks: [{
+		uid: "08d4eb2c",
+		type: "stat",
+		stat: "stat.animalsBred",
+		value: 2
+	}]
+}

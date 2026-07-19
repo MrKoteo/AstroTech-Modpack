@@ -1,0 +1,17 @@
+{
+	title: "Spice of Life",
+	icon: "solcarrot:food_book",
+	disable_toast: true,
+	x: 2.0d,
+	y: 0.5d,
+	shape: "octagon",
+	tasks: [{
+		uid: "d7cb9250",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "a3e7cbb4",
+		type: "item",
+		item: "solcarrot:food_book"
+	}]
+}

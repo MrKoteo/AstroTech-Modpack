@@ -1,0 +1,11 @@
+{
+	x: 9.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "42f2e459",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:chemical_reactor"
+		}]
+	}]
+}

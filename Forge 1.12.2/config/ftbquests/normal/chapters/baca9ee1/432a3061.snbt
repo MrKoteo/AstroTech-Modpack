@@ -1,0 +1,19 @@
+{
+	title: "Mini black holes",
+	icon: "avaritia:endest_pearl",
+	x: 8.5d,
+	y: -2.0d,
+	description: "Мини чёрные дыры",
+	hide_dependency_lines: true,
+	dependencies: [
+		"27c4d762"
+	],
+	tasks: [{
+		uid: "87376cc7",
+		type: "item",
+		items: [{
+			item: "avaritia:endest_pearl"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "Iron Processing",
+	icon: "minecraft:iron_ingot",
+	x: 3.0d,
+	y: 0.0d,
+	description: "Обработка железа",
+	dependencies: [
+		"4c2f63f2"
+	],
+	tasks: [{
+		uid: "a9a0ad8f",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}],
+		count: 8L,
+		consume_items: true
+	}]
+}

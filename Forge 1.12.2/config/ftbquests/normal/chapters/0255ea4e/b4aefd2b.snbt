@@ -1,0 +1,13 @@
+{
+	title: "Lunar Program",
+	icon: "galacticraftcore:basic_block_moon 1 5",
+	x: 8.0d,
+	y: 0.0d,
+	description: "Лунная программа",
+	tasks: [{
+		uid: "2663ca1c",
+		type: "dimension",
+		icon: "galacticraftcore:basic_block_moon 1 5",
+		dim: -28
+	}]
+}

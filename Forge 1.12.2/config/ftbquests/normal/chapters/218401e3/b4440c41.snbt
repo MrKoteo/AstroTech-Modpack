@@ -1,0 +1,16 @@
+{
+	disable_toast: true,
+	x: -0.5d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"9cc99e53"
+	],
+	tasks: [{
+		uid: "ee0eb88a",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 5"
+		}]
+	}]
+}

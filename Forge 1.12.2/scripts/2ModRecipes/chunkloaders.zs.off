@@ -1,0 +1,11 @@
+#modloaded chunkloaders
+
+
+recipes.remove(<chunkloaders:ultimate_chunk_loader>);
+recipes.remove(<chunkloaders:advanced_chunk_loader>);
+recipes.remove(<chunkloaders:basic_chunk_loader>);
+recipes.remove(<chunkloaders:single_chunk_loader>);
+recipes.addShaped(<chunkloaders:ultimate_chunk_loader>, [[<ore:gemDiamond>, <minecraft:ender_eye>, <ore:gemDiamond>],[<minecraft:ender_pearl>, <chunkloaders:advanced_chunk_loader>, <minecraft:ender_pearl>], [<ore:gemDiamond>, <minecraft:ender_eye>, <ore:gemDiamond>]]);
+recipes.addShaped(<chunkloaders:advanced_chunk_loader>, [[<ore:blockGold>, <minecraft:ender_eye>, <ore:blockGold>],[<minecraft:ender_pearl>, <chunkloaders:basic_chunk_loader>, <minecraft:ender_pearl>], [<ore:blockGold>, <minecraft:ender_eye>, <ore:blockGold>]]);
+recipes.addShaped(<chunkloaders:basic_chunk_loader>, [[<ore:obsidian>, <minecraft:ender_eye>, <ore:obsidian>],[<minecraft:ender_pearl>, <chunkloaders:single_chunk_loader>, <minecraft:ender_pearl>], [<ore:obsidian>, <minecraft:ender_eye>, <ore:obsidian>]]);
+recipes.addShaped(<chunkloaders:single_chunk_loader>, [[<ore:obsidian>, <minecraft:ender_eye>, <ore:obsidian>],[<minecraft:ender_pearl>, <ore:gemDiamond>, <minecraft:ender_pearl>], [<ore:obsidian>, <minecraft:ender_eye>, <ore:obsidian>]]);

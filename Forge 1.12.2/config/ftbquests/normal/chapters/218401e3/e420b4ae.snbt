@@ -1,0 +1,13 @@
+{
+	disable_toast: true,
+	x: 8.5d,
+	y: -4.5d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "90a877db",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:controller"
+		}]
+	}]
+}

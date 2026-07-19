@@ -1,0 +1,19 @@
+{
+	title: "Neutronic Materials",
+	icon: "avaritia:resource 1 4",
+	x: 2.5d,
+	y: 0.0d,
+	description: "Нейтронные материалы",
+	dependencies: [
+		"44d32dc3",
+		"6a748b65",
+		"1fb183aa",
+		"64bfe5e8"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "2c4b972c",
+		type: "checkmark",
+		icon: "avaritia:resource 1 4"
+	}]
+}

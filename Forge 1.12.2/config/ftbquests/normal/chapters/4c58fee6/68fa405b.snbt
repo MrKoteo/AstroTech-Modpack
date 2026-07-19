@@ -1,0 +1,46 @@
+{
+	title: "Wood Processing",
+	icon: "minecraft:planks",
+	x: 7.0d,
+	y: 0.0d,
+	description: "Обработка дерева",
+	tasks: [{
+		uid: "d8be5307",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any plankWood"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "plankWood"
+				}
+			}
+		}],
+		consume_items: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3c7b3a51",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any logWood"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "logWood"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

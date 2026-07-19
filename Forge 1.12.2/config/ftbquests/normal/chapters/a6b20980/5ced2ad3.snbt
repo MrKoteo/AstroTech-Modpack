@@ -1,0 +1,30 @@
+{
+	title: "Metering devices",
+	icon: "energymeters:meter 1 2",
+	x: 3.0d,
+	y: -2.0d,
+	description: "Приборы учёта",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	tasks: [{
+		uid: "358892b8",
+		type: "item",
+		title: "...",
+		items: [{
+			item: "energymeters:meter 1 2"
+		},
+		{
+			item: "energymeters:meter"
+		},
+		{
+			item: "energymeters:meter 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "089875ba",
+		type: "xp",
+		xp: 20
+	}]
+}

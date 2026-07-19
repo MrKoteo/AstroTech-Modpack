@@ -1,0 +1,24 @@
+{
+	title: "thoughts...",
+	x: 2.5d,
+	y: 0.0d,
+	description: "мысли...",
+	dependencies: [
+		"5631a2c1"
+	],
+	tasks: [{
+		uid: "5159c522",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "eadf29af",
+		type: "xp",
+		xp: 16777216
+	},
+	{
+		uid: "87ef95bd",
+		type: "item",
+		item: "minecraft:potion",
+		count: 64
+	}]
+}

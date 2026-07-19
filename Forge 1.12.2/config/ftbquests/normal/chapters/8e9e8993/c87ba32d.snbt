@@ -1,0 +1,18 @@
+{
+	title: "Particle accelerators",
+	icon: "qmd:ring_accelerator_controller",
+	x: 11.0d,
+	y: 4.0d,
+	description: "Ускорители частиц",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "a39e4bd0",
+		type: "item",
+		items: [{
+			item: "qmd:accelerator_casing"
+		}]
+	}]
+}

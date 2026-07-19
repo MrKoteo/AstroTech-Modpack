@@ -1,0 +1,31 @@
+item.contenttweaker.salt.name=Salt
+fluid.salty_solution=Salty Solution
+fluid.cl2=Chlorine
+
+fluid.clf3=Chlorine Trifluoride
+
+fluid.duf6=Depleted Uranium Hexafluoride
+fluid.nuf6=Natural Uranium Hexafluoride
+fluid.leuf6=Low Enriched Uranium Hexafluoride
+fluid.meuf6=Medium Enriched Uranium Hexafluoride
+fluid.heuf6=Highly Enriched Uranium Hexafluoride
+fluid.vheuf6=Very Highly Enriched Uranium Hexafluoride
+fluid.xeuf6=Extremely Enriched Uranium Hexafluoride
+fluid.seuf6=Super Enriched Uranium Hexafluoride
+fluid.ueuf6=Ultra-Enriched Uranium Hexafluoride
+fluid.wguf6=Weapons Grade Uranium Hexafluoride
+fluid.ipuf6=Isotopically Pure Uranium Hexafluoride
+
+fluid.le_water=Low Enriched Water
+fluid.me_water=Medium Enriched Water
+fluid.he_water=Highly Enriched Water
+fluid.vhe_water=Very Highly Enriched Water
+fluid.xe_water=Extremely Enriched Water
+fluid.se_water=Super Enriched Water
+fluid.ue_water=Ultra Enriched Water
+fluid.te_water=Tremendously Enriched Water
+
+fluid.hydrogen_sulfide=Hydrogen Sulfide
+fluid.le_hydrogen_sulfide=Low Enriched Hydrogen Sulfide
+fluid.me_hydrogen_sulfide=Medium Enriched Hydrogen Sulfide
+fluid.he_hydrogen_sulfide=Highly Enriched Hydrogen Sulfide

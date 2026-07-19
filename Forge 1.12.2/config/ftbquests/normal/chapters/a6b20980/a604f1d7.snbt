@@ -1,0 +1,26 @@
+{
+	title: "Neutron reflectors",
+	icon: {
+		id: "ic2:thick_neutron_reflector",
+		tag: {
+			advDmg: 0
+		}
+	},
+	x: 13.0d,
+	y: 2.0d,
+	description: "Отражатели нейтронов",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	tasks: [{
+		uid: "a6e19ac5",
+		type: "item",
+		items: [{
+			id: "ic2:thick_neutron_reflector",
+			tag: {
+				advDmg: 0
+			}
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 5.0d,
+	y: 7.5d,
+	shape: "square",
+	dependencies: [
+		"f37094d3"
+	],
+	tasks: [{
+		uid: "488fe139",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 27"
+		}]
+	}]
+}

@@ -1,0 +1,141 @@
+{
+	title: "Blacksmithing",
+	icon: "minecraft:iron_sword",
+	x: 5.0d,
+	y: 0.0d,
+	description: "Кузнечное дело",
+	dependencies: [
+		"0f2959e0"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "5079d982",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fa03f8a4",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "967b7282",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "dbb3372e",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ae6a7304",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fd436142",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:tool.excavator_iron"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "500a3155",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:tool.hammer_iron"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "09837e33",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:tool.sickle_iron"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "691d9a06",
+		type: "item",
+		items: [{
+			id: "minecraft:iron_helmet",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "859eb502",
+		type: "item",
+		items: [{
+			id: "minecraft:iron_chestplate",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fa069805",
+		type: "item",
+		items: [{
+			id: "minecraft:iron_leggings",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cbdf93db",
+		type: "item",
+		items: [{
+			id: "minecraft:iron_boots",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0c287c4a",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:tool.shield_iron"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6fef0c64",
+		type: "item",
+		items: [{
+			item: "betterbuilderswands:wandiron"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

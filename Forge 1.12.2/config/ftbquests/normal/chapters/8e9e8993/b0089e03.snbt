@@ -1,0 +1,18 @@
+{
+	title: "Quantum Superposition",
+	icon: "astrotweaks:triple_abg_quant",
+	x: 19.0d,
+	y: 0.0d,
+	description: "Квантовая суперпозиция",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "3359a186",
+		type: "item",
+		items: [{
+			item: "astrotweaks:triple_abg_quant"
+		}]
+	}]
+}

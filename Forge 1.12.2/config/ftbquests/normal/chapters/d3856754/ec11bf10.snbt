@@ -1,0 +1,17 @@
+{
+	title: "Furniture",
+	icon: "cfm:item_recipe_book",
+	disable_toast: true,
+	x: 2.0d,
+	y: -1.0d,
+	shape: "octagon",
+	tasks: [{
+		uid: "21fbeb38",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "fc8bc6c3",
+		type: "item",
+		item: "cfm:item_recipe_book"
+	}]
+}

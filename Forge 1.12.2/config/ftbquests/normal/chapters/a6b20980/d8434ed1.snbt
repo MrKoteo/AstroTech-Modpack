@@ -1,0 +1,19 @@
+{
+	title: "Nuclear Physics",
+	icon: "contenttweaker:radio_waste",
+	x: 9.0d,
+	y: 2.0d,
+	description: "Ядерная физика",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	tasks: [{
+		uid: "cd6542c0",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:ore 1 4"
+		}],
+		count: 8L
+	}]
+}

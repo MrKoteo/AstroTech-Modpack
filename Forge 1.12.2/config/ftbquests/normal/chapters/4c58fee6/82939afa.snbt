@@ -1,0 +1,32 @@
+{
+	title: "May our memory not fade in eternity...",
+	icon: "astrotweaks:survivalist_badge",
+	disable_toast: true,
+	x: 0.0d,
+	y: 0.0d,
+	shape: "circle",
+	description: "Да не померкнет наша память в вечности...",
+	size: 2.0d,
+	tasks: [{
+		uid: "8e503269",
+		type: "dimension",
+		icon: "minecraft:double_plant",
+		disable_toast: true,
+		dim: 0
+	}],
+	rewards: [{
+		uid: "49e1a256",
+		type: "command",
+		icon: "astrotweaks:survivalist_badge",
+		auto: "enabled",
+		command: "/astrotech info",
+		player_command: true
+	},
+	{
+		uid: "aeec8bd9",
+		type: "gamestage",
+		team_reward: true,
+		auto: "no_toast",
+		stage: "ancient"
+	}]
+}

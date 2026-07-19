@@ -1,0 +1,28 @@
+item.contenttweaker.blaster.name=Малый Компрессионный Заряд
+item.contenttweaker.radio_waste.name=Стандартная Переработанная Гранула Ядерных Отходов
+
+fluid.liquid_air=Обеднённый Воздух
+fluid.nether_air=Адский Воздух
+fluid.end_air=Эндер Воздух
+fluid.well_pressed_water=Высоконапорная Вода
+fluid.super_critical_steam=Сверхкритический Пар
+fluid.crap_steam=Бросовый Пар
+fluid.hot_nitrogen=Горячий Азот
+fluid.hot_carbon_dioxide=Горячий Углекислый Газ
+fluid.hot_helium=Горячий Гелий
+fluid.hot_argon=Горячий Аргон
+fluid.krypton=Криптон
+fluid.hot_krypton=Горячий Криптон
+fluid.xenon=Ксенон
+fluid.hot_xenon=Горячий Ксенон
+fluid.hot_neon=Горячий Неон
+fluid.compr_carbon_dioxide=Сжатый Углекислый Газ
+fluid.supercritical_carbon_dioxide=Сверхкритический Углекислый Газ
+fluid.critical_exhaust_carbon_dioxide=Критический Углекислый Газ Отработавших Газов
+
+fluid.cold_nrg=Тёплая Жидкая Энергия
+fluid.hot_nrg=Горячая Жидкая Энергия
+fluid.hot_deuterium=Горячая Плазма Дейтерия
+fluid.hot_tritium=Горячая Плазма Трития
+
+itemGroup.moar_reactor_functionality=Moar Reactor Functionality

@@ -1,0 +1,18 @@
+{
+	title: "Advanced Neutron Reflectors",
+	icon: "ic2:iridium_reflector",
+	x: 11.0d,
+	y: 2.0d,
+	description: "Продвинутые отражатели нейтронов",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "b5f338a3",
+		type: "item",
+		items: [{
+			item: "ic2:iridium_reflector"
+		}]
+	}]
+}

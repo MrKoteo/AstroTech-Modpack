@@ -1,0 +1,65 @@
+{
+	title: "Quantum technologies",
+	icon: {
+		id: "ic2:quantum_helmet",
+		tag: {
+			charge: 1.0E7d
+		}
+	},
+	x: 27.0d,
+	y: 0.0d,
+	description: "Квантовые технологии",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "a4df3c78",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "ic2:quantum_helmet",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "60718576",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "ic2:quantum_chestplate",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9133ca93",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "ic2:quantum_leggings",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3e6171cf",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "ic2:quantum_boots",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

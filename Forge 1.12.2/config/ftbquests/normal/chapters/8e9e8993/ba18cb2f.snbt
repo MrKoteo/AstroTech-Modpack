@@ -1,0 +1,18 @@
+{
+	title: "Drones",
+	icon: "opencomputers:material 1 25",
+	x: 13.0d,
+	y: 2.0d,
+	description: "Дроны",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "4a964988",
+		type: "item",
+		items: [{
+			item: "opencomputers:material 1 23"
+		}]
+	}]
+}

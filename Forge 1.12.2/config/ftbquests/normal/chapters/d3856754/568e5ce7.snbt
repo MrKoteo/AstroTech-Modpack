@@ -1,0 +1,27 @@
+{
+	title: "QMD",
+	icon: {
+		id: "patchouli:guide_book",
+		tag: {
+			"patchouli:book": "qmd:guide"
+		}
+	},
+	disable_toast: true,
+	x: 6.5d,
+	y: -1.0d,
+	shape: "octagon",
+	tasks: [{
+		uid: "3b8aa974",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "3a6e3f72",
+		type: "item",
+		item: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "qmd:guide"
+			}
+		}
+	}]
+}

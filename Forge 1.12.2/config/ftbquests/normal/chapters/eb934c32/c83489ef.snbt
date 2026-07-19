@@ -1,0 +1,12 @@
+{
+	title: "Galacticraft",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "circle",
+	size: 2.0d,
+	tasks: [{
+		uid: "421eecf6",
+		type: "checkmark",
+		icon: "astrotweaks:space_badge"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	disable_toast: true,
+	x: -1.5d,
+	y: -2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"39357dc2"
+	],
+	tasks: [{
+		uid: "355cb23d",
+		type: "item",
+		items: [{
+			item: "minecraft:beacon"
+		}]
+	}]
+}

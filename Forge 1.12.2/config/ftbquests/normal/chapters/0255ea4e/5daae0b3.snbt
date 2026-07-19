@@ -1,0 +1,28 @@
+{
+	title: "Ultra-hign voltage (ZPM)",
+	icon: "mets:te 1 34",
+	x: 16.0d,
+	y: 2.0d,
+	description: "Ультравысокое напряжение ZPM",
+	tasks: [{
+		uid: "455f9c7c",
+		type: "item",
+		items: [{
+			item: "mets:te 1 34"
+		}]
+	},
+	{
+		uid: "b798ac51",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_hex 1 334"
+		}]
+	},
+	{
+		uid: "a06df78d",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_hex 1 130"
+		}]
+	}]
+}

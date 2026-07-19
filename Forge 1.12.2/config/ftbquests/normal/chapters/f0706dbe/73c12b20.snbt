@@ -1,0 +1,316 @@
+{
+	title: "Colorful",
+	icon: "ceramics:clay_hard 1 6",
+	x: 4.0d,
+	y: -2.0d,
+	description: "Красочно",
+	tasks: [{
+		uid: "a5992111",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dyeBlack"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeBlack"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "8bafb9b0",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dyeRed"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeRed"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "1f908971",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dyeGreen"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeGreen"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "d4af3093",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dyeBlue"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeBlue"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "ea58162f",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dyePurple"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyePurple"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "d1473cbf",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dyeCyan"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeCyan"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "2f2ebf0d",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dyeLightGray"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeLightGray"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "c10dd04d",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dyeGray"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeGray"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "0ffb7afa",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dyePink"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyePink"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "88642cfc",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dyeLime"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeLime"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "c5b3fbb2",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dyeYellow"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeYellow"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "1765245d",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dyeLightBlue"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeLightBlue"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "1a204bcf",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dyeMagenta"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeMagenta"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "7e7b479e",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dyeOrange"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeOrange"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "426ee6ee",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dyeWhite"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeWhite"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "39945710",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dyeBrown"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeBrown"
+				}
+			}
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "65f05d0d",
+		type: "xp",
+		xp: 100
+	}]
+}

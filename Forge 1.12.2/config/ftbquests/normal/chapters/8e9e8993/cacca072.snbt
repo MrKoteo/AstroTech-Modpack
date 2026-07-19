@@ -1,0 +1,28 @@
+{
+	title: "LCD displays",
+	icon: "openscreens:backflatscreen1",
+	x: 5.0d,
+	y: -4.0d,
+	description: "ЖК дисплеи",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "1819847d",
+		type: "item",
+		items: [{
+			item: "openscreens:backflatscreen1"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "b79e0249",
+		type: "item",
+		items: [{
+			item: "openscreens:frontflatscreen1"
+		}],
+		consume_items: true
+	}]
+}

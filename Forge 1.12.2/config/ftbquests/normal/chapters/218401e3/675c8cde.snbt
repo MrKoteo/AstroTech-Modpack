@@ -1,0 +1,16 @@
+{
+	disable_toast: true,
+	x: 12.5d,
+	y: -1.0d,
+	shape: "hexagon",
+	dependencies: [
+		"5fa4c497"
+	],
+	tasks: [{
+		uid: "389e5ae1",
+		type: "item",
+		items: [{
+			item: "mets:super_iridium_compress_plate"
+		}]
+	}]
+}

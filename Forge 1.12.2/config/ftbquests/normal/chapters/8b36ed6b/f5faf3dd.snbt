@@ -1,0 +1,12 @@
+{
+	disable_toast: true,
+	x: 7.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "adf4abf0",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 23"
+		}]
+	}]
+}

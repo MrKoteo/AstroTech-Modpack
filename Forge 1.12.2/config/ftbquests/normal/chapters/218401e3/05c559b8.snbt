@@ -1,0 +1,16 @@
+{
+	disable_toast: true,
+	x: 16.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"67cadfa0"
+	],
+	tasks: [{
+		uid: "437bc754",
+		type: "item",
+		items: [{
+			item: "mets:super_circuit"
+		}]
+	}]
+}

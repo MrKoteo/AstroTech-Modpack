@@ -1,0 +1,35 @@
+{
+	title: "O gods, have you fallen asleep...",
+	icon: "astrotweaks:philistine_badge",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "circle",
+	description: "О боги, что же вы уснули...",
+	min_required_dependencies: 50,
+	dependencies: [
+		"63da46c8"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "e9a1167a",
+		type: "checkmark",
+		disable_toast: true
+	}],
+	rewards: [{
+		uid: "1cd83611",
+		type: "xp",
+		xp: 50
+	},
+	{
+		uid: "74356f11",
+		type: "item",
+		item: "astrotweaks:survivalist_badge"
+	},
+	{
+		uid: "ff349094",
+		type: "gamestage",
+		team_reward: true,
+		auto: "no_toast",
+		stage: "medieval"
+	}]
+}

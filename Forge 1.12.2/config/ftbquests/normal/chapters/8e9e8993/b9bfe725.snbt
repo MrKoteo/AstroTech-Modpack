@@ -1,0 +1,21 @@
+{
+	title: "Quantum Mechanics",
+	icon: "astrotweaks:quantum_bagde",
+	disable_toast: true,
+	x: 7.0d,
+	y: 2.0d,
+	description: "Квантовая механика",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "57e7bcc0",
+		type: "item",
+		items: [{
+			item: "astrotweaks:quantum_bagde"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

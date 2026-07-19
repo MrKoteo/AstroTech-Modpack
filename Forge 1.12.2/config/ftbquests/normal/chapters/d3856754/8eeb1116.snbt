@@ -1,0 +1,24 @@
+{
+	icon: {
+		id: "patchouli:guide_book",
+		tag: {
+			"patchouli:book": "patchoulibooks:patchoulibooks"
+		}
+	},
+	x: 8.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "1a43f707",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "a1d59be1",
+		type: "item",
+		item: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "patchoulibooks:patchoulibooks"
+			}
+		}
+	}]
+}

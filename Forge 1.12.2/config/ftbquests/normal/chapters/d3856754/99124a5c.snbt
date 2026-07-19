@@ -1,0 +1,27 @@
+{
+	title: "Alchemistry",
+	icon: {
+		id: "patchouli:guide_book",
+		tag: {
+			"patchouli:book": "alchemistry:alchemistry_book"
+		}
+	},
+	disable_toast: true,
+	x: 3.5d,
+	y: 2.0d,
+	shape: "octagon",
+	tasks: [{
+		uid: "34db7e29",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "f9fe9740",
+		type: "item",
+		item: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "alchemistry:alchemistry_book"
+			}
+		}
+	}]
+}

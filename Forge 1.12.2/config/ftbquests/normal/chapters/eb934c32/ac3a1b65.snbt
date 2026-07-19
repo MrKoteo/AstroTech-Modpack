@@ -1,0 +1,25 @@
+{
+	x: 11.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "66f3602b",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine_tiered"
+		}]
+	},
+	{
+		uid: "1aabc9b0",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine_tiered 1 8"
+		}]
+	},
+	{
+		uid: "e9030e5e",
+		type: "item",
+		items: [{
+			item: "galaxyspace:modern_storage_module"
+		}]
+	}]
+}

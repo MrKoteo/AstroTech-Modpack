@@ -1,0 +1,17 @@
+{
+	title: "Buildcraft",
+	icon: "buildcraftlib:guide",
+	disable_toast: true,
+	x: 3.5d,
+	y: -1.0d,
+	shape: "octagon",
+	tasks: [{
+		uid: "82a0b8b2",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "0fdb0fac",
+		type: "item",
+		item: "buildcraftlib:guide"
+	}]
+}

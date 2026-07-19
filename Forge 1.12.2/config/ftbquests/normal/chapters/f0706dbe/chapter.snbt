@@ -1,0 +1,7 @@
+{
+	title: "Adventures",
+	icon: "cfm:fire_pit_on",
+	always_invisible: false,
+	group: 1280900838,
+	default_quest_shape: ""
+}

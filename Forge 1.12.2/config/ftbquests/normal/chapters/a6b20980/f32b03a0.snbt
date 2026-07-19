@@ -1,0 +1,29 @@
+{
+	title: "Geoexploration",
+	icon: {
+		id: "gregtech:meta_item_1",
+		Damage: 466s,
+		tag: {
+			Charge: 100000L
+		}
+	},
+	x: 17.0d,
+	y: 4.0d,
+	description: "Георазведка",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	tasks: [{
+		uid: "09c704d4",
+		type: "item",
+		items: [{
+			id: "gregtech:meta_item_1",
+			Damage: 466s,
+			tag: {
+				Charge: 100000L
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

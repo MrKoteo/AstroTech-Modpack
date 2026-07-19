@@ -1,0 +1,20 @@
+{
+	disable_toast: true,
+	x: 18.5d,
+	y: -1.0d,
+	shape: "hexagon",
+	dependencies: [
+		"e956798f"
+	],
+	tasks: [{
+		uid: "e7173a77",
+		type: "item",
+		items: [{
+			id: "mets:te",
+			Damage: 2s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

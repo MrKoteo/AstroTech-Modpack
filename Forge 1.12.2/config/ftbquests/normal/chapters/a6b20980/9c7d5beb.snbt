@@ -1,0 +1,38 @@
+{
+	title: "High Voltage (HV)",
+	icon: {
+		id: "ic2:cable",
+		Damage: 2s,
+		tag: {
+			type: 2b,
+			insulation: 2b
+		}
+	},
+	x: 9.0d,
+	y: 0.0d,
+	description: "Высокое напряжение HV",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "2141170a",
+		type: "item",
+		items: [{
+			id: "ic2:cable",
+			Damage: 2s,
+			tag: {
+				type: 2b,
+				insulation: 2b
+			}
+		}]
+	},
+	{
+		uid: "fe38dadc",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 78"
+		}]
+	}]
+}

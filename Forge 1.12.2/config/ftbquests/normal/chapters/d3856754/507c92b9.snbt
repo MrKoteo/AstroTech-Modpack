@@ -1,0 +1,27 @@
+{
+	title: "Galactic Research",
+	icon: {
+		id: "patchouli:guide_book",
+		tag: {
+			"patchouli:book": "galacticresearch:galacticresearch_guide"
+		}
+	},
+	disable_toast: true,
+	x: 2.0d,
+	y: 2.0d,
+	shape: "octagon",
+	tasks: [{
+		uid: "ecb0e233",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "6867fc88",
+		type: "item",
+		item: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "galacticresearch:galacticresearch_guide"
+			}
+		}
+	}]
+}

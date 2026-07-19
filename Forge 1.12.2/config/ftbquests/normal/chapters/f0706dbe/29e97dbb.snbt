@@ -1,0 +1,50 @@
+{
+	title: "Меховая одежда",
+	icon: {
+		id: "mocreatures:furhelmet",
+		tag: {}
+	},
+	x: -1.0d,
+	y: -3.0d,
+	description: "Fur clothing",
+	tasks: [{
+		uid: "21ca3ddb",
+		type: "item",
+		items: [{
+			id: "mocreatures:furhelmet",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "18a90a0f",
+		type: "item",
+		items: [{
+			id: "mocreatures:furchest",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "43a65ec5",
+		type: "item",
+		items: [{
+			id: "mocreatures:furlegs",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9191a742",
+		type: "item",
+		items: [{
+			id: "mocreatures:furboots",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	title: "Info Age",
+	icon: {
+		id: "gravisuite:advancedjetpack",
+		tag: {
+			charge: 3000000.0d
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,16 @@
+{
+	title: "State Symbols",
+	icon: "minecraft:banner 1 11",
+	x: 17.0d,
+	y: -6.0d,
+	description: "Символика",
+	tasks: [{
+		uid: "7fe6eef5",
+		type: "item",
+		items: [{
+			item: "minecraft:banner 1 11"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

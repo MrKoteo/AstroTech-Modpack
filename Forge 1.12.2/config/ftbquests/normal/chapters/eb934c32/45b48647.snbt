@@ -1,0 +1,12 @@
+{
+	x: 11.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "1320c21a",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:rocket_t1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

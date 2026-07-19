@@ -1,0 +1,174 @@
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 15.0.1
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Users\Koteo\AppData\Roaming\.minecraft\$LegacyLauncher\game\home\Forge 1.12.2\CustomSkinLoader
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 10 (amd64) version 10.0
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: Java Version: 25.0.3, Azul Systems, Inc.
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Azul Systems, Inc.
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.12.2
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: Config File: C:\Users\Koteo\AppData\Roaming\.minecraft\$LegacyLauncher\game\home\Forge 1.12.2\CustomSkinLoader\CustomSkinLoader.json
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: Try to load config.
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: Successfully load config.
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GameProfile
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPIPlus
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: version : 15.0.1
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: buildNumber : 40
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "GameProfile", "type": "GameProfile" }, { "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "ElyByAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: enableCape : true
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : true
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : true
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2026-07-19 12:31:31] [Client thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
+[2026-07-19 12:31:31] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: Loading L1syoN0k's profile.
+[2026-07-19 12:31:31] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'GameProfile'.
+[2026-07-19 12:31:31] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'Mojang'.
+[2026-07-19 12:31:31] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'LittleSkin'.
+[2026-07-19 12:31:31] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'BlessingSkin'.
+[2026-07-19 12:31:31] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'ElyBy'.
+[2026-07-19 12:31:31] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'SkinMe'.
+[2026-07-19 12:31:31] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'TLauncher'.
+[2026-07-19 12:31:31] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'GlitchlessGames'.
+[2026-07-19 12:31:31] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'LocalSkin'.
+[2026-07-19 12:31:31] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'MinecraftCapes'.
+[2026-07-19 12:31:31] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'OptiFine'.
+[2026-07-19 12:31:31] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'Wynntils'.
+[2026-07-19 12:31:31] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'CloakPlus'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (GameProfile)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-07-19 12:31:31] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/L1syoN0k.json'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Mojang)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/L1syoN0k.json'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/L1syoN0k'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/L1syoN0k'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (SkinMe)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/L1syoN0k.json'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Mojang)/INFO] [CustomSkinLoader Core]: Payload: ["L1syoN0k"]
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=L1syoN0k'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/L1syoN0k.png'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/L1syoN0k.png'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: Cached profile will be used.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/WARNING] [CustomSkinLoader Core]: (Cached Profile is empty!) Expiry: 0
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: Loading L1syoN0k's profile.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'GameProfile'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'Mojang'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'LittleSkin'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'BlessingSkin'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'ElyBy'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'SkinMe'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'TLauncher'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'GlitchlessGames'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'LocalSkin'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'MinecraftCapes'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'OptiFine'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'Wynntils'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'CloakPlus'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (GameProfile)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/L1syoN0k.json'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/L1syoN0k.json'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/L1syoN0k'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (SkinMe)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/L1syoN0k.json'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/L1syoN0k'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=L1syoN0k'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/L1syoN0k.png'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/L1syoN0k.png'.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (SkinMe)/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/L1syoN0k.json (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (SkinMe)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (SkinMe)/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/L1syoN0k.json (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2026-07-19 12:31:31] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (SkinMe)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-07-19 12:31:32] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-07-19 12:31:32] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (GlitchlessGames)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-07-19 12:31:32] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-07-19 12:31:32] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (GlitchlessGames)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-07-19 12:31:32] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-07-19 12:31:32] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-07-19 12:31:32] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 113 , Path: 'C:\Users\Koteo\AppData\Roaming\.minecraft\$LegacyLauncher\game\home\Forge 1.12.2\CustomSkinLoader\caches\6ad0556cf019d72afcee9ecb7a675cef7edaade8' , Expire: 1784439186)
+[2026-07-19 12:31:32] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_l1syon0k.png","metadata":{"model":"slim"}}}
+[2026-07-19 12:31:32] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 113 , Path: 'C:\Users\Koteo\AppData\Roaming\.minecraft\$LegacyLauncher\game\home\Forge 1.12.2\CustomSkinLoader\caches\6ad0556cf019d72afcee9ecb7a675cef7edaade8' , Expire: 1784439186)
+[2026-07-19 12:31:32] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_l1syon0k.png","metadata":{"model":"slim"}}}
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (OptiFine)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (OptiFine)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 2)
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\Koteo\AppData\Roaming\.minecraft\$LegacyLauncher\game\home\Forge 1.12.2\CustomSkinLoader\caches\9d60cee1f462e12c11515040b7643ef2e7975378' , Expire: 1784439185)
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (LittleSkin)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Mojang)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Mojang)/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Mojang)/INFO] [CustomSkinLoader Core]: Profile not found.(L1syoN0k's profile not found.)
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (BlessingSkin)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (BlessingSkin)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Payload: ["L1syoN0k"]
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Profile url not found.
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Wynntils)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Wynntils)/INFO] [CustomSkinLoader Core]: Payload: ["L1syoN0k"]
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Wynntils)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Wynntils)/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Mojang)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Wynntils)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-07-19 12:31:33] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Mojang)/INFO] [CustomSkinLoader Core]: Payload: ["L1syoN0k"]
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Mojang)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Mojang)/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Mojang)/INFO] [CustomSkinLoader Core]: Profile not found.(L1syoN0k's profile not found.)
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Wynntils)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Wynntils)/INFO] [CustomSkinLoader Core]: Payload: ["L1syoN0k"]
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Wynntils)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Wynntils)/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Wynntils)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Cosmetica)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Cosmetica)/INFO] [CustomSkinLoader Core]: Payload: ["L1syoN0k"]
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Cosmetica)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Cosmetica)/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Cosmetica)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Payload: ["L1syoN0k"]
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Profile url not found.
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Cosmetica)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Cosmetica)/INFO] [CustomSkinLoader Core]: Payload: ["L1syoN0k"]
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Cosmetica)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Cosmetica)/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-07-19 12:31:34] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (Cosmetica)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-07-19 12:31:35] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Failed to request http://161.35.130.99/capes/L1syoN0k.png (Exception: java.net.SocketException: Connection reset)
+[2026-07-19 12:31:35] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (CloakPlus)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-07-19 12:31:35] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 502)
+[2026-07-19 12:31:35] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (CloakPlus)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-07-19 12:31:41] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Failed to request https://littleskin.cn/csl/L1syoN0k.json (Exception: java.net.SocketTimeoutException: Connect timed out)
+[2026-07-19 12:31:41] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Failed to request http://skinsystem.ely.by/textures/L1syoN0k (Exception: java.net.SocketTimeoutException: Connect timed out)
+[2026-07-19 12:31:41] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Failed to request http://skinsystem.ely.by/textures/L1syoN0k (Exception: java.net.SocketTimeoutException: Connect timed out)
+[2026-07-19 12:31:41] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 2 , Path: 'C:\Users\Koteo\AppData\Roaming\.minecraft\$LegacyLauncher\game\home\Forge 1.12.2\CustomSkinLoader\caches\9d60cee1f462e12c11515040b7643ef2e7975378' , Expire: 0)
+[2026-07-19 12:31:41] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (LittleSkin)/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\Koteo\AppData\Roaming\.minecraft\$LegacyLauncher\game\home\Forge 1.12.2\CustomSkinLoader\caches\9d60cee1f462e12c11515040b7643ef2e7975378'.
+[2026-07-19 12:31:41] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2026-07-19 12:31:41] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-07-19 12:31:41] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (LittleSkin)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-07-19 12:31:41] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 111 , Path: 'C:\Users\Koteo\AppData\Roaming\.minecraft\$LegacyLauncher\game\home\Forge 1.12.2\CustomSkinLoader\caches\9c750d272f93d3d5e47ce0c2e86512da2ca3d0e4' , Expire: 0)
+[2026-07-19 12:31:41] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (ElyBy)/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\Koteo\AppData\Roaming\.minecraft\$LegacyLauncher\game\home\Forge 1.12.2\CustomSkinLoader\caches\9c750d272f93d3d5e47ce0c2e86512da2ca3d0e4'.
+[2026-07-19 12:31:41] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 111 , Path: 'C:\Users\Koteo\AppData\Roaming\.minecraft\$LegacyLauncher\game\home\Forge 1.12.2\CustomSkinLoader\caches\9c750d272f93d3d5e47ce0c2e86512da2ca3d0e4' , Expire: 0)
+[2026-07-19 12:31:41] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (ElyBy)/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\Koteo\AppData\Roaming\.minecraft\$LegacyLauncher\game\home\Forge 1.12.2\CustomSkinLoader\caches\9c750d272f93d3d5e47ce0c2e86512da2ca3d0e4'.
+[2026-07-19 12:31:43] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2026-07-19 12:31:43] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://ely.by/storage/skins/7c1ae07649e0dbb29de64c1c2d907ba3.png","metadata":{"model":"slim"}}}
+[2026-07-19 12:31:43] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: L1syoN0k's profile loaded. (12065ms)
+[2026-07-19 12:31:43] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2026-07-19 12:31:43] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://ely.by/storage/skins/7c1ae07649e0dbb29de64c1c2d907ba3.png","metadata":{"model":"slim"}}}
+[2026-07-19 12:31:43] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: L1syoN0k's profile loaded. (11995ms)
+[2026-07-19 12:31:43] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: Successfully save LocalProfile.
+[2026-07-19 12:31:43] [L1syoN0k's skull/INFO] [CustomSkinLoader Core]: (SkinUrl: http://ely.by/storage/skins/7c1ae07649e0dbb29de64c1c2d907ba3.png , Model: slim , CapeUrl: null  , Expiry: 1784439133)
+[2026-07-19 12:31:43] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: Successfully save LocalProfile.
+[2026-07-19 12:31:43] [L1syoN0k <238977eb-50b3-3ebc-a518-58febafa8405>/INFO] [CustomSkinLoader Core]: (SkinUrl: http://ely.by/storage/skins/7c1ae07649e0dbb29de64c1c2d907ba3.png , Model: slim , CapeUrl: null  , Expiry: 1784439133)

@@ -1,0 +1,18 @@
+{
+	title: "Adventures",
+	icon: "minecraft:double_plant 1 5",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "circle",
+	description: "Приключения",
+	size: 2.0d,
+	tasks: [{
+		uid: "fda20997",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "13c17189",
+		type: "item",
+		item: "minecraft:apple"
+	}]
+}

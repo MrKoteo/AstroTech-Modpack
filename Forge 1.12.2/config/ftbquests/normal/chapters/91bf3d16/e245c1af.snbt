@@ -1,0 +1,19 @@
+{
+	title: "Simple bombs",
+	icon: "astrotweaks:fexplosive",
+	x: 11.0d,
+	y: -2.0d,
+	description: "Простейшие бомбы",
+	hide_dependency_lines: true,
+	dependencies: [
+		"4c2f63f2"
+	],
+	tasks: [{
+		uid: "bc92521a",
+		type: "item",
+		items: [{
+			item: "astrotweaks:fexplosive"
+		}],
+		consume_items: true
+	}]
+}

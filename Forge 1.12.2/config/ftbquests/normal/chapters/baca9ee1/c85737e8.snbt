@@ -1,0 +1,32 @@
+{
+	title: "Matter voiding",
+	icon: "astrotweaks:u_destroyer_item",
+	x: 12.5d,
+	y: 2.0d,
+	description: "Удаление материи",
+	hide_dependency_lines: true,
+	dependencies: [
+		"27c4d762"
+	],
+	tasks: [{
+		uid: "0ef4dfab",
+		type: "item",
+		items: [{
+			item: "astrotweaks:u_destroyer_item"
+		}]
+	},
+	{
+		uid: "5436eb1e",
+		type: "item",
+		items: [{
+			item: "astrotweaks:u_destroyer_block"
+		}]
+	},
+	{
+		uid: "75868a5f",
+		type: "item",
+		items: [{
+			item: "astrotweaks:u_killer_block"
+		}]
+	}]
+}

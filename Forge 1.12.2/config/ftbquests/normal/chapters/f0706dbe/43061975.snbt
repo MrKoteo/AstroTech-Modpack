@@ -1,0 +1,50 @@
+{
+	title: "Броня из чешуи",
+	icon: {
+		id: "mocreatures:reptilehelmet",
+		tag: {}
+	},
+	x: -1.0d,
+	y: -2.0d,
+	description: "Armor of scales",
+	tasks: [{
+		uid: "8a93faa0",
+		type: "item",
+		items: [{
+			id: "mocreatures:reptilehelmet",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e40e5ddb",
+		type: "item",
+		items: [{
+			id: "mocreatures:reptileplate",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "66b349a1",
+		type: "item",
+		items: [{
+			id: "mocreatures:reptilelegs",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "da8fc664",
+		type: "item",
+		items: [{
+			id: "mocreatures:reptileboots",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

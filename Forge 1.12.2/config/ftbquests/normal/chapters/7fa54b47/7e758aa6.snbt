@@ -1,0 +1,13 @@
+{
+	title: "Join our community on Discord!",
+	icon: "astrotweaks:philistine_badge",
+	x: 3.0d,
+	y: 0.0d,
+	shape: "octagon",
+	description: "Присоединяйся к нашему комьюнити в Discord!",
+	size: 2.0d,
+	tasks: [{
+		uid: "462e1813",
+		type: "checkmark"
+	}]
+}

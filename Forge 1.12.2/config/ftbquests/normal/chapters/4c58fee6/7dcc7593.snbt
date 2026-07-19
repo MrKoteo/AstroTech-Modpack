@@ -1,0 +1,87 @@
+{
+	title: "Stone Processing",
+	icon: "minecraft:stonebrick",
+	x: 11.0d,
+	y: 0.0d,
+	description: "Обработка камня",
+	tasks: [{
+		uid: "dc56f7b1",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any stone"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "stone"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "1f5f3530",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any stoneGranitePolished"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "stoneGranitePolished"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "ac1dbe9e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any stoneDioritePolished"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "stoneDioritePolished"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "1af1282b",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any stoneAndesitePolished"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "stoneAndesitePolished"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

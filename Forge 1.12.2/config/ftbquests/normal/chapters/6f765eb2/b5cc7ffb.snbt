@@ -1,0 +1,12 @@
+{
+	x: 0.5d,
+	y: 0.5d,
+	shape: "circle",
+	size: 2.0d,
+	tasks: [{
+		uid: "caf6da39",
+		type: "checkmark",
+		title: "WireTechs",
+		icon: "astrotweaks:advanced_wireless_module"
+	}]
+}

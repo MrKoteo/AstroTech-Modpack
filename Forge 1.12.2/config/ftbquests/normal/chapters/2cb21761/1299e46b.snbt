@@ -1,0 +1,18 @@
+{
+	title: "Rubber",
+	icon: "ic2:crafting",
+	x: 7.0d,
+	y: 0.0d,
+	description: "Резина",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "3b8d30d5",
+		type: "item",
+		items: [{
+			item: "ic2:crafting"
+		}]
+	}]
+}

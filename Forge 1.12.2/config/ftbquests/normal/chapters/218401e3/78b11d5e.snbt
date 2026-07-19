@@ -1,0 +1,13 @@
+{
+	disable_toast: true,
+	x: 18.5d,
+	y: 5.5d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "914f9fbe",
+		type: "item",
+		items: [{
+			item: "mets:te 1 22"
+		}]
+	}]
+}

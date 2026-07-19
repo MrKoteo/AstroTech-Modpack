@@ -1,0 +1,29 @@
+{
+	title: "Cooking",
+	icon: "minecraft:cooked_beef",
+	x: 5.0d,
+	y: 2.0d,
+	description: "Кулинария",
+	tasks: [{
+		uid: "387b0148",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any listAllmeatcooked"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "listAllmeatcooked"
+				}
+			}
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	title: "Terraforming",
+	icon: "minecraft:grass",
+	x: 16.0d,
+	y: -4.0d,
+	description: "Терраформирование",
+	tasks: [{
+		uid: "497a49e4",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:mars_machine"
+		}]
+	}]
+}

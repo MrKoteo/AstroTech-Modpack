@@ -1,0 +1,14 @@
+{
+	title: "Ion engines",
+	icon: "galaxyspace:rocket_modules 1 4",
+	x: 20.0d,
+	y: -2.0d,
+	description: "Ионные двигатели",
+	tasks: [{
+		uid: "3942af12",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_modules 1 4"
+		}]
+	}]
+}

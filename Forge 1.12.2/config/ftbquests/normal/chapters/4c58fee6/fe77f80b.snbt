@@ -1,0 +1,17 @@
+{
+	title: "writing system",
+	icon: "minecraft:writable_book",
+	x: 11.0d,
+	y: -4.0d,
+	description: "Письменность",
+	tasks: [{
+		uid: "0f3a6ad9",
+		type: "item",
+		items: [{
+			item: "minecraft:writable_book"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

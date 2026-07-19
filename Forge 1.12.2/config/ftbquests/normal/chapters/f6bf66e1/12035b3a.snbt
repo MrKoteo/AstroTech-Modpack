@@ -1,0 +1,13 @@
+{
+	disable_toast: true,
+	x: 8.5d,
+	y: -1.5d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "d9c1b9a9",
+		type: "item",
+		items: [{
+			item: "avaritia:block_resource 1 2"
+		}]
+	}]
+}

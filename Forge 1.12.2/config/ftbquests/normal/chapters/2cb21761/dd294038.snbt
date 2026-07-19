@@ -1,0 +1,28 @@
+{
+	title: "Advanced Storage Systems",
+	icon: {
+		id: "storagedrawers:basicdrawers",
+		Damage: 2s,
+		tag: {
+			material: "oak"
+		}
+	},
+	x: 13.0d,
+	y: -2.0d,
+	description: "Продвинутые системы хранения",
+	hide_dependency_lines: true,
+	dependencies: [
+		"cdf645aa"
+	],
+	tasks: [{
+		uid: "4fef3797",
+		type: "item",
+		items: [{
+			id: "storagedrawers:basicdrawers",
+			Damage: 2s,
+			tag: {
+				material: "oak"
+			}
+		}]
+	}]
+}

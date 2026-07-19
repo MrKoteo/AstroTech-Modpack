@@ -1,0 +1,55 @@
+{
+	title: "Heavy Spacesuits",
+	icon: {
+		id: "galaxyspace:space_suit_head",
+		Damage: 200s,
+		tag: {}
+	},
+	x: 8.0d,
+	y: -2.0d,
+	description: "Тяжёлые скафандры",
+	tasks: [{
+		uid: "a8e130b2",
+		type: "item",
+		items: [{
+			id: "galaxyspace:space_suit_head",
+			Damage: 200s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b2f09b0f",
+		type: "item",
+		items: [{
+			id: "galaxyspace:space_suit_chest",
+			Damage: 200s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a04e7ce7",
+		type: "item",
+		items: [{
+			id: "galaxyspace:space_suit_legs",
+			Damage: 200s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "496843c9",
+		type: "item",
+		items: [{
+			id: "galaxyspace:space_suit_feet",
+			Damage: 200s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

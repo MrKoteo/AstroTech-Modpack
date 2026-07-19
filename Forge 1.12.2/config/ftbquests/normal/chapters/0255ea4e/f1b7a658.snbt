@@ -1,0 +1,14 @@
+{
+	title: "Experimental Subspace Navigation",
+	icon: "astrotweaks:subspace_ico",
+	x: 29.5d,
+	y: -2.0d,
+	description: "Экспериментальная подпространственная навигация",
+	tasks: [{
+		uid: "c0476a12",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_modules 1 7"
+		}]
+	}]
+}

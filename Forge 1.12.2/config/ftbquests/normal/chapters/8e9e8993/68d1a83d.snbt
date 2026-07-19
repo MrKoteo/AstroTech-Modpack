@@ -1,0 +1,18 @@
+{
+	title: "Holograms",
+	icon: "openscreens:holoscreen1",
+	x: 21.0d,
+	y: 2.0d,
+	description: "Голограммы",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "ebe2b636",
+		type: "item",
+		items: [{
+			item: "openscreens:holoscreen1"
+		}]
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "Battery backpacks",
+	icon: {
+		id: "ic2:advanced_batpack",
+		tag: {
+			charge: 600000.0d
+		}
+	},
+	x: 21.0d,
+	y: 2.0d,
+	description: "Аккумуляторные ранцы",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	tasks: [{
+		uid: "9c36ddc3",
+		type: "item",
+		items: [{
+			id: "ic2:advanced_batpack",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

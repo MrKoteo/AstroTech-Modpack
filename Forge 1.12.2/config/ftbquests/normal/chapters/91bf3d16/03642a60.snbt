@@ -1,0 +1,26 @@
+{
+	title: "Diamond Processing",
+	icon: "minecraft:diamond",
+	x: 3.0d,
+	y: 2.0d,
+	description: "Обработка бриллиантов",
+	dependencies: [
+		"4c2f63f2"
+	],
+	tasks: [{
+		uid: "e0c85d35",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "4198ea13",
+		type: "item",
+		items: [{
+			item: "minecraft:emerald"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	disable_toast: true,
+	x: 12.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "c3eaddcc",
+		type: "item",
+		items: [{
+			item: "mets:te 1 42"
+		}]
+	}]
+}

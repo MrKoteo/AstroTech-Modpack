@@ -1,0 +1,21 @@
+{
+	disable_toast: true,
+	x: 10.0d,
+	y: 2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"b2a9b39d"
+	],
+	tasks: [{
+		uid: "da91e0fc",
+		type: "item",
+		items: [{
+			id: "mets:electric_submachine_gun",
+			tag: {
+				charge: 50000.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

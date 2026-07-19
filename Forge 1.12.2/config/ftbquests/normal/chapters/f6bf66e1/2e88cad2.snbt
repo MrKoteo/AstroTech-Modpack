@@ -1,0 +1,13 @@
+{
+	disable_toast: true,
+	x: 3.5d,
+	y: -3.5d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "005e185e",
+		type: "item",
+		items: [{
+			item: "denseneutroncollectors:double_compressed_neutron_collector"
+		}]
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	disable_toast: true,
+	x: 2.0d,
+	y: 2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"83abae86"
+	],
+	tasks: [{
+		uid: "6f3dac43",
+		type: "item",
+		items: [{
+			id: "comboarmors:nano_bow",
+			Damage: 27s,
+			tag: {
+				transferLimit: 128.0d,
+				tier: 2,
+				loaded: 1b,
+				maxCharge: 40000.0d
+			},
+			Count: 1b
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

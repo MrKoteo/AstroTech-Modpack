@@ -1,0 +1,27 @@
+{
+	title: "Advanced Jetpacks",
+	icon: {
+		id: "gravisuite:advancedjetpack",
+		tag: {
+			charge: 3000000.0d
+		}
+	},
+	x: 17.0d,
+	y: -4.0d,
+	description: "Улучшенные реактивные ранцы",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "2f52d1c6",
+		type: "item",
+		items: [{
+			id: "gravisuite:advancedjetpack",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

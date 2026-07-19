@@ -1,0 +1,17 @@
+{
+	disable_toast: true,
+	x: 0.0d,
+	y: 0.0d,
+	shape: "circle",
+	size: 2.0d,
+	tasks: [{
+		uid: "80e39eec",
+		type: "checkmark",
+		disable_toast: true
+	}],
+	rewards: [{
+		uid: "bd9246a7",
+		type: "item",
+		item: "ftbquests:book"
+	}]
+}

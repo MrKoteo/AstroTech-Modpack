@@ -1,0 +1,33 @@
+{
+	title: "Improved SP | Lvl: 2",
+	icon: "advanced_solar_panels:machines 1 2",
+	x: 17.0d,
+	y: -2.0d,
+	description: "Улучшенные солнечные панели",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "d394d937",
+		type: "item",
+		items: [{
+			item: "advanced_solar_panels:machines 1 2"
+		}]
+	},
+	{
+		uid: "c094bc11",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:solar_panel_du"
+		}]
+	},
+	{
+		uid: "acb7af8e",
+		type: "item",
+		items: [{
+			item: "wirelesstools:witiles 1 1"
+		}]
+	}]
+}

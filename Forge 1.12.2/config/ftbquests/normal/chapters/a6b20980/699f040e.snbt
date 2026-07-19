@@ -1,0 +1,20 @@
+{
+	title: "Computers",
+	icon: "energycontrol:portable_panel",
+	x: 15.0d,
+	y: 0.0d,
+	description: "Компьютеры",
+	hide_dependency_lines: true,
+	dependencies: [
+		"df3cd5ec"
+	],
+	tasks: [{
+		uid: "fe007eee",
+		type: "item",
+		items: [{
+			item: "energycontrol:portable_panel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

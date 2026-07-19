@@ -1,0 +1,55 @@
+{
+	title: "Light spacesuits",
+	icon: {
+		id: "galaxyspace:space_suit_light_head",
+		Damage: 200s,
+		tag: {}
+	},
+	x: 10.0d,
+	y: -2.0d,
+	description: "Лёгкие скафандры",
+	tasks: [{
+		uid: "7f8d8eb4",
+		type: "item",
+		items: [{
+			id: "galaxyspace:space_suit_light_head",
+			Damage: 200s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5d3b4dd4",
+		type: "item",
+		items: [{
+			id: "galaxyspace:space_suit_light_chest",
+			Damage: 200s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "47a61994",
+		type: "item",
+		items: [{
+			id: "galaxyspace:space_suit_light_legs",
+			Damage: 200s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "669c31bc",
+		type: "item",
+		items: [{
+			id: "galaxyspace:space_suit_light_feet",
+			Damage: 200s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

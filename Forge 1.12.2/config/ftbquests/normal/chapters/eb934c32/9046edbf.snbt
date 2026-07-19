@@ -1,0 +1,12 @@
+{
+	x: 14.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "beb28288",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:rocket_t2"
+		}],
+		ignore_nbt: 1b
+	}]
+}

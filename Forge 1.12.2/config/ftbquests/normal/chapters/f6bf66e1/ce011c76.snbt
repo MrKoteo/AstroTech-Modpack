@@ -1,0 +1,13 @@
+{
+	disable_toast: true,
+	x: 3.5d,
+	y: 5.0d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "d6569d56",
+		type: "item",
+		items: [{
+			item: "astrotweaks:unstable_void_core"
+		}]
+	}]
+}

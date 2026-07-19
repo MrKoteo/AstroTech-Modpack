@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"d03c92b7"
+	],
+	tasks: [{
+		uid: "b0ea4375",
+		type: "item",
+		items: [{
+			id: "mets:electric_rocket_launcher",
+			Damage: 12344s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
