@@ -1,7 +1,7 @@
 # AstroTech-Modpack
 
-DEV version:     Alpha-14.3
-Released ver:    Alpha-14.2
+DEV version:     Alpha-14.3  
+Released ver:    Alpha-14.2  
 
 This is a repository for the technical aspects of the modpack. All releases are published on CurseForge.
 
