@@ -4,7 +4,6 @@
 
 OptiFine - Может работать в среде, но сильно понижает производительность и может вызывать неожиданные баги.
 
-Tinker's - Указан как несовместимый* для CensoredASM
 FoamFix, VanillaFix, TexFix - Поддерживаются модами CensoredASM и VintageFix
 NoToast, DupeFix, TidyChunk, Surge - Поддерживаются модом UniversalTweaks
 
@@ -19,7 +18,6 @@ Redirectionor - вызывает баги текстур/моделей и пр�
 
 "OptiFine" - May work in the environment, but significantly reduces performance and may cause unexpected bugs.
 
-"Tinker's" - Listed as incompatible* for "CensoredASM"
 "FoamFix, VanillaFix, TexFix" - Supported by "CensoredASM" and "VintageFix"
 "NoToast, DupeFix, TidyChunk, Surge" - Supported by "UniversalTweaks"
 
